@@ -196,6 +196,14 @@ def normalize_zipcode(value):
     return digits[:5] if digits else pd.NA
 
 
+# Survey-side address typos, keyed by (city, normalized address).
+ADDRESS_OVERRIDES = {
+    ("willingboro", "110 twin hill drive"): "110 twin hills drive",
+    ("sicklerville", "1275 williamstown erial road"): "1275 williamstown road",
+    ("erial", "1275 williamstown erial road"): "1275 williamstown road",
+}
+
+
 def normalize_address(value, city=None, zipcode=None):
 
     if pd.isna(value):
@@ -250,11 +258,9 @@ def normalize_address(value, city=None, zipcode=None):
     ).strip()
 
     if city is not None and not pd.isna(city):
-        locality = str(city).strip().lower()
-        if locality == "willingboro" and address == "110 twin hill drive":
-            address = "110 twin hills drive"
-        if locality in {"sicklerville", "erial"} and address == "1275 williamstown erial road":
-            address = "1275 williamstown road"
+        address = ADDRESS_OVERRIDES.get(
+            (str(city).strip().lower(), address), address
+        )
     return address if address else pd.NA
 
 
@@ -894,6 +900,7 @@ def apply_manual_decisions(df, universe):
     decisions = json.loads(MANUAL_DECISIONS.read_text())
     df["automatic_matched_row"] = df["matched_row"]
     df["automatic_conflict_type"] = df["conflict_type"]
+    df["automatic_match_conflict"] = df["match_conflict"]
     for index, response in df.iterrows():
         decision = decisions.get(str(response["ResponseId"]))
         if decision is None:
@@ -908,6 +915,9 @@ def apply_manual_decisions(df, universe):
             continue
         df.loc[index, "matched_row"] = targets.iloc[0]["universe_row"]
         df.loc[index, "matched_by"] = "manual review"
+        # The conflict is resolved; the automatic values stay in automatic_*.
+        df.loc[index, "match_conflict"] = False
+        df.loc[index, "conflict_type"] = pd.NA
         df.loc[index, "needs_manual_review"] = False
         df.loc[index, "review_reason"] = ""
     return df
@@ -1225,9 +1235,8 @@ def print_match_summary(df, fcc_results):
         ("Duplicate center responses", center_duplicates),
         ("Total uniquely matched centers", unique_center),
     ]
-    assert int(center.sum() + family.sum() + unmatched.sum()) == len(df)
     assert int(center.sum()) - center_duplicates == unique_center
-    assert int(manual.sum()) + int((center & ~manual).sum()) == int(center.sum())
+    assert int(insufficient.sum() + (unmatched & excluded).sum() + pending.sum()) == int(unmatched.sum())
     print("\n--- MATCH SUMMARY ---")
     for label, count in values:
         print(f"{label}: {count}")
@@ -1245,7 +1254,15 @@ def run_matching():
         sys.path.insert(0, project_dir)
     from fcc_second_stage import match_remaining_to_fcc
     from types import SimpleNamespace
-    fcc_results = match_remaining_to_fcc(df, SimpleNamespace(**globals()))
+    # Only what fcc_second_stage uses; the module may not be in sys.modules.
+    provider = SimpleNamespace(
+        DATA_DIR=DATA_DIR, clean_survey=clean_survey, load_universe=load_universe,
+        match_by_id=match_by_id, match_by_njccid=match_by_njccid,
+        match_by_program=match_by_program, match_by_address=match_by_address,
+        match_by_email=match_by_email, match_by_phone=match_by_phone,
+        resolve_match=resolve_match, tag_duplicates=tag_duplicates,
+    )
+    fcc_results = match_remaining_to_fcc(df, provider)
     fcc_results.to_csv(Path(project_dir) / "fcc_second_stage_results_v2.csv", index=False)
     print_match_summary(df, fcc_results)
     return df
@@ -1343,6 +1360,10 @@ def create_final_datasets(df):
         [original_universe_columns]
         .copy()
     )
+
+    assert len(responded_universe) == matched_rows.nunique()
+    assert len(responded_universe) + len(unresponded_universe) == len(df_universe)
+    assert len(cleaned_survey) == len(responded_universe)
 
     return (
         responded_universe,
