@@ -1,0 +1,102 @@
+ResponseId,program,review_status,manual_row,pilot_row,pilot_candidates,agrees_with_manual_approval,requires_further_review
+R_3wFjuWr909KrUdV,woodstown/pilesgrove sacc,approved,1378.0,,[],False,False
+R_1P5cAPTmAQKfAS2,eden's garden,no supported universe match,,,[],False,False
+R_3pnxfMR7JniJBk6,children's campus,approved,1247.0,1247.0,"[(1247, 'compatible name + normalized physical address + exact contact + locality')]",True,False
+R_6PRlbjA83zpC7xV,gigwig2022 llc,provider type review,,,[],False,False
+R_7EsI0heO4sWtQuG,pagy family child care,provider type review,,,[],False,False
+R_5pRO0nLqSJQRUMP,yanibel perez guzman,provider type review,,,[],False,False
+R_6kfjWbOIiQUTESB,kiddee korner 2,approved,3066.0,3066.0,"[(3066, 'compatible name + normalized physical address + exact contact + locality')]",True,False
+R_732bM0kE2ulpPgv,bianca fiallos,provider type review,,,[],False,False
+R_6evqmQ7cvU2jzAl,arelis childcare llc,provider type review,,,[],False,False
+R_3HTC2q8IUpxBQuK,angel daycare,provider type review,,,[],False,False
+R_62qXri1mciReFET,ocean kids academy,approved,1918.0,1918.0,"[(1918, 'compatible name + normalized physical address + exact contact + locality')]",True,False
+R_6bRJbtkQk0dD0Jz,las victorias ii llc,provider type review,,,[],False,False
+R_6BxKDteGW9qplTI,broadway kids academy,approved,825.0,825.0,"[(825, 'compatible name + normalized physical address + exact contact + locality')]",True,False
+R_7pu55SJDMfGY8zN,little barefoot daycare llc,provider type review,,,[],False,False
+R_146Hb2bSVHzPHov,salvador daycare,provider type review,,,[],False,False
+R_3IRebfUQXBcBj2U,dcf regional school burlington,pending verification,,,[],False,False
+R_72IU2pyrUfnGcGw,edison child care,provider type review,,,[],False,False
+R_3OUSB0EDWRPmCXf,rutherford schoolhouse,approved,839.0,,[],False,False
+R_1MGyFWKFulednIm,berry patch learning center,approved,3289.0,,[],False,False
+R_6asG8HxXDoIlctj,healthbarn usa,pending verification,,,"[(4145, 'compatible name + normalized physical address + exact contact + locality'), (4146, 'compatible name + normalized physical address + exact contact + locality')]",False,False
+R_6BzUPq5yIPI3mVP,first adventure,pending verification,,,[],False,False
+R_7kLkTP7rOXvi9Lh,rugrats family child care center llc,approved,243.0,243.0,"[(243, 'compatible name + both exact contacts + same street number + city/ZIP')]",True,False
+R_1UA7kcUFJpVDkm5,first united methodist learning center,approved,3101.0,3101.0,"[(3101, 'compatible name + normalized physical address + exact contact + locality')]",True,False
+R_7K1nc7MIlA3WRMd,just kids clementon preschool,keep unmatched,,,[],False,False
+R_1ZVJxzAWRe1Notw,just kids evans preschool,keep unmatched,,,[],False,False
+R_7BQTvVQGZslQgyu,kcna,pending verification,,,[],False,False
+R_6BAjIrcxFlARW49,berlin united methodist nursery school,approved,3775.0,,[],False,False
+R_1Ugr1HWUOxkTVzD,kiddie academy of west caldwell,approved,2451.0,2451.0,"[(2451, 'compatible name + normalized physical address + exact contact + locality')]",True,False
+R_3SJurND13f4rmLv,kids choice academy,pending verification,,,[],False,False
+R_7fNO3tdnOE89Rzh,growing stars learning academy,approved,814.0,814.0,"[(814, 'compatible name + both exact contacts + same street number + city/ZIP')]",True,False
+R_5reIKHl1rkYEw9k,little sprouts family center,provider type review,,,[],False,False
+R_3qjwxFyhXrsnVpw,"mosaic early learning, delanco",no supported universe match,,,[],False,False
+R_3CIuBKs7b7IB4nK,kindercare clementon,pending verification,,,[],False,False
+R_7OvLRMSlnTHgkVe,madison extended daycare,pending verification,,,[],False,False
+R_6gviBQhgcY8qRea,pompton plains preschool,approved,2043.0,2043.0,"[(2043, 'compatible name + normalized physical address + exact contact + locality')]",True,False
+R_5rq0obDwXmBVZ9i,dcf regional schools- passaic campus- project teach,approved,622.0,,[],False,False
+R_6fdwoCLqWiTQ0YA,sunbeam tutoring and learning center,pending verification,,,[],False,False
+R_1MPETOHQgX3GH7o,tender love and care daycare,provider type review,,,[],False,False
+R_1EX00LJ20T2DlcK,river crossing ymca,pending verification,,,[],False,False
+R_5nUVnuFUQRTM5Tr,happy face nursery school,approved,2909.0,,[],False,False
+R_6Dc8K3ZyZgnX7jj,lightbridge academy,pending verification,,,[],False,False
+R_57nZIYxlRXu1gd3,mosaic early learning,no supported universe match,,,[],False,False
+R_1LuoUfXmDqlt2ZT,little kids college,approved,2744.0,2744.0,"[(2744, 'compatible name + normalized physical address + exact contact + locality')]",True,False
+R_6FkWFC8CB12H0Zu,mosaic early learning lumberton head start,no supported universe match,,,[],False,False
+R_3OhkCIr9VgKzymZ,mvca camp musconetcong,pending verification,,,[],False,False
+R_6vwdYXAVjLQZSFz,atlanticare before & after school program,approved,4063.0,,[],False,False
+R_7WBw96gWQGa0U3S,little performers learning academy,approved,3695.0,,[],False,False
+R_1pPraYrcOaMMGRQ,ywca northern new jersey,pending verification,,,[],False,False
+R_130WwQuBXstv585,grace christian acdemy,pending verification,,,[],False,False
+R_5LUunXARfFkCaFz,vineland iii hs,approved,3658.0,,[],False,False
+R_7NHPBfdRGkqBjD6,chesterbrook academy,approved,3766.0,,[],False,False
+R_1fisae0DQ5AFeMJ,holly city family center,no supported universe match,,,[],False,False
+R_6aY4fSA2ULS3ZwA,duri homedaycare,provider type review,,,[],False,False
+R_7M650lKV9dVxMJA,spartan care,pending verification,,,[],False,False
+R_1C7StIDnbZbFnok,little honors,approved,226.0,,[],False,False
+R_1lAWldBbjPs0iHE,little heroes childcare llc,provider type review,,,[],False,False
+R_2cyO1pr0yK1CCqt,chamberlain university/ philosophy,data quality review,,,[],False,False
+R_1RlSu3VGcgOs2qd,primrose school of berkeley heights,approved,2233.0,2233.0,"[(2233, 'compatible name + both exact contacts + same street number + city/ZIP')]",True,False
+R_71AX62Rc9xjqeEq,gateway paulsboro headstart,approved,3233.0,,[],False,False
+R_3Q9FcErjdd4BEBM,steam enrichment program,pending verification,,,[],False,False
+R_3f1zjthi7vhMtgp,angel face daycare,provider type review,,,[],False,False
+R_6Vj35vN9RN7m8FP,lelis family child care,provider type review,,,[],False,False
+R_6YXNzzb0h1gfUWw,little gems childcare,no supported universe match,,,[],False,False
+R_7CJx6QxJEpw49mc,erika's family care,provider type review,,,[],False,False
+R_7st2Ja9V5F61t59,janamis day care,no supported universe match,,,[],False,False
+R_5oSfP2wLvnsxY4v,emmanuel wee garden center,approved,3564.0,,[],False,False
+R_3nuTgOXCnllJRfz,4 pioneers montessori,provider type review,,,[],False,False
+R_10ejFmVgkqIzLfn,davamaya day care,provider type review,,,[],False,False
+R_1CsHsGVSVSOGfpO,childcare,provider type review,,,[],False,False
+R_6eQB7ted0LWTbnb,care 4 kids,no supported universe match,,,[],False,False
+R_1PhdSFjsNOGCfrP,"twinkle toes, family childcare",provider type review,,,[],False,False
+R_5PzKVtaLL2D90GK,god provides daycare,provider type review,,,[],False,False
+R_7HXoFRNyigBvQ1w,aura' family daycare,provider type review,,,[],False,False
+R_5oCMOwuGIEMFz1v,norma reichel,provider type review,,,[],False,False
+R_6sAs0oLmM582Kl3,el jardin de los niños daycare,provider type review,,,[],False,False
+R_54GApteIKY8afoB,we r the world hope child learning center,provider type review,,,[],False,False
+R_7hxo8HgmkNIlGDd,we care for kids,no supported universe match,,,[],False,False
+R_3tnZ6eyFmK1vR6Z,little ark explorers llc,provider type review,,,[],False,False
+R_1msIkIJvlwYCDqF,little friends child care llc,provider type review,,,[],False,False
+R_1FsJkJeRr0upeJH,kiddies academy,data quality review,,,[],False,False
+R_4F9v3nOAO9TLzvX,1,data quality review,,,[],False,False
+R_7S81m69PmOEcasC,"sherene's babysitting fcc, llc",provider type review,,,[],False,False
+R_3fmSkBVOF45dTBD,love me tender,provider type review,,,[],False,False
+R_5D6GQHJVPJxQPex,alicia ynoa,provider type review,,,[],False,False
+R_1MczD3YMawacEhz,a child’s experience ii,provider type review,,,[],False,False
+R_3aSiIJv4h8rSbOp,prestiges uh no i,data quality review,,,[],False,False
+R_6dydg35qqSH6HfS,denise's day center,provider type review,,,[],False,False
+R_29k9oY9Xbw0IlCV,little stars learning center,data quality review,,,[],False,False
+R_1CUioviCflhhXna,happy face child care,provider type review,,,[],False,False
+R_1SjELPqb2WwZoco,regina eze fcc,provider type review,,,[],False,False
+R_52wTewT5UDioLFa,la casa de santa fcc llc,provider type review,,,[],False,False
+R_1r0t9mwxx9PIaW7,rainbows of learning,pending verification,,,[],False,False
+R_31yiOjFNMugzIOT,the goddard school,approved,3823.0,,[],False,False
+R_3I8p8Gtn8tAhveF,wee kids early learning center,approved,3784.0,3784.0,"[(3784, 'compatible name + both exact contacts + same street number + city/ZIP')]",True,False
+R_6VvvfDMEWDdBBwV,"children's learning center, inc.",approved,4003.0,4003.0,"[(4003, 'compatible name + normalized physical address + exact contact + locality')]",True,False
+R_5bGnxPqTI8u82Ln,saint albans preschool,approved,3897.0,3897.0,"[(3897, 'compatible name + normalized physical address + exact contact + locality')]",True,False
+R_1ASSRSdpo8MGe1u,unow day nursery,approved,2710.0,,[],False,False
+R_5JLQ6ucOjgOXqIo,the salvation army,pending verification,,,[],False,False
+R_5HvMizL8Zu3Zaqt,miss barbara's schoolhouse,pending verification,,,[],False,False
+R_3K7LssdjJWNtGKD,bridges nursery school,approved,2369.0,2369.0,"[(2369, 'compatible name + both exact contacts + same street number + city/ZIP')]",True,False
+R_77AdNhJeGaMy0yR,divina tavera,provider type review,,,[],False,False

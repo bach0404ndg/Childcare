@@ -1,0 +1,507 @@
+{
+  "R_7K1nc7MIlA3WRMd": {
+    "status": "keep unmatched",
+    "selected_row": null,
+    "reason": "User reviewed: only shared contacts identify different school sites; no suitable facility established."
+  },
+  "R_1ZVJxzAWRe1Notw": {
+    "status": "keep unmatched",
+    "selected_row": null,
+    "reason": "User reviewed: only shared contacts identify different school sites; no suitable facility established."
+  },
+  "R_7BQTvVQGZslQgyu": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "KCNA/Head Start and email domain favor 1995, but address shared and no exact ID/contact; verify program relationship."
+  },
+  "R_3wFjuWr909KrUdV": {
+    "status": "approved",
+    "selected_row": 1378,
+    "reason": "User approved manual review: facility identity supported by address, program and/or matching contacts; survey entry variations documented in review."
+  },
+  "R_1P5cAPTmAQKfAS2": {
+    "status": "no supported universe match",
+    "selected_row": null,
+    "reason": "Exact fields and broader name/address search did not establish a facility. Similar names/streets alone rejected; verify provider type and universe coverage."
+  },
+  "R_3pnxfMR7JniJBk6": {
+    "status": "approved",
+    "selected_row": 1247,
+    "reason": "User approved manual review: facility identity supported by address, program and/or matching contacts; survey entry variations documented in review."
+  },
+  "R_6PRlbjA83zpC7xV": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described A licensed Family Child Care Provider. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_7EsI0heO4sWtQuG": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family Child Care. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_5pRO0nLqSJQRUMP": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_6kfjWbOIiQUTESB": {
+    "status": "approved",
+    "selected_row": 3066,
+    "reason": "User approved manual review: facility identity supported by address, program and/or matching contacts; survey entry variations documented in review."
+  },
+  "R_732bM0kE2ulpPgv": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family child care. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_6evqmQ7cvU2jzAl": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_3HTC2q8IUpxBQuK": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_62qXri1mciReFET": {
+    "status": "approved",
+    "selected_row": 1918,
+    "reason": "User approved manual review: facility identity supported by address, program and/or matching contacts; survey entry variations documented in review."
+  },
+  "R_6bRJbtkQk0dD0Jz": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family child care provider. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_6BxKDteGW9qplTI": {
+    "status": "approved",
+    "selected_row": 825,
+    "reason": "User approved manual review: facility identity supported by address, program and/or matching contacts; survey entry variations documented in review."
+  },
+  "R_7pu55SJDMfGY8zN": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_146Hb2bSVHzPHov": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_3IRebfUQXBcBj2U": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Program identity DCF Regional School vs Project TEACH not established despite exact address/email; verify relationship."
+  },
+  "R_72IU2pyrUfnGcGw": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_3OUSB0EDWRPmCXf": {
+    "status": "approved",
+    "selected_row": 839,
+    "reason": "Full universe license CCC116954 embedded in survey ID; compatible program and exact street/city. ZIP typo retained."
+  },
+  "R_1MGyFWKFulednIm": {
+    "status": "approved",
+    "selected_row": 3289,
+    "reason": "Exact program, street number, route 523, city and ZIP; phone lacks one digit. Manual match only."
+  },
+  "R_6asG8HxXDoIlctj": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Two universe records share name/address/license/email but have different Fac Ids. Phone favors 4145; resolve universe duplication first."
+  },
+  "R_6BzUPq5yIPI3mVP": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Compatible shortened name and address only; no IDs or contacts. Insufficient independent identity evidence."
+  },
+  "R_7kLkTP7rOXvi9Lh": {
+    "status": "approved",
+    "selected_row": 243,
+    "reason": "User approved: exact program, email and phone; address agrees; malformed survey identifier/locality."
+  },
+  "R_1UA7kcUFJpVDkm5": {
+    "status": "approved",
+    "selected_row": 3101,
+    "reason": "User approved: exact program, email and phone; address agrees; malformed survey identifier/locality."
+  },
+  "R_6BAjIrcxFlARW49": {
+    "status": "approved",
+    "selected_row": 3775,
+    "reason": "Exact program, email and phone; city/ZIP agree. Street number 149 vs 151 retained as discrepancy."
+  },
+  "R_1Ugr1HWUOxkTVzD": {
+    "status": "approved",
+    "selected_row": 2451,
+    "reason": "Exact program, physical address and phone; city contains state/ZIP; ZIP+4 agrees."
+  },
+  "R_3SJurND13f4rmLv": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Name formatting and address agree but no IDs or contacts; retained for verification as requested."
+  },
+  "R_7fNO3tdnOE89Rzh": {
+    "status": "approved",
+    "selected_row": 814,
+    "reason": "Exact program, email and phone; Whitehorse vs White Horse; license missing one digit."
+  },
+  "R_5reIKHl1rkYEw9k": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_3qjwxFyhXrsnVpw": {
+    "status": "no supported universe match",
+    "selected_row": null,
+    "reason": "Exact fields and broader name/address search did not establish a facility. Similar names/streets alone rejected; verify provider type and universe coverage."
+  },
+  "R_3CIuBKs7b7IB4nK": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Compatible brand/location and address; no IDs and neither contact matches. Verify before selecting."
+  },
+  "R_7OvLRMSlnTHgkVe": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Response lists multiple licenses; address is shared mailing office. Cannot assign one school facility."
+  },
+  "R_6gviBQhgcY8qRea": {
+    "status": "approved",
+    "selected_row": 2043,
+    "reason": "Program differs only pre-school spacing; exact phone, city/ZIP; turnpike vs tpke address."
+  },
+  "R_5rq0obDwXmBVZ9i": {
+    "status": "approved",
+    "selected_row": 622,
+    "reason": "Survey explicitly includes Project TEACH Passaic; exact phone, city/ZIP; 160 Minnisink vs Minisink is one-letter address typo."
+  },
+  "R_6fdwoCLqWiTQ0YA": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Email shared with Sunbeam Christian Child Care but program and physical address differ. No suitable site established."
+  },
+  "R_1MPETOHQgX3GH7o": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family Child Care. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_1EX00LJ20T2DlcK": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Organization response says 21 licenses; common contacts and mailing address span many facilities. Not one-site evidence."
+  },
+  "R_5nUVnuFUQRTM5Tr": {
+    "status": "approved",
+    "selected_row": 2909,
+    "reason": "Compatible specific program, exact email and phone; city/ZIP agree. PO box is mailing evidence, not physical-site evidence."
+  },
+  "R_6Dc8K3ZyZgnX7jj": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Generic Lightbridge brand candidates but none identifies 295 W Grand Ave, Montvale. Possible absent facility; verify universe coverage."
+  },
+  "R_57nZIYxlRXu1gd3": {
+    "status": "no supported universe match",
+    "selected_row": null,
+    "reason": "Exact fields and broader name/address search did not establish a facility. Similar names/streets alone rejected; verify provider type and universe coverage."
+  },
+  "R_1LuoUfXmDqlt2ZT": {
+    "status": "approved",
+    "selected_row": 2744,
+    "reason": "Compatible program, exact physical address and phone; Lawrenceville city misspelled; ZIP agrees."
+  },
+  "R_6FkWFC8CB12H0Zu": {
+    "status": "no supported universe match",
+    "selected_row": null,
+    "reason": "Exact fields and broader name/address search did not establish a facility. Similar names/streets alone rejected; verify provider type and universe coverage."
+  },
+  "R_3OhkCIr9VgKzymZ": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Camp Musconetcong at Rock Spring Park differs from school sites sharing MVCA contacts. No suitable facility established."
+  },
+  "R_6vwdYXAVjLQZSFz": {
+    "status": "approved",
+    "selected_row": 4063,
+    "reason": "Broader search: compatible AtlantiCare after-school name, 601 N Fourth vs 601 North 4th; exact city/ZIP; license 01HAMM0002 vs 01HAM0002 has extra M."
+  },
+  "R_7WBw96gWQGa0U3S": {
+    "status": "approved",
+    "selected_row": 3695,
+    "reason": "Program differs by LLC only; exact email; 525 Laurel Road vs 525 E Laurel Rd; city typo and ZIP agreement. Manual only."
+  },
+  "R_1pPraYrcOaMMGRQ": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "YWCA organization contacts span schools; survey address incomplete and city differs. Cannot identify site."
+  },
+  "R_130WwQuBXstv585": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Compatible Grace Christian name and exact address/ZIP; neither contact matches and no ID. City typo in universe. Verify identity."
+  },
+  "R_5LUunXARfFkCaFz": {
+    "status": "approved",
+    "selected_row": 3658,
+    "reason": "Vineland III HS vs Vineland III Headstart; exact email and phone; 116 W Elmer vs 116 Elmer and city/ZIP agree."
+  },
+  "R_7NHPBfdRGkqBjD6": {
+    "status": "approved",
+    "selected_row": 3766,
+    "reason": "Exact program, email and phone; Voorhees/ZIP agree. Street number 900 vs 9000 and malformed license retained as warnings."
+  },
+  "R_1fisae0DQ5AFeMJ": {
+    "status": "no supported universe match",
+    "selected_row": null,
+    "reason": "Exact fields and broader name/address search did not establish a facility. Similar names/streets alone rejected; verify provider type and universe coverage."
+  },
+  "R_6aY4fSA2ULS3ZwA": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Home based daycare. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_7M650lKV9dVxMJA": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Only shared Spartan Care email matches; 590 College Blvd differs from 525 College Blvd candidate. ID resembles license with missing zero but insufficient corroboration."
+  },
+  "R_1C7StIDnbZbFnok": {
+    "status": "approved",
+    "selected_row": 226,
+    "reason": "Survey numeric license 129339 matches CCC129339; exact physical address/city/ZIP; compatible brand. Contacts point to sister site, retained as warning."
+  },
+  "R_1lAWldBbjPs0iHE": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described In-home daycare. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_2cyO1pr0yK1CCqt": {
+    "status": "data quality review",
+    "selected_row": null,
+    "reason": "Out-of-state location or placeholder evidence; no supported NJ center match. Retain for quality review, not automatic deletion."
+  },
+  "R_1RlSu3VGcgOs2qd": {
+    "status": "approved",
+    "selected_row": 2233,
+    "reason": "Exact program, email and phone; street matches with appended locality; city/ZIP agree."
+  },
+  "R_71AX62Rc9xjqeEq": {
+    "status": "approved",
+    "selected_row": 3233,
+    "reason": "License 08PAU00001 differs by extra zero from 08PAU0001; exact email and compatible Headstart name; number/street stem/city/ZIP agree, avenue vs street warning."
+  },
+  "R_3Q9FcErjdd4BEBM": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "STEAM name/address suggest 447 but neither ID/email matches and phone points to other sites. Keep pending."
+  },
+  "R_3f1zjthi7vhMtgp": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family child care provider. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_6Vj35vN9RN7m8FP": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family home child care. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_6YXNzzb0h1gfUWw": {
+    "status": "no supported universe match",
+    "selected_row": null,
+    "reason": "Exact fields and broader name/address search did not establish a facility. Similar names/streets alone rejected; verify provider type and universe coverage."
+  },
+  "R_7CJx6QxJEpw49mc": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described family child care. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_7st2Ja9V5F61t59": {
+    "status": "no supported universe match",
+    "selected_row": null,
+    "reason": "Exact fields and broader name/address search did not establish a facility. Similar names/streets alone rejected; verify provider type and universe coverage."
+  },
+  "R_5oSfP2wLvnsxY4v": {
+    "status": "approved",
+    "selected_row": 3564,
+    "reason": "Exact email and compatible distinctive program; 54 Irvine Turner within 54-60 range; locality/ZIP agree. Malformed ID and contact differences retained."
+  },
+  "R_3nuTgOXCnllJRfz": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family Child Care. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_10ejFmVgkqIzLfn": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described FCC HOME DAY CARE PROVIDER. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_1CsHsGVSVSOGfpO": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_6eQB7ted0LWTbnb": {
+    "status": "no supported universe match",
+    "selected_row": null,
+    "reason": "Exact fields and broader name/address search did not establish a facility. Similar names/streets alone rejected; verify provider type and universe coverage."
+  },
+  "R_1PhdSFjsNOGCfrP": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Registered family childcare. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_5PzKVtaLL2D90GK": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_7HXoFRNyigBvQ1w": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described family Daycare. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_5oCMOwuGIEMFz1v": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family Childcare. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_6sAs0oLmM582Kl3": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_54GApteIKY8afoB": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described In home childcare center. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_7hxo8HgmkNIlGDd": {
+    "status": "no supported universe match",
+    "selected_row": null,
+    "reason": "Exact fields and broader name/address search did not establish a facility. Similar names/streets alone rejected; verify provider type and universe coverage."
+  },
+  "R_3tnZ6eyFmK1vR6Z": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Registered FCC provider. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_1msIkIJvlwYCDqF": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family Child Care. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_1FsJkJeRr0upeJH": {
+    "status": "data quality review",
+    "selected_row": null,
+    "reason": "Out-of-state location or placeholder evidence; no supported NJ center match. Retain for quality review, not automatic deletion."
+  },
+  "R_4F9v3nOAO9TLzvX": {
+    "status": "data quality review",
+    "selected_row": null,
+    "reason": "Out-of-state location or placeholder evidence; no supported NJ center match. Retain for quality review, not automatic deletion."
+  },
+  "R_7S81m69PmOEcasC": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family Child care (FCC). No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_3fmSkBVOF45dTBD": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_5D6GQHJVPJxQPex": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described In-home child care provider. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_1MczD3YMawacEhz": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Family Child Care. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_3aSiIJv4h8rSbOp": {
+    "status": "data quality review",
+    "selected_row": null,
+    "reason": "Out-of-state location or placeholder evidence; no supported NJ center match. Retain for quality review, not automatic deletion."
+  },
+  "R_6dydg35qqSH6HfS": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  },
+  "R_29k9oY9Xbw0IlCV": {
+    "status": "data quality review",
+    "selected_row": null,
+    "reason": "Out-of-state location or placeholder evidence; no supported NJ center match. Retain for quality review, not automatic deletion."
+  },
+  "R_1CUioviCflhhXna": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described Home ChildCare Center. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_1SjELPqb2WwZoco": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described FAMILY CHILD CARE. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_52wTewT5UDioLFa": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Self-described FCC. No corroborated center-universe match; check family-provider universe, do not exclude automatically."
+  },
+  "R_1r0t9mwxx9PIaW7": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Address/city favor Branchville; name/ZIP favor Augusta. No ID or matching contacts to settle site."
+  },
+  "R_31yiOjFNMugzIOT": {
+    "status": "approved",
+    "selected_row": 3823,
+    "reason": "Exact program, street address and phone; city and ZIP disagree, retained as manual-only geographic warning."
+  },
+  "R_3I8p8Gtn8tAhveF": {
+    "status": "approved",
+    "selected_row": 3784,
+    "reason": "Exact program, email and phone; physical address omits West; city/ZIP agree."
+  },
+  "R_6VvvfDMEWDdBBwV": {
+    "status": "approved",
+    "selected_row": 4003,
+    "reason": "Exact program, email and phone; Place vs Pl address; city/ZIP agree."
+  },
+  "R_5bGnxPqTI8u82Ln": {
+    "status": "approved",
+    "selected_row": 3897,
+    "reason": "Compatible Saint Albans name, exact email and phone; Lane vs La address; city/ZIP agree; ID I/1 typo."
+  },
+  "R_1ASSRSdpo8MGe1u": {
+    "status": "approved",
+    "selected_row": 2710,
+    "reason": "UNOW vs University N O W Day Nursery abbreviation; exact phone, street number/name, city/ZIP. Missing street suffix."
+  },
+  "R_5JLQ6ucOjgOXqIo": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "4 Gary Road is organization mailing evidence shared across multiple Salvation Army facilities; no physical site in Union established."
+  },
+  "R_5HvMizL8Zu3Zaqt": {
+    "status": "pending verification",
+    "selected_row": null,
+    "reason": "Exact name/address/ZIP but different city and phone, no ID or matching email. Verify location and contacts."
+  },
+  "R_3K7LssdjJWNtGKD": {
+    "status": "approved",
+    "selected_row": 2369,
+    "reason": "Compatible Bridges nursery name, exact email and phone; same house number and Gordon Corner street with typo; city/ZIP agree."
+  },
+  "R_77AdNhJeGaMy0yR": {
+    "status": "provider type review",
+    "selected_row": null,
+    "reason": "Survey identifier resembles family-provider registration; no corroborated center candidate. Confirm provider type against appropriate universe."
+  }
+}

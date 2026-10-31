@@ -1,0 +1,20 @@
+{
+  "R_5JtlnTG0DIEUxl7": {
+    "license_id": "170800244",
+    "fac_id": "707015",
+    "evidence": "6af9b7b124f30dd8840782890dd17273ad6aab5448312d0ce6246ed69b9fbe1f",
+    "reason": "Preserved prior NCA manual approval from previous audit; target reconstructed using the prior NCA matcher."
+  },
+  "R_7fgbdfRpCoi4l0u": {
+    "license_id": "01STA0001",
+    "fac_id": "705548",
+    "evidence": "e0129b7fec56a5ec97601f13334b128bfad8530cec7322f2bd1429c3bf92866a",
+    "reason": "Preserved prior NCA manual approval from previous audit; target reconstructed using the prior NCA matcher."
+  },
+  "R_6qfysvcJDqDrmYr": {
+    "license_id": "18CHI0008",
+    "fac_id": "700174",
+    "evidence": "a04e9f55e7caab68480b6838676cc67c1a191aaf77110e125b2924bd9535cc38",
+    "reason": "Preserved prior NCA manual approval from previous audit; target reconstructed using the prior NCA matcher."
+  }
+}

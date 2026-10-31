@@ -1,0 +1,4447 @@
+[
+  {
+    "response": "R_3wFjuWr909KrUdV",
+    "survey": {
+      "program": "woodstown/pilesgrove sacc",
+      "address": "201 e. millbrooke",
+      "city": "woodstown",
+      "zipcode": "08098",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "8567690144",
+      "email": "wpsaccdirector@gmail.com",
+      "Q2": "A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        1378
+      ],
+      "phone": [
+        1378
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "1378",
+        "program": "woodstown-pilesgrove school age cc",
+        "address": "201 e millbrooke ave",
+        "city": "woodstown",
+        "zipcode": "08098",
+        "id": "17WOO0005",
+        "fac_id": "700025",
+        "phone": "856-769-0144",
+        "email": "wpsaccdirector@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_1P5cAPTmAQKfAS2",
+    "survey": {
+      "program": "eden's garden",
+      "address": "364 hillcrest ave",
+      "city": "somerset",
+      "zipcode": "08873",
+      "id": "H05854397457812",
+      "njccid": "100057009",
+      "phone": "732-788-1773 ",
+      "email": "lachreshahargett@yahoo.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_3pnxfMR7JniJBk6",
+    "survey": {
+      "program": "children's campus",
+      "address": "118 lamington road, branchburg, nj, usa",
+      "city": "branchburg, nj 08876",
+      "zipcode": "08876",
+      "id": "18CH10008",
+      "njccid": "100025899",
+      "phone": "1908231880",
+      "email": "gwendolyn.wright@raritanval.edu",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        1247
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "1247",
+        "program": "the children's campus at r.v.c.c.",
+        "address": "118 lamington road",
+        "city": "north branch",
+        "zipcode": "08876",
+        "id": "18CHI0008",
+        "fac_id": "700174",
+        "phone": "908-231-8807",
+        "email": "gwendolyn.wright@raritanval.edu"
+      }
+    ]
+  },
+  {
+    "response": "R_6PRlbjA83zpC7xV",
+    "survey": {
+      "program": "gigwig2022 llc",
+      "address": "21 marlow rod",
+      "city": "east brunswick",
+      "zipcode": "08816",
+      "id": "FCC122051",
+      "njccid": "100204180",
+      "phone": "7327793854",
+      "email": "gigwig2022@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_7EsI0heO4sWtQuG",
+    "survey": {
+      "program": "pagy family child care",
+      "address": "210 long ferry rd",
+      "city": "perth amboy",
+      "zipcode": "08861",
+      "id": "FR122074",
+      "njccid": "100065772",
+      "phone": "7328249136",
+      "email": "cabrerapagliery@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_5pRO0nLqSJQRUMP",
+    "survey": {
+      "program": "yanibel perez guzman",
+      "address": "362 state street",
+      "city": "perth amboy",
+      "zipcode": "08861",
+      "id": "FCC130889",
+      "njccid": "100281722",
+      "phone": "848-384-1829",
+      "email": "yanibelguzman244@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_6kfjWbOIiQUTESB",
+    "survey": {
+      "program": "kiddee korner 2",
+      "address": "8-10 clifton place",
+      "city": "jersey city, nj",
+      "zipcode": "07304-3002",
+      "id": "0932KID0004",
+      "njccid": "nan",
+      "phone": "2014351899",
+      "email": "nlzcmch@yahoo.com",
+      "Q2": "A licensed child care center,A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        3066
+      ],
+      "address": [
+        3021,
+        3066
+      ],
+      "email": [
+        3066
+      ],
+      "phone": [
+        3066
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "3021",
+        "program": "play and learn school",
+        "address": "8 -10 clifton place",
+        "city": "jersey city",
+        "zipcode": "07304",
+        "id": "09PLA0001",
+        "fac_id": "701166",
+        "phone": "201-435-6042",
+        "email": "j.hoffman@pal.school"
+      },
+      {
+        "universe_row": "3066",
+        "program": "kiddee korner 2",
+        "address": "8 - 10 clifton place",
+        "city": "jersey city",
+        "zipcode": "07304",
+        "id": "09KID0004",
+        "fac_id": "700844",
+        "phone": "201-435-1899",
+        "email": "nlzcmch@yahoo.com"
+      }
+    ]
+  },
+  {
+    "response": "R_732bM0kE2ulpPgv",
+    "survey": {
+      "program": "bianca fiallos",
+      "address": "55 yale ave",
+      "city": "avenel",
+      "zipcode": "07701",
+      "id": "nan",
+      "njccid": "100214365",
+      "phone": "908-290-4152",
+      "email": "biancafiallos@ymail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_6evqmQ7cvU2jzAl",
+    "survey": {
+      "program": "arelis childcare llc",
+      "address": "308 lehigh av.",
+      "city": "perth amboy, nj",
+      "zipcode": "08861",
+      "id": "FR144122",
+      "njccid": "100057102",
+      "phone": "609-933-7425",
+      "email": "agarcia830@hotmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_3HTC2q8IUpxBQuK",
+    "survey": {
+      "program": "angel daycare",
+      "address": "103 gramercy place",
+      "city": "teaneck",
+      "zipcode": "07666",
+      "id": "R0221009",
+      "njccid": "100013546",
+      "phone": "9176936161",
+      "email": "ambioris8113@hotmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_62qXri1mciReFET",
+    "survey": {
+      "program": "ocean kids academy",
+      "address": "1172 church road",
+      "city": "knoeller, veanna",
+      "zipcode": "08755",
+      "id": "15DOV001",
+      "njccid": "nan",
+      "phone": "7322447070",
+      "email": "oceankidsacademy@yahoo.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        1918
+      ],
+      "address": [
+        1918
+      ],
+      "email": [
+        1918
+      ],
+      "phone": [
+        1918
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "1918",
+        "program": "ocean kids academy",
+        "address": "1172 church road",
+        "city": "toms river",
+        "zipcode": "08755",
+        "id": "15DOV0001",
+        "fac_id": "706245",
+        "phone": "732-244-7070",
+        "email": "oceankidsacademy@yahoo.com"
+      }
+    ]
+  },
+  {
+    "response": "R_6bRJbtkQk0dD0Jz",
+    "survey": {
+      "program": "las victorias ii llc",
+      "address": "59 william st",
+      "city": "carteret",
+      "zipcode": "07008",
+      "id": "FCC122408",
+      "njccid": "100207793",
+      "phone": "2012084466",
+      "email": "lasvictoriallc@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_6BxKDteGW9qplTI",
+    "survey": {
+      "program": "broadway kids academy",
+      "address": "39-41 broadway",
+      "city": "paterson city",
+      "zipcode": "07505",
+      "id": "117338",
+      "njccid": "nan",
+      "phone": "9733419128",
+      "email": "director@broadwaykidsacademy.org",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        825
+      ],
+      "address": [
+        825
+      ],
+      "email": [
+        825
+      ],
+      "phone": [
+        825
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "825",
+        "program": "broadway kids academy",
+        "address": "39-41 broadway",
+        "city": "paterson",
+        "zipcode": "07505",
+        "id": "CCC117338",
+        "fac_id": "803547",
+        "phone": "973-341-9128",
+        "email": "director@broadwaykidsacademy.org"
+      }
+    ]
+  },
+  {
+    "response": "R_7pu55SJDMfGY8zN",
+    "survey": {
+      "program": "little barefoot daycare llc",
+      "address": "305 orchard terrace",
+      "city": "bogota",
+      "zipcode": "07603",
+      "id": "FCC130302",
+      "njccid": "100272602",
+      "phone": "(201)805-1102",
+      "email": "geamine1023@hotmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_146Hb2bSVHzPHov",
+    "survey": {
+      "program": "salvador daycare",
+      "address": "459 florida grove rd",
+      "city": "hopelawn",
+      "zipcode": "NJ 08861",
+      "id": "FCC 119827",
+      "njccid": "100 033 317",
+      "phone": "732 799 5528",
+      "email": "maria22cerna@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_3IRebfUQXBcBj2U",
+    "survey": {
+      "program": "dcf regional school burlington",
+      "address": "704 woodlane rd",
+      "city": "mt. holly",
+      "zipcode": "08060",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "nan",
+      "email": "rukiah.alwan@dcf.nj.gov",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        3793
+      ],
+      "email": [
+        3793
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "3793",
+        "program": "project teach - burlington",
+        "address": "704 woodlane rd",
+        "city": "mount holly",
+        "zipcode": "08060",
+        "id": "03PRO0001",
+        "fac_id": "708041",
+        "phone": "609-267-7595",
+        "email": "rukiah.alwan@dcf.nj.gov"
+      }
+    ]
+  },
+  {
+    "response": "R_72IU2pyrUfnGcGw",
+    "survey": {
+      "program": "edison child care",
+      "address": "35 sims road",
+      "city": "edison",
+      "zipcode": "08817",
+      "id": "Fcc114034",
+      "njccid": "100031978",
+      "phone": "908-342-1689",
+      "email": "aidawang2000@ayhoo.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_3OUSB0EDWRPmCXf",
+    "survey": {
+      "program": "rutherford schoolhouse",
+      "address": "168 chestnut street",
+      "city": "rutherford",
+      "zipcode": "07007",
+      "id": "DC0932CCC116954",
+      "njccid": "nan",
+      "phone": "2012921950",
+      "email": "learn@rutherfordschoolhouse.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        839
+      ],
+      "email": [],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "839",
+        "program": "the rutherford schoolhouse",
+        "address": "168 chestnut street",
+        "city": "rutherford",
+        "zipcode": "07070",
+        "id": "CCC116954",
+        "fac_id": "803120",
+        "phone": "201-741-0557",
+        "email": "knewby@backstagepac.com"
+      }
+    ]
+  },
+  {
+    "response": "R_1MGyFWKFulednIm",
+    "survey": {
+      "program": "berry patch learning center",
+      "address": "1083 county 523",
+      "city": "flemington",
+      "zipcode": "08822",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "90-237-9200",
+      "email": "admin@berrypatchearlylearningcenter.com",
+      "Q2": "A licensed child care center,A community-based licensed center contracted by a school district to provide public preschool,A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        3289
+      ],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "3289",
+        "program": "berry patch learning center",
+        "address": "1083 route 523",
+        "city": "flemington",
+        "zipcode": "08822",
+        "id": "081000105",
+        "fac_id": "808000",
+        "phone": "908-237-9200",
+        "email": "admin@washingtonkidcare.com"
+      }
+    ]
+  },
+  {
+    "response": "R_6asG8HxXDoIlctj",
+    "survey": {
+      "program": "healthbarn usa",
+      "address": "1057 hillcrest road, ridgewood, nj, 07450",
+      "city": "ridgewood",
+      "zipcode": "07450",
+      "id": "692960",
+      "njccid": "nan",
+      "phone": "2014442955",
+      "email": "stacey@healthbarnusa.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        4145,
+        4146
+      ],
+      "address": [],
+      "email": [
+        4145,
+        4146
+      ],
+      "phone": [
+        4145
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "4145",
+        "program": "healthbarn usa",
+        "address": "1057 hillcrest road",
+        "city": "ridgewood",
+        "zipcode": "07450",
+        "id": "LEX116717",
+        "fac_id": "807030",
+        "phone": "201-444-2955",
+        "email": "stacey@healthbarnusa.com"
+      },
+      {
+        "universe_row": "4146",
+        "program": "healthbarn usa",
+        "address": "1057 hillcrest road",
+        "city": "ridgewood",
+        "zipcode": "07450",
+        "id": "LEX116717",
+        "fac_id": "817075",
+        "phone": "917-750-9802",
+        "email": "stacey@healthbarnusa.com"
+      }
+    ]
+  },
+  {
+    "response": "R_6BzUPq5yIPI3mVP",
+    "survey": {
+      "program": "first adventure",
+      "address": "430 w. lacey rd",
+      "city": "forked river",
+      "zipcode": "08731",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "nan",
+      "email": "nan",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        1916
+      ],
+      "email": [],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "1916",
+        "program": "first adventure preschool & child care",
+        "address": "430 w lacey road",
+        "city": "forked river",
+        "zipcode": "08731",
+        "id": "15FIR0001",
+        "fac_id": "700064",
+        "phone": "609-693-3778",
+        "email": "firstadventure@comcast.net"
+      }
+    ]
+  },
+  {
+    "response": "R_7kLkTP7rOXvi9Lh",
+    "survey": {
+      "program": "rugrats family child care center llc",
+      "address": "435 s main st phillipsburg",
+      "city": "phillipsburg",
+      "zipcode": "08865",
+      "id": "129020",
+      "njccid": "100259802",
+      "phone": "4845428870",
+      "email": "rugratsfamilychildcarecenterll@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        243
+      ],
+      "address": [],
+      "email": [
+        243
+      ],
+      "phone": [
+        243
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "243",
+        "program": "rugrats family child care center llc",
+        "address": "435 south main street",
+        "city": "phillipsburg",
+        "zipcode": "08865",
+        "id": "CCC129020",
+        "fac_id": "816139",
+        "phone": "484-542-8870",
+        "email": "rugratsfamilychildcarecenterll@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_1UA7kcUFJpVDkm5",
+    "survey": {
+      "program": "first united methodist learning center",
+      "address": "2213-15 new york avenue",
+      "city": "07087",
+      "zipcode": "07087",
+      "id": "09FIR005",
+      "njccid": "nan",
+      "phone": "201-865-9030",
+      "email": "palmenia54@gmail.com",
+      "Q2": "A licensed child care center,A community-based licensed center contracted by a school district to provide public preschool"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        3101
+      ],
+      "address": [
+        3101
+      ],
+      "email": [
+        3101
+      ],
+      "phone": [
+        3101
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "3101",
+        "program": "first united methodist learning center",
+        "address": "2213-15 new york avenue",
+        "city": "union city",
+        "zipcode": "07087",
+        "id": "09FIR0005",
+        "fac_id": "701145",
+        "phone": "201-865-9030",
+        "email": "palmenia54@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_7K1nc7MIlA3WRMd",
+    "survey": {
+      "program": "just kids clementon preschool",
+      "address": "135 white horse pike",
+      "city": "lindenwold",
+      "zipcode": "08021",
+      "id": "CCC132413",
+      "njccid": "820543",
+      "phone": "609.922.9025",
+      "email": "justkids@archwayprograms.org",
+      "Q2": "A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        1803,
+        2207,
+        3246,
+        3247
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "1803",
+        "program": "just kids - parkview elementary school",
+        "address": "101 birch avenue",
+        "city": "westville",
+        "zipcode": "08093",
+        "id": "160600220",
+        "fac_id": "706194",
+        "phone": "856-905-2061",
+        "email": "justkids@archwayprograms.org"
+      },
+      {
+        "universe_row": "2207",
+        "program": "just kids - national park elementary school",
+        "address": "516 lakehurst avenue",
+        "city": "national park",
+        "zipcode": "08063",
+        "id": "140600173",
+        "fac_id": "704590",
+        "phone": "856-905-2054",
+        "email": "justkids@archwayprograms.org"
+      },
+      {
+        "universe_row": "3246",
+        "program": "just kids - main road elementary school",
+        "address": "1452 main road",
+        "city": "newfield",
+        "zipcode": "08344",
+        "id": "08JUS0029",
+        "fac_id": "703324",
+        "phone": "856-905-2043",
+        "email": "justkids@archwayprograms.org"
+      },
+      {
+        "universe_row": "3247",
+        "program": "just kids - mary f. janvier elementary school",
+        "address": "1532 pennsylvania ave",
+        "city": "franklinville",
+        "zipcode": "08322",
+        "id": "08JUS0028",
+        "fac_id": "702929",
+        "phone": "856-905-2042",
+        "email": "justkids@archwayprograms.org"
+      }
+    ]
+  },
+  {
+    "response": "R_1ZVJxzAWRe1Notw",
+    "survey": {
+      "program": "just kids evans preschool",
+      "address": "400 route 73",
+      "city": "marlton",
+      "zipcode": "08053",
+      "id": "CCC132413",
+      "njccid": "819578",
+      "phone": "856.768.8190",
+      "email": "justkids@archwayprograms.org",
+      "Q2": "A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        1803,
+        2207,
+        3246,
+        3247
+      ],
+      "phone": [
+        525
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "525",
+        "program": "gibbsboro elementary",
+        "address": "37 kirkwood rd",
+        "city": "gibbsboro",
+        "zipcode": "08026",
+        "id": "CCC121567",
+        "fac_id": "808395",
+        "phone": "856-768-8190",
+        "email": "kristin.bryan@archwayprograms.org"
+      },
+      {
+        "universe_row": "1803",
+        "program": "just kids - parkview elementary school",
+        "address": "101 birch avenue",
+        "city": "westville",
+        "zipcode": "08093",
+        "id": "160600220",
+        "fac_id": "706194",
+        "phone": "856-905-2061",
+        "email": "justkids@archwayprograms.org"
+      },
+      {
+        "universe_row": "2207",
+        "program": "just kids - national park elementary school",
+        "address": "516 lakehurst avenue",
+        "city": "national park",
+        "zipcode": "08063",
+        "id": "140600173",
+        "fac_id": "704590",
+        "phone": "856-905-2054",
+        "email": "justkids@archwayprograms.org"
+      },
+      {
+        "universe_row": "3246",
+        "program": "just kids - main road elementary school",
+        "address": "1452 main road",
+        "city": "newfield",
+        "zipcode": "08344",
+        "id": "08JUS0029",
+        "fac_id": "703324",
+        "phone": "856-905-2043",
+        "email": "justkids@archwayprograms.org"
+      },
+      {
+        "universe_row": "3247",
+        "program": "just kids - mary f. janvier elementary school",
+        "address": "1532 pennsylvania ave",
+        "city": "franklinville",
+        "zipcode": "08322",
+        "id": "08JUS0028",
+        "fac_id": "702929",
+        "phone": "856-905-2042",
+        "email": "justkids@archwayprograms.org"
+      }
+    ]
+  },
+  {
+    "response": "R_7BQTvVQGZslQgyu",
+    "survey": {
+      "program": "kcna",
+      "address": "525 clinton street",
+      "city": "camden",
+      "zipcode": "08103",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "6099417252",
+      "email": "shanae.monk@centerffs.org",
+      "Q2": "A Head Start or Early Head Start program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        310,
+        1995
+      ],
+      "email": [],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "310",
+        "program": "social responsibility through me - kipp lanning",
+        "address": "525 clinton street",
+        "city": "camden",
+        "zipcode": "08103",
+        "id": "CCC127910",
+        "fac_id": "814983",
+        "phone": "856-952-2575",
+        "email": "ericab@srtme.org"
+      },
+      {
+        "universe_row": "1995",
+        "program": "cfs headstart at kcna",
+        "address": "525 clinton street",
+        "city": "camden",
+        "zipcode": "08103",
+        "id": "150400002",
+        "fac_id": "705502",
+        "phone": "856-408-3016",
+        "email": "charlotte.quinones@centerffs.org"
+      }
+    ]
+  },
+  {
+    "response": "R_6BAjIrcxFlARW49",
+    "survey": {
+      "program": "berlin united methodist nursery school",
+      "address": "149 s white horse pike",
+      "city": "berlin",
+      "zipcode": "08009",
+      "id": "nan",
+      "njccid": "18085",
+      "phone": "856-767-7408",
+      "email": "bumns146@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        3775
+      ],
+      "address": [],
+      "email": [
+        3775
+      ],
+      "phone": [
+        3775
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "3775",
+        "program": "berlin united methodist nursery school",
+        "address": "151 s white horse pike",
+        "city": "berlin",
+        "zipcode": "08009",
+        "id": "04BER0001",
+        "fac_id": "708083",
+        "phone": "856-767-7408",
+        "email": "bumns146@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_1Ugr1HWUOxkTVzD",
+    "survey": {
+      "program": "kiddie academy of west caldwell",
+      "address": "810 passaic ave",
+      "city": "west caldwell, nj 07006",
+      "zipcode": "07006-6410",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "2017591164",
+      "email": "westcaldwell@kiddieacademy.net",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        2451
+      ],
+      "address": [
+        2451
+      ],
+      "email": [],
+      "phone": [
+        2451
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "2451",
+        "program": "kiddie academy of west caldwell",
+        "address": "810 passaic avenue",
+        "city": "west caldwell",
+        "zipcode": "07006",
+        "id": "130400032",
+        "fac_id": "807205",
+        "phone": "201-759-1164",
+        "email": "aperk189@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_3SJurND13f4rmLv",
+    "survey": {
+      "program": "kids choice academy",
+      "address": "6652 black horse pike",
+      "city": "egg harbor township",
+      "zipcode": "08234",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "nan",
+      "email": "nan",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        4059
+      ],
+      "email": [],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "4059",
+        "program": "kids' choice academy, l.l.c.",
+        "address": "6652 black horse pike",
+        "city": "egg harbor township",
+        "zipcode": "08234",
+        "id": "01KID0010",
+        "fac_id": "700357",
+        "phone": "609-272-1181",
+        "email": "kidschoiceacademy@verizon.net"
+      }
+    ]
+  },
+  {
+    "response": "R_7fNO3tdnOE89Rzh",
+    "survey": {
+      "program": "growing stars learning academy",
+      "address": "918 s whitehorse pike",
+      "city": "somerdale",
+      "zipcode": "08083",
+      "id": "CCC11743",
+      "njccid": "nan",
+      "phone": "856-366-0168",
+      "email": "growingstarsla@hotmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        814
+      ],
+      "address": [],
+      "email": [
+        814
+      ],
+      "phone": [
+        814
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "814",
+        "program": "growing stars learning academy",
+        "address": "918 s white horse pike",
+        "city": "somerdale",
+        "zipcode": "08083",
+        "id": "CCC117413",
+        "fac_id": "803625",
+        "phone": "856-366-0168",
+        "email": "growingstarsla@hotmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_5reIKHl1rkYEw9k",
+    "survey": {
+      "program": "little sprouts family center",
+      "address": "121 washington avenue",
+      "city": "mount ephraim",
+      "zipcode": "08059",
+      "id": "Fcc130528",
+      "njccid": "817657",
+      "phone": "6095511892",
+      "email": "lsfc025@gmail.com",
+      "Q2": "A before-and-after school program,Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_3qjwxFyhXrsnVpw",
+    "survey": {
+      "program": "mosaic early learning, delanco",
+      "address": "2431 burlington ave",
+      "city": "delanco",
+      "zipcode": "08075",
+      "id": "03BCC0001",
+      "njccid": "100141312",
+      "phone": "8569986825",
+      "email": "kristen.furniss@centerffs.org",
+      "Q2": "A Head Start or Early Head Start program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_3CIuBKs7b7IB4nK",
+    "survey": {
+      "program": "kindercare clementon",
+      "address": "35 broadacres dr",
+      "city": "clementon",
+      "zipcode": "08021",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "3479686706",
+      "email": "clementon@kindercare.com",
+      "Q2": "A licensed child care center,A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        3732
+      ],
+      "email": [],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "3732",
+        "program": "kindercare learning center #525",
+        "address": "35 broadacres dr",
+        "city": "clementon",
+        "zipcode": "08021",
+        "id": "04KIN0004",
+        "fac_id": "707119",
+        "phone": "856-783-5401",
+        "email": "300525@klcorp.com"
+      }
+    ]
+  },
+  {
+    "response": "R_7OvLRMSlnTHgkVe",
+    "survey": {
+      "program": "madison extended daycare",
+      "address": "25 cook ave.",
+      "city": "madison",
+      "zipcode": "07940-1824",
+      "id": "14MAD0005 14MAD0006 14Mad007",
+      "njccid": "nan",
+      "phone": "9733773105",
+      "email": "basccmchtmc@gmail.com",
+      "Q2": "A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        2064,
+        2065,
+        2066
+      ],
+      "email": [
+        2064,
+        2066
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "2064",
+        "program": "madison extended day care program-torey j. sabtini school",
+        "address": "glenwild circle glenwild rd",
+        "city": "madison",
+        "zipcode": "07940",
+        "id": "14MAD0007",
+        "fac_id": "703897",
+        "phone": "973-722-9333",
+        "email": "basccmchtmc@gmail.com"
+      },
+      {
+        "universe_row": "2065",
+        "program": "madison extended day care program-king's road school",
+        "address": "king rd",
+        "city": "madison",
+        "zipcode": "07940",
+        "id": "14MAD0006",
+        "fac_id": "709556",
+        "phone": "973-722-9332",
+        "email": "suzanne@tmcmch.com"
+      },
+      {
+        "universe_row": "2066",
+        "program": "madison extended day care program-central ave. school",
+        "address": "central ave",
+        "city": "madison",
+        "zipcode": "07940",
+        "id": "14MAD0005",
+        "fac_id": "703896",
+        "phone": "973-722-9331",
+        "email": "basccmchtmc@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_6gviBQhgcY8qRea",
+    "survey": {
+      "program": "pompton plains preschool",
+      "address": "525 newark pompton turnpike",
+      "city": "pompton plains",
+      "zipcode": "07444",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "973-839-2833",
+      "email": "pomptonplainspreschool@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": [
+        2043
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "2043",
+        "program": "pompton plains pre-school",
+        "address": "525 newark pompton tpke",
+        "city": "pompton plains",
+        "zipcode": "07444",
+        "id": "14POM0001",
+        "fac_id": "709595",
+        "phone": "973-839-2833",
+        "email": "alexisfiory28@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_5rq0obDwXmBVZ9i",
+    "survey": {
+      "program": "dcf regional schools- passaic campus- project teach",
+      "address": "160 minnisink road",
+      "city": "totowa",
+      "zipcode": "07512",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "973-256-3337",
+      "email": "yulee.chuy@dcf.nj.gov",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": [
+        622
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "622",
+        "program": "project teach- passaic",
+        "address": "160 minisink road",
+        "city": "totowa",
+        "zipcode": "07512",
+        "id": "CCC120296",
+        "fac_id": "806823",
+        "phone": "973-256-3337",
+        "email": "patricia.fisher@dcf.nj.gov"
+      }
+    ]
+  },
+  {
+    "response": "R_6fdwoCLqWiTQ0YA",
+    "survey": {
+      "program": "sunbeam tutoring and learning center",
+      "address": "6825 westfield ave. suite-c",
+      "city": "pennsauken",
+      "zipcode": "08110",
+      "id": "nan",
+      "njccid": "100029713",
+      "phone": "856-665-6675",
+      "email": "sunbeamba@yahoo.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        3698
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "3698",
+        "program": "sunbeam christian child care center llc",
+        "address": "4522 camden avenue",
+        "city": "pennsauken",
+        "zipcode": "08110",
+        "id": "04SUN0001",
+        "fac_id": "700695",
+        "phone": "856-520-2010",
+        "email": "sunbeamba@yahoo.com"
+      }
+    ]
+  },
+  {
+    "response": "R_1MPETOHQgX3GH7o",
+    "survey": {
+      "program": "tender love and care daycare",
+      "address": "4021 atlantic ave",
+      "city": "atlantic city",
+      "zipcode": "08401",
+      "id": "T11385",
+      "njccid": "100006747",
+      "phone": "6097031730",
+      "email": "hamlettgloria@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1EX00LJ20T2DlcK",
+    "survey": {
+      "program": "river crossing ymca",
+      "address": "144 west woodschurch road",
+      "city": "flemington",
+      "zipcode": "08822",
+      "id": "we have 21 licenses",
+      "njccid": "nan",
+      "phone": "9084834622",
+      "email": "wcrocetti@ymcarivercrossing.org",
+      "Q2": "A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        425,
+        426
+      ],
+      "email": [
+        344,
+        425,
+        426,
+        647,
+        651,
+        939,
+        2893,
+        2894,
+        2895,
+        2898,
+        2899,
+        2900,
+        2901,
+        2902,
+        2903,
+        2904,
+        2905,
+        2906,
+        2907,
+        3305
+      ],
+      "phone": [
+        425,
+        651,
+        939,
+        2893,
+        2894,
+        2895,
+        2896,
+        2899,
+        2900,
+        2901,
+        2902,
+        2903,
+        2904,
+        2905,
+        2906,
+        2907,
+        3305
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "344",
+        "program": "ymca of bucks and hunterdon counties - spruce",
+        "address": "27 belvidere ave",
+        "city": "clinton",
+        "zipcode": "08809",
+        "id": "CCC127261",
+        "fac_id": "814335",
+        "phone": "640-252-0391",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "425",
+        "program": "ymca of bucks and hunterdon counties - round valley school",
+        "address": "128 cokesbury road",
+        "city": "lebanon",
+        "zipcode": "08833",
+        "id": "CCC123448",
+        "fac_id": "810434",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "426",
+        "program": "ymca of bucks and hunterdon counties - patrick mcghehran school",
+        "address": "63 allerton road",
+        "city": "lebanon",
+        "zipcode": "08833",
+        "id": "CCC123447",
+        "fac_id": "810433",
+        "phone": "640-867-0405",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "647",
+        "program": "hunterdon county ymca - union township school",
+        "address": "149 perryville road",
+        "city": "hampton",
+        "zipcode": "08827",
+        "id": "CCC119856",
+        "fac_id": "808097",
+        "phone": "908-752-7133",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "651",
+        "program": "hunterdon county ymca - franklin township school",
+        "address": "226 quakertown road",
+        "city": "quakertown",
+        "zipcode": "08868",
+        "id": "CCC119825",
+        "fac_id": "808096",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "939",
+        "program": "hunterdon county ymca - lebanon boro school",
+        "address": "6 maple street",
+        "city": "lebanon",
+        "zipcode": "08833",
+        "id": "CCC114401",
+        "fac_id": "808095",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2893",
+        "program": "hunterdon county ymca",
+        "address": "109 fairmount rd",
+        "city": "califon",
+        "zipcode": "07830",
+        "id": "10HUN0020",
+        "fac_id": "808093",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2894",
+        "program": "hunterdon county ymca",
+        "address": "50 court street",
+        "city": "flemington",
+        "zipcode": "08822",
+        "id": "10HUN0018",
+        "fac_id": "808094",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2895",
+        "program": "hunterdon county ymca-conley after school program",
+        "address": "940 iron bridge rd",
+        "city": "asbury",
+        "zipcode": "08802",
+        "id": "10HUN0017",
+        "fac_id": "808091",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2896",
+        "program": "hunterdon county ymca before & after school program",
+        "address": "holland brook school",
+        "city": "readington",
+        "zipcode": "08870",
+        "id": "10HUN0016",
+        "fac_id": "808088",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcabhc.org"
+      },
+      {
+        "universe_row": "2898",
+        "program": "hunterdon county ymca after school program",
+        "address": "kingswood township school",
+        "city": "frenchtown",
+        "zipcode": "08825",
+        "id": "10HUN0014",
+        "fac_id": "808092",
+        "phone": "908-399-3322",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2899",
+        "program": "hunterdon county ymca before & after school",
+        "address": "100 everitts road",
+        "city": "ringoes",
+        "zipcode": "08551",
+        "id": "10HUN0013",
+        "fac_id": "808025",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2900",
+        "program": "hunterdon county ymca after school program",
+        "address": "200 north main street",
+        "city": "lambertville",
+        "zipcode": "08530",
+        "id": "10HUN0012",
+        "fac_id": "808029",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2901",
+        "program": "hunterdon co. ymca before/after sch pro",
+        "address": "three bridges school",
+        "city": "three bridges",
+        "zipcode": "08887",
+        "id": "10HUN0011",
+        "fac_id": "808087",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2902",
+        "program": "hunterdon co. ymca before/after sch prog",
+        "address": "16 old clinton road",
+        "city": "flemington",
+        "zipcode": "08822",
+        "id": "10HUN0009",
+        "fac_id": "808045",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2903",
+        "program": "hunterdon co. ymca before/after sch prog",
+        "address": "8 dayton rd",
+        "city": "flemington",
+        "zipcode": "08822",
+        "id": "10HUN0006",
+        "fac_id": "808047",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2904",
+        "program": "hunterdon co. ymca before/after sch prog",
+        "address": "80 barley sheaf rd",
+        "city": "flemington",
+        "zipcode": "08822",
+        "id": "10HUN0005",
+        "fac_id": "808032",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2905",
+        "program": "hunterdon co. ymca before/after school prog",
+        "address": "43 wertsville rd",
+        "city": "ringoes",
+        "zipcode": "08551",
+        "id": "10HUN0004",
+        "fac_id": "808024",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2906",
+        "program": "hunterdon co. ymca before/after sch prog",
+        "address": "whitehouse school",
+        "city": "whitehouse station",
+        "zipcode": "08889",
+        "id": "10HUN0002",
+        "fac_id": "808086",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "2907",
+        "program": "hunterdon county ymca before & after sch",
+        "address": "710 milford - warren glen rd",
+        "city": "milford",
+        "zipcode": "08848",
+        "id": "10HUN0001",
+        "fac_id": "808028",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      },
+      {
+        "universe_row": "3305",
+        "program": "hunterdon county ymca delaware township school",
+        "address": "501 rosemont ringoes road",
+        "city": "sergeantsville",
+        "zipcode": "08557",
+        "id": "080800313",
+        "fac_id": "808090",
+        "phone": "908-483-4622",
+        "email": "wcrocetti@ymcarivercrossing.org"
+      }
+    ]
+  },
+  {
+    "response": "R_5nUVnuFUQRTM5Tr",
+    "survey": {
+      "program": "happy face nursery school",
+      "address": "po box 81",
+      "city": "califon",
+      "zipcode": "07830",
+      "id": "000HAP1001",
+      "njccid": "100033401",
+      "phone": "9088327510",
+      "email": "smile@happyfacenurseryschool.org",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        2909
+      ],
+      "email": [
+        2909
+      ],
+      "phone": [
+        2909
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "2909",
+        "program": "happy face nursery school of califon, inc",
+        "address": "route 513",
+        "city": "califon",
+        "zipcode": "07830",
+        "id": "10HAP0001",
+        "fac_id": "708928",
+        "phone": "908-832-7510",
+        "email": "smile@happyfacenurseryschool.org"
+      }
+    ]
+  },
+  {
+    "response": "R_6Dc8K3ZyZgnX7jj",
+    "survey": {
+      "program": "lightbridge academy",
+      "address": "295w grand ave",
+      "city": "montvale",
+      "zipcode": "07645",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "8458936623",
+      "email": "rjagadeesan@lightbridgeacademy.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        852,
+        1024,
+        1036,
+        1747,
+        2037,
+        2386,
+        2495,
+        2496,
+        2688,
+        2843,
+        2967,
+        3338,
+        3907,
+        3996
+      ],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "852",
+        "program": "lightbridge academy",
+        "address": "168 milltown road",
+        "city": "east brunswick",
+        "zipcode": "08816",
+        "id": "CCC116525",
+        "fac_id": "802660",
+        "phone": "732-390-1700",
+        "email": "eastbrunswick_nj@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "1024",
+        "program": "lightbridge academy",
+        "address": "2 broad street",
+        "city": "summit",
+        "zipcode": "07901",
+        "id": "20SUP0003",
+        "fac_id": "806536",
+        "phone": "908-598-8383",
+        "email": "kkearney@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "1036",
+        "program": "lightbridge academy",
+        "address": "560 south avenue east",
+        "city": "cranford",
+        "zipcode": "07016",
+        "id": "20RAI0001",
+        "fac_id": "701440",
+        "phone": "908-653-1231",
+        "email": "cranford@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "1747",
+        "program": "lightbridge academy",
+        "address": "2 executive drive",
+        "city": "fort lee",
+        "zipcode": "07024",
+        "id": "161100055",
+        "fac_id": "711720",
+        "phone": "201-585-2020",
+        "email": "ftlee_nj@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "2037",
+        "program": "lightbridge academy",
+        "address": "24 south jefferson road",
+        "city": "whippany",
+        "zipcode": "07981",
+        "id": "14RAI0004",
+        "fac_id": "700077",
+        "phone": "973-386-5520",
+        "email": "whippany@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "2386",
+        "program": "lightbridge academy",
+        "address": "1104 bloomfield avenue",
+        "city": "west caldwell",
+        "zipcode": "07006",
+        "id": "131200163",
+        "fac_id": "707247",
+        "phone": "973-882-1111",
+        "email": "westcaldwell@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "2495",
+        "program": "lightbridge academy",
+        "address": "458 amboy avenue",
+        "city": "woodbridge",
+        "zipcode": "07095",
+        "id": "12RAI0003",
+        "fac_id": "701487",
+        "phone": "732-726-3646",
+        "email": "woodbridge@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "2496",
+        "program": "lightbridge academy",
+        "address": "116 grand street",
+        "city": "iselin",
+        "zipcode": "08830",
+        "id": "12RAI0002",
+        "fac_id": "709230",
+        "phone": "732-404-1010",
+        "email": "iselin@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "2688",
+        "program": "lightbridge academy",
+        "address": "20 kinderkamack road",
+        "city": "westwood",
+        "zipcode": "07675",
+        "id": "120300061",
+        "fac_id": "711054",
+        "phone": "201-722-0010",
+        "email": "westwood@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "2843",
+        "program": "lightbridge academy",
+        "address": "22-50 maple ave",
+        "city": "fair lawn",
+        "zipcode": "07410",
+        "id": "110700168",
+        "fac_id": "710960",
+        "phone": "201-773-8770",
+        "email": "fairlawn@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "2967",
+        "program": "lightbridge academy",
+        "address": "2319 route 34",
+        "city": "manasquan",
+        "zipcode": "08736",
+        "id": "100500245",
+        "fac_id": "706202",
+        "phone": "732-292-3111",
+        "email": "manasquan@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "3338",
+        "program": "lightbridge academy",
+        "address": "314 route 31 north",
+        "city": "flemington",
+        "zipcode": "08822",
+        "id": "080700304",
+        "fac_id": "700074",
+        "phone": "908-237-0078",
+        "email": "flemington@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "3907",
+        "program": "lightbridge academy",
+        "address": "201 route 17 north",
+        "city": "rutherford",
+        "zipcode": "07070",
+        "id": "02RAI0007",
+        "fac_id": "707870",
+        "phone": "201-372-0049",
+        "email": "rutherford@lightbridgeacademy.com"
+      },
+      {
+        "universe_row": "3996",
+        "program": "lightbridge academy",
+        "address": "51 island rd",
+        "city": "mahwah",
+        "zipcode": "07430",
+        "id": "02DON0002",
+        "fac_id": "700477",
+        "phone": "201-529-0066",
+        "email": "mahwah@lightbridgeacademy.com"
+      }
+    ]
+  },
+  {
+    "response": "R_57nZIYxlRXu1gd3",
+    "survey": {
+      "program": "mosaic early learning",
+      "address": "100maple grove blvd.",
+      "city": "lumberton",
+      "zipcode": "08048",
+      "id": "03BCC0006",
+      "njccid": "8033887",
+      "phone": "6098502222",
+      "email": "seham.azabawi@centerffs.orgg",
+      "Q2": "A Head Start or Early Head Start program,A licensed child care center,A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1LuoUfXmDqlt2ZT",
+    "survey": {
+      "program": "little kids college",
+      "address": "1558 brunswick avenue",
+      "city": "lawreneville",
+      "zipcode": "08648",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "609-278-0700",
+      "email": "ppontoriero@littlekidscollege.org",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        2744
+      ],
+      "email": [],
+      "phone": [
+        2744
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "2744",
+        "program": "little kids college inc. preschool & child care center",
+        "address": "1558 brunswick ave",
+        "city": "lawrenceville",
+        "zipcode": "08648",
+        "id": "11LIT0008",
+        "fac_id": "702109",
+        "phone": "609-278-0700",
+        "email": "sortiz@littlekidscollege.org"
+      }
+    ]
+  },
+  {
+    "response": "R_6FkWFC8CB12H0Zu",
+    "survey": {
+      "program": "mosaic early learning lumberton head start",
+      "address": "100 maple grove, blvd.",
+      "city": "lumberton",
+      "zipcode": "08054",
+      "id": "03BCC0006",
+      "njccid": "8033887",
+      "phone": "6098502222",
+      "email": "seham.azabawi@centerffs.org",
+      "Q2": "A Head Start or Early Head Start program,A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_3OhkCIr9VgKzymZ",
+    "survey": {
+      "program": "mvca camp musconetcong",
+      "address": "rock spring park",
+      "city": "long valley",
+      "zipcode": "07853",
+      "id": "691020",
+      "njccid": "701680",
+      "phone": "9088763141",
+      "email": "director@mvca.org",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        823,
+        2050
+      ],
+      "phone": [
+        823,
+        2050
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "823",
+        "program": "mvca flocktown-kossmann school center",
+        "address": "90 flocktown road",
+        "city": "long valley",
+        "zipcode": "07853",
+        "id": "CCC117362",
+        "fac_id": "803572",
+        "phone": "908-876-3141",
+        "email": "director@mvca.org"
+      },
+      {
+        "universe_row": "2050",
+        "program": "mvca old farmers school center",
+        "address": "old farmers rd school",
+        "city": "long valley",
+        "zipcode": "07853",
+        "id": "14MVC0001",
+        "fac_id": "703113",
+        "phone": "908-876-3141",
+        "email": "director@mvca.org"
+      }
+    ]
+  },
+  {
+    "response": "R_6vwdYXAVjLQZSFz",
+    "survey": {
+      "program": "atlanticare before & after school program",
+      "address": "601 n. fourth street",
+      "city": "hammonton",
+      "zipcode": "08037",
+      "id": "01HAMM0002",
+      "njccid": "nan",
+      "phone": "609-204-2334",
+      "email": "anella.scardino@atlanticare.org",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_7WBw96gWQGa0U3S",
+    "survey": {
+      "program": "little performers learning academy",
+      "address": "525 laurel road",
+      "city": "laurel springd",
+      "zipcode": "08021",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "8567848498",
+      "email": "littleperformersla@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        3695
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "3695",
+        "program": "little performers learning academy llc",
+        "address": "525 e laurel rd",
+        "city": "laurel springs",
+        "zipcode": "08021",
+        "id": "04TID0001",
+        "fac_id": "700685",
+        "phone": "267-880-9040",
+        "email": "littleperformersla@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_1pPraYrcOaMMGRQ",
+    "survey": {
+      "program": "ywca northern new jersey",
+      "address": "214",
+      "city": "hackensack",
+      "zipcode": "07601",
+      "id": "nan",
+      "njccid": "100131264",
+      "phone": "2013451905",
+      "email": "dpinto@ywcannj.org",
+      "Q2": "A licensed child care center,A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        88,
+        698,
+        3842,
+        3843,
+        3844,
+        3845,
+        3846
+      ],
+      "phone": [
+        88,
+        698,
+        3842,
+        3843,
+        3844,
+        3845,
+        3846
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "88",
+        "program": "ywcannj @ wandell school",
+        "address": "97 east allendale road",
+        "city": "saddle river",
+        "zipcode": "07458",
+        "id": "CCC131816",
+        "fac_id": "818978",
+        "phone": "201-345-1905",
+        "email": "dpinto@ywcannj.org"
+      },
+      {
+        "universe_row": "698",
+        "program": "ywcannj @harrington park",
+        "address": "191 harriot avenue",
+        "city": "harrington park",
+        "zipcode": "07640",
+        "id": "CCC119170",
+        "fac_id": "805513",
+        "phone": "201-345-1905",
+        "email": "dpinto@ywcannj.org"
+      },
+      {
+        "universe_row": "3842",
+        "program": "ywcannj @honiss elementary school",
+        "address": "25 depew street",
+        "city": "dumont",
+        "zipcode": "07628",
+        "id": "02YWC0042",
+        "fac_id": "702468",
+        "phone": "201-345-1905",
+        "email": "dpinto@ywcannj.org"
+      },
+      {
+        "universe_row": "3843",
+        "program": "ywcannj @grant elementary school",
+        "address": "100 grant avenue",
+        "city": "dumont",
+        "zipcode": "07628",
+        "id": "02YWC0041",
+        "fac_id": "702841",
+        "phone": "201-345-1905",
+        "email": "dpinto@ywcannj.org"
+      },
+      {
+        "universe_row": "3844",
+        "program": "ywcannj @lincoln elementary school",
+        "address": "80 prospect avenue",
+        "city": "dumont",
+        "zipcode": "07628",
+        "id": "02YWC0040",
+        "fac_id": "700429",
+        "phone": "201-345-1905",
+        "email": "dpinto@ywcannj.org"
+      },
+      {
+        "universe_row": "3845",
+        "program": "ywcannj @selzer elementary school",
+        "address": "435 prospect avenue",
+        "city": "dumont",
+        "zipcode": "07628",
+        "id": "02YWC0039",
+        "fac_id": "703999",
+        "phone": "201-345-1905",
+        "email": "dpinto@ywcannj.org"
+      },
+      {
+        "universe_row": "3846",
+        "program": "ywcannj @oradell public school",
+        "address": "350 prospect avenue",
+        "city": "oradell",
+        "zipcode": "07649",
+        "id": "02YWC0016",
+        "fac_id": "704668",
+        "phone": "201-345-1905",
+        "email": "dpinto@ywcannj.org"
+      }
+    ]
+  },
+  {
+    "response": "R_130WwQuBXstv585",
+    "survey": {
+      "program": "grace christian acdemy",
+      "address": "1210 hessian avenue",
+      "city": "west deptford",
+      "zipcode": "08093",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "856-472-5403",
+      "email": "juan@ccsouthjersey.org",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        4118
+      ],
+      "email": [],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "4118",
+        "program": "grace christian academy",
+        "address": "1210 hessian ave",
+        "city": "west deptfrod",
+        "zipcode": "08093",
+        "id": "LEX121790",
+        "fac_id": "808629",
+        "phone": "856-292-5422",
+        "email": "boardoftrustees@graceacademyccsj.com"
+      }
+    ]
+  },
+  {
+    "response": "R_5LUunXARfFkCaFz",
+    "survey": {
+      "program": "vineland iii hs",
+      "address": "116 w elmer street",
+      "city": "vineland",
+      "zipcode": "08360",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "856-691-5838",
+      "email": "bsteward@gatewaycap.org",
+      "Q2": "A Head Start or Early Head Start program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        3658
+      ],
+      "phone": [
+        3658
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "3658",
+        "program": "vineland iii headstart center",
+        "address": "116 elmer st",
+        "city": "vineland",
+        "zipcode": "08360",
+        "id": "06VIN0006",
+        "fac_id": "708317",
+        "phone": "856-691-5838",
+        "email": "bsteward@gatewaycap.org"
+      }
+    ]
+  },
+  {
+    "response": "R_7NHPBfdRGkqBjD6",
+    "survey": {
+      "program": "chesterbrook academy",
+      "address": "900 centennial blvd.. bldg. 3",
+      "city": "voorhees",
+      "zipcode": "08043",
+      "id": "04CHE5000",
+      "njccid": "100269221",
+      "phone": "8567511930",
+      "email": "kim.cantermen@chesterbrookacademy.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        3263,
+        3766,
+        3835,
+        3836
+      ],
+      "address": [],
+      "email": [
+        3766
+      ],
+      "phone": [
+        3766
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "3263",
+        "program": "chesterbrook academy",
+        "address": "279 egg harbor rd",
+        "city": "sewell",
+        "zipcode": "08080",
+        "id": "08CHE0001",
+        "fac_id": "702057",
+        "phone": "856-589-5800",
+        "email": "jeanine.simone@chesterbrookacademy.com"
+      },
+      {
+        "universe_row": "3766",
+        "program": "chesterbrook academy",
+        "address": "9000 centennial blvd",
+        "city": "voorhees",
+        "zipcode": "08043",
+        "id": "04CHE0005",
+        "fac_id": "701984",
+        "phone": "856-751-1930",
+        "email": "kim.cantermen@chesterbrookacademy.com"
+      },
+      {
+        "universe_row": "3835",
+        "program": "chesterbrook academy",
+        "address": "108 evesboro-medford road",
+        "city": "marlton",
+        "zipcode": "08053",
+        "id": "03CHE0003",
+        "fac_id": "701963",
+        "phone": "856-797-2041",
+        "email": "amy.weinstein@chesterbrookacademy.com"
+      },
+      {
+        "universe_row": "3836",
+        "program": "chesterbrook academy",
+        "address": "130 borton landing rd",
+        "city": "moorestown",
+        "zipcode": "08057",
+        "id": "03CHE0001",
+        "fac_id": "707975",
+        "phone": "856-234-5557",
+        "email": "ronni.corcoran@chesterbrookacademy.com"
+      }
+    ]
+  },
+  {
+    "response": "R_1fisae0DQ5AFeMJ",
+    "survey": {
+      "program": "holly city family center",
+      "address": "8 e. mulberry st.",
+      "city": "millville, nj",
+      "zipcode": "08332",
+      "id": "691925",
+      "njccid": "100154706",
+      "phone": "8562930609",
+      "email": "ssilvers@millvillehousing.org",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_6aY4fSA2ULS3ZwA",
+    "survey": {
+      "program": "duri homedaycare",
+      "address": "212 frankfort ave",
+      "city": "northvale",
+      "zipcode": "07647",
+      "id": "3233277",
+      "njccid": "100194319",
+      "phone": "2012812446",
+      "email": "1strongmami1@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_7M650lKV9dVxMJA",
+    "survey": {
+      "program": "spartan care",
+      "address": "590 college blvd",
+      "city": "wenonah",
+      "zipcode": "08090",
+      "id": "10700064",
+      "njccid": "100038736",
+      "phone": "8565203743",
+      "email": "mills.d@deptfordschools.org",
+      "Q2": "A licensed child care center,A license-exempt child care center or program,A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        1347,
+        1631,
+        1786,
+        1787
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "1347",
+        "program": "spartan care - central school - deptford twp. boe",
+        "address": "1040 monmouth rd",
+        "city": "deptford",
+        "zipcode": "08096",
+        "id": "180300145",
+        "fac_id": "707274",
+        "phone": "856-232-2700",
+        "email": "mills.d@deptfordschools.org"
+      },
+      {
+        "universe_row": "1631",
+        "program": "spartan care - good intent (deptford twp boe)",
+        "address": "1555 good intent road",
+        "city": "deptford",
+        "zipcode": "08096",
+        "id": "170100100",
+        "fac_id": "706857",
+        "phone": "856-232-2700",
+        "email": "mills.d@deptfordschools.org"
+      },
+      {
+        "universe_row": "1786",
+        "program": "spartan care - pine acres elementary school",
+        "address": "720 purdue avenue",
+        "city": "wenonah",
+        "zipcode": "08090",
+        "id": "160700065",
+        "fac_id": "706221",
+        "phone": "856-232-2700",
+        "email": "mills.d@deptfordschools.org"
+      },
+      {
+        "universe_row": "1787",
+        "program": "spartan care - oak valley elementary school",
+        "address": "525 college boulevard",
+        "city": "wenonah",
+        "zipcode": "08090",
+        "id": "160700064",
+        "fac_id": "706220",
+        "phone": "856-232-2700",
+        "email": "mills.d@deptfordschools.org"
+      }
+    ]
+  },
+  {
+    "response": "R_1C7StIDnbZbFnok",
+    "survey": {
+      "program": "little honors",
+      "address": "773 hamilton st",
+      "city": "somerset",
+      "zipcode": "08873",
+      "id": "129339",
+      "njccid": "100198699",
+      "phone": "732-535-6338",
+      "email": "yunshin@littlehonors.com",
+      "Q2": "A licensed child care center,A community-based licensed center contracted by a school district to provide public preschool,A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        888
+      ],
+      "address": [
+        226
+      ],
+      "email": [
+        888
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "226",
+        "program": "little honors center site ii",
+        "address": "773 hamilton street",
+        "city": "somerset",
+        "zipcode": "08873",
+        "id": "CCC129339",
+        "fac_id": "816458",
+        "phone": "732-595-6338",
+        "email": "yun@littlehonor.com"
+      },
+      {
+        "universe_row": "888",
+        "program": "little honors",
+        "address": "510 hamilton street",
+        "city": "somerset",
+        "zipcode": "08873",
+        "id": "CCC115900",
+        "fac_id": "801995",
+        "phone": "848-228-4001",
+        "email": "yunshin@littlehonors.com"
+      }
+    ]
+  },
+  {
+    "response": "R_1lAWldBbjPs0iHE",
+    "survey": {
+      "program": "little heroes childcare llc",
+      "address": "549 colgate ave",
+      "city": "perth amboy",
+      "zipcode": "08861",
+      "id": "FR122133",
+      "njccid": "100067769",
+      "phone": "7323972206",
+      "email": "vmadelyn28@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_2cyO1pr0yK1CCqt",
+    "survey": {
+      "program": "chamberlain university/ philosophy",
+      "address": "150 golden street",
+      "city": "miami",
+      "zipcode": "33179",
+      "id": "12345678901",
+      "njccid": "00123456",
+      "phone": "+1 (902) 322-1898",
+      "email": "williamoscar629216@gmail.com",
+      "Q2": "A Head Start or Early Head Start program,A licensed child care center,A community-based licensed center contracted by a school district to provide public preschool,A license-exempt child care center or program,A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1RlSu3VGcgOs2qd",
+    "survey": {
+      "program": "primrose school of berkeley heights",
+      "address": "246 springfield ave berkeley height",
+      "city": "berkeley heights",
+      "zipcode": "07922",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "9082860900",
+      "email": "info@primroseberkeleyheights.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        2233
+      ],
+      "address": [],
+      "email": [
+        2233
+      ],
+      "phone": [
+        2233
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "2233",
+        "program": "primrose school of berkeley heights",
+        "address": "246 springfield ave",
+        "city": "berkeley heights",
+        "zipcode": "07922",
+        "id": "140300148",
+        "fac_id": "704678",
+        "phone": "908-286-0900",
+        "email": "info@primroseberkeleyheights.com"
+      }
+    ]
+  },
+  {
+    "response": "R_71AX62Rc9xjqeEq",
+    "survey": {
+      "program": "gateway paulsboro headstart",
+      "address": "901 n. delaware ave.",
+      "city": "paulsboro",
+      "zipcode": "08066",
+      "id": "08PAU00001",
+      "njccid": "nan",
+      "phone": "8564497198",
+      "email": "pjackson@gatewaycap.org",
+      "Q2": "A Head Start or Early Head Start program,A licensed child care center,A community-based licensed center contracted by a school district to provide public preschool"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        3233
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "3233",
+        "program": "paulsboro headstart center",
+        "address": "901 n delaware street",
+        "city": "paulsboro",
+        "zipcode": "08066",
+        "id": "08PAU0001",
+        "fac_id": "708745",
+        "phone": "856-423-7096",
+        "email": "pjackson@gatewaycap.org"
+      }
+    ]
+  },
+  {
+    "response": "R_3Q9FcErjdd4BEBM",
+    "survey": {
+      "program": "steam enrichment program",
+      "address": "480 chancellor ave",
+      "city": "irvington",
+      "zipcode": "07111",
+      "id": "694180",
+      "njccid": "809999",
+      "phone": "9732144455",
+      "email": "youthenrichmentservice@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [
+        447
+      ],
+      "email": [],
+      "phone": [
+        81,
+        341
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "81",
+        "program": "stem enrichment program",
+        "address": "1261 liberty avenue",
+        "city": "hillside",
+        "zipcode": "07205",
+        "id": "CCC131971",
+        "fac_id": "819133",
+        "phone": "973-214-4455",
+        "email": "youthenrichmentservice1987@gmail.com"
+      },
+      {
+        "universe_row": "341",
+        "program": "stem enrichment program",
+        "address": "1530 leslie street",
+        "city": "hillside",
+        "zipcode": "07205",
+        "id": "CCC127352",
+        "fac_id": "814427",
+        "phone": "973-214-4455",
+        "email": "youthenrichmentservice1987@gmail.com"
+      },
+      {
+        "universe_row": "447",
+        "program": "steam afterschool enrichment program",
+        "address": "480 chancellor avenue",
+        "city": "irvington",
+        "zipcode": "07111",
+        "id": "CCC122939",
+        "fac_id": "809826",
+        "phone": "873-202-4617",
+        "email": "youthenrichmentservice1987@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_3f1zjthi7vhMtgp",
+    "survey": {
+      "program": "angel face daycare",
+      "address": "13 hurden street",
+      "city": "hillside",
+      "zipcode": "07205",
+      "id": "Fcc127998",
+      "njccid": "100152311",
+      "phone": "2018145693",
+      "email": "angelfacedaycare@hotmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_6Vj35vN9RN7m8FP",
+    "survey": {
+      "program": "lelis family child care",
+      "address": "532 hartford st",
+      "city": "perth amboy",
+      "zipcode": "08861",
+      "id": "FCC128115",
+      "njccid": "   100111695",
+      "phone": "7329257224",
+      "email": "lelisfamilycare@outlook.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_6YXNzzb0h1gfUWw",
+    "survey": {
+      "program": "little gems childcare",
+      "address": "225 purdue ave",
+      "city": "pemberton",
+      "zipcode": "08068",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "6096785126",
+      "email": "littlegemschildcare2017@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_7CJx6QxJEpw49mc",
+    "survey": {
+      "program": "erika's family care",
+      "address": "385 kent st",
+      "city": "phillipsburg",
+      "zipcode": "08865",
+      "id": "FCC119958",
+      "njccid": "100056949",
+      "phone": "5512067662",
+      "email": "erickavilla@hotmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_7st2Ja9V5F61t59",
+    "survey": {
+      "program": "janamis day care",
+      "address": "563 johnstone st",
+      "city": "perth amboy",
+      "zipcode": "08861",
+      "id": "123304",
+      "njccid": "809175",
+      "phone": "7327892395",
+      "email": "mevangelistaperez02@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_5oSfP2wLvnsxY4v",
+    "survey": {
+      "program": "emmanuel wee garden center",
+      "address": "54 irvine turner blvd, p.o>box 3234",
+      "city": "newark nj",
+      "zipcode": "07103",
+      "id": "07em001",
+      "njccid": "100097777",
+      "phone": "9734761746",
+      "email": "deloresmatthews25@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        3564
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "3564",
+        "program": "emmanuel's wee garden center",
+        "address": "54-60 irvine turner blvd",
+        "city": "newark",
+        "zipcode": "07103",
+        "id": "07EMM0001",
+        "fac_id": "700963",
+        "phone": "973-242-3552",
+        "email": "deloresmatthews25@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_3nuTgOXCnllJRfz",
+    "survey": {
+      "program": "4 pioneers montessori",
+      "address": "23 newell st.",
+      "city": "hillsborough",
+      "zipcode": "08844",
+      "id": "FCC127183",
+      "njccid": "NJCCIS ID 100241353",
+      "phone": "8482190042",
+      "email": "bgupta2k8@yahoo.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_10ejFmVgkqIzLfn",
+    "survey": {
+      "program": "davamaya day care",
+      "address": "40 sharon ave \\,house",
+      "city": "irvington",
+      "zipcode": "07111",
+      "id": "FCC128873",
+      "njccid": "nan",
+      "phone": "9736818557",
+      "email": "maimuna11shaikh@yahoo.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1CsHsGVSVSOGfpO",
+    "survey": {
+      "program": "childcare",
+      "address": "28a eatoncrest drive",
+      "city": "eatontown",
+      "zipcode": "07724",
+      "id": "FCC130934",
+      "njccid": "100079503",
+      "phone": "8484682703",
+      "email": "coreinwatts@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_6eQB7ted0LWTbnb",
+    "survey": {
+      "program": "care 4 kids",
+      "address": "159 hillside terr",
+      "city": "irvington",
+      "zipcode": "07111",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "9089673064",
+      "email": "phyllisbowen1120@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1PhdSFjsNOGCfrP",
+    "survey": {
+      "program": "twinkle toes, family childcare",
+      "address": "105 lyons ave",
+      "city": "newark",
+      "zipcode": "07112",
+      "id": "FCC132046",
+      "njccid": "nan",
+      "phone": "6468336946",
+      "email": "munchie08.mj@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_5PzKVtaLL2D90GK",
+    "survey": {
+      "program": "god provides daycare",
+      "address": "2620 baird blvd",
+      "city": "camden",
+      "zipcode": "08105",
+      "id": "R043370",
+      "njccid": "100046235",
+      "phone": "8562837543",
+      "email": "divadee02@outlook.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_7HXoFRNyigBvQ1w",
+    "survey": {
+      "program": "aura' family daycare",
+      "address": "352n n arlington ave",
+      "city": "east orange",
+      "zipcode": "07017",
+      "id": "FCC132404",
+      "njccid": "10018417",
+      "phone": "8625884915",
+      "email": "valdezangel1077@gmail.com",
+      "Q2": "A before-and-after school program,Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_5oCMOwuGIEMFz1v",
+    "survey": {
+      "program": "norma reichel",
+      "address": "1007 west street",
+      "city": "union city",
+      "zipcode": "07087",
+      "id": "R095446",
+      "njccid": "100016613",
+      "phone": "2018740441",
+      "email": "norma_reichel@yahoo.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_6sAs0oLmM582Kl3",
+    "survey": {
+      "program": "el jardin de los ni\u00f1os daycare",
+      "address": "1149 cambridge",
+      "city": "camden",
+      "zipcode": "08105",
+      "id": "R043335",
+      "njccid": "100024780",
+      "phone": "856-577-5022",
+      "email": "yari27love@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_54GApteIKY8afoB",
+    "survey": {
+      "program": "we r the world hope child learning center",
+      "address": "314 langston st",
+      "city": "cape may court house",
+      "zipcode": "08210",
+      "id": "FCC120939",
+      "njccid": "100030759",
+      "phone": "6092245810",
+      "email": "sdarby7@aol.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_7hxo8HgmkNIlGDd",
+    "survey": {
+      "program": "we care for kids",
+      "address": "65 courtland lane",
+      "city": "willingboro",
+      "zipcode": "08046",
+      "id": "nan",
+      "njccid": "100030912",
+      "phone": "6094963512",
+      "email": "mpullen16@comcast.net",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_3tnZ6eyFmK1vR6Z",
+    "survey": {
+      "program": "little ark explorers llc",
+      "address": "343 hawthorne ave flr 2",
+      "city": "newark",
+      "zipcode": "07112",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "9738787823",
+      "email": "littlearkexplorers@yahoo.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1msIkIJvlwYCDqF",
+    "survey": {
+      "program": "little friends child care llc",
+      "address": "65 krakow street",
+      "city": "garfield",
+      "zipcode": "07026",
+      "id": "805655",
+      "njccid": "100-015-983",
+      "phone": "2013908283",
+      "email": "teresa99teresa@yahoo.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1FsJkJeRr0upeJH",
+    "survey": {
+      "program": "kiddies academy",
+      "address": "mccallum blvd,dallas,united states",
+      "city": "texas",
+      "zipcode": "75252",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "+1 912-937-9386",
+      "email": "wesleycandace99@gmail.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_4F9v3nOAO9TLzvX",
+    "survey": {
+      "program": "1",
+      "address": "1",
+      "city": "1",
+      "zipcode": "1",
+      "id": "1",
+      "njccid": "1",
+      "phone": "1",
+      "email": "1",
+      "Q2": "A community-based licensed center contracted by a school district to provide public preschool"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_7S81m69PmOEcasC",
+    "survey": {
+      "program": "sherene's babysitting fcc, llc",
+      "address": "447 alden street",
+      "city": "city of orange",
+      "zipcode": "07050",
+      "id": "R075490",
+      "njccid": "100031703",
+      "phone": "9175499703",
+      "email": "sherenebabysitting@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_3fmSkBVOF45dTBD",
+    "survey": {
+      "program": "love me tender",
+      "address": "547 court st",
+      "city": "elizabethport",
+      "zipcode": "07206-1352",
+      "id": "R20-2259",
+      "njccid": "100001292",
+      "phone": "9083683035",
+      "email": "donnagalman@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_5D6GQHJVPJxQPex",
+    "survey": {
+      "program": "alicia ynoa",
+      "address": "253 clinton st",
+      "city": "woodbridge",
+      "zipcode": "07095",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "2015986022",
+      "email": "alicia0366@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1MczD3YMawacEhz",
+    "survey": {
+      "program": "a child\u2019s experience ii",
+      "address": "316 palmer st",
+      "city": "elizabeth",
+      "zipcode": "07202",
+      "id": "Fcc120211",
+      "njccid": "100129258",
+      "phone": "9083041095",
+      "email": "achildsexperienceii@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_3aSiIJv4h8rSbOp",
+    "survey": {
+      "program": "prestiges uh no i",
+      "address": "500 s spring st",
+      "city": "los angeles",
+      "zipcode": "90013",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "+1 7075364332",
+      "email": "liamjohn@louisannotation.com",
+      "Q2": "A license-exempt child care center or program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_6dydg35qqSH6HfS",
+    "survey": {
+      "program": "denise's day center",
+      "address": "636 church st",
+      "city": "pleasantville",
+      "zipcode": "08232",
+      "id": "FCC121046",
+      "njccid": "100062026",
+      "phone": "6094535858",
+      "email": "pslams50@yahoo.com",
+      "Q2": "A license-exempt child care center or program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_29k9oY9Xbw0IlCV",
+    "survey": {
+      "program": "little stars learning center",
+      "address": "123 elm street, apt 4b",
+      "city": "san francisco",
+      "zipcode": "94107",
+      "id": "LIC-84920",
+      "njccid": "102938",
+      "phone": "123-456-7890",
+      "email": "jane.doe@example.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1CUioviCflhhXna",
+    "survey": {
+      "program": "happy face child care",
+      "address": "99 garfield avenue",
+      "city": "lodi",
+      "zipcode": "07644",
+      "id": "R0221032",
+      "njccid": "100032626",
+      "phone": "201-926-0546",
+      "email": "rosag353@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1SjELPqb2WwZoco",
+    "survey": {
+      "program": "regina eze fcc",
+      "address": "28 wilson place,",
+      "city": "irvington",
+      "zipcode": "07111",
+      "id": "115243",
+      "njccid": "100060839",
+      "phone": "9739797462",
+      "email": "ginaezekiel2@gmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_52wTewT5UDioLFa",
+    "survey": {
+      "program": "la casa de santa fcc llc",
+      "address": "161 south main st",
+      "city": "hackensack",
+      "zipcode": "07601-5359",
+      "id": "nan",
+      "njccid": "100023902",
+      "phone": "5515875249",
+      "email": "wandysortega@hotmail.com",
+      "Q2": "Other (please explain)"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  },
+  {
+    "response": "R_1r0t9mwxx9PIaW7",
+    "survey": {
+      "program": "rainbows of learning",
+      "address": "2 pines rd.",
+      "city": "branchville",
+      "zipcode": "07822-2021",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "862-440-6144",
+      "email": "ebushey@rainbowsoflearning.org",
+      "Q2": "A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        3631
+      ],
+      "address": [
+        1974
+      ],
+      "email": [],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "1974",
+        "program": "rainbows of learning inc.",
+        "address": "2 pines road",
+        "city": "branchville",
+        "zipcode": "07826",
+        "id": "150600163",
+        "fac_id": "705457",
+        "phone": "973-600-5814",
+        "email": "ebushey05@gmail.com"
+      },
+      {
+        "universe_row": "3631",
+        "program": "rainbows of learning",
+        "address": "118 rt. 206",
+        "city": "augusta",
+        "zipcode": "07822",
+        "id": "070900150",
+        "fac_id": "700181",
+        "phone": "973-383-5956",
+        "email": "info@rainbowsoflearning.org"
+      }
+    ]
+  },
+  {
+    "response": "R_31yiOjFNMugzIOT",
+    "survey": {
+      "program": "the goddard school",
+      "address": "90 hartford road",
+      "city": "moorestown",
+      "zipcode": "08057",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "8564612250",
+      "email": "nan",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        450,
+        451,
+        664,
+        875,
+        1141,
+        1239,
+        1240,
+        1368,
+        1691,
+        1830,
+        1912,
+        1913,
+        1914,
+        2107,
+        2108,
+        2110,
+        2111,
+        2194,
+        2341,
+        2343,
+        2346,
+        2347,
+        2348,
+        2443,
+        2450,
+        2581,
+        2583,
+        2584,
+        2586,
+        2783,
+        2784,
+        2910,
+        3253,
+        3254,
+        3617,
+        3634,
+        3749,
+        3750,
+        3752,
+        3823,
+        3824,
+        3825,
+        3979
+      ],
+      "address": [
+        3823
+      ],
+      "email": [],
+      "phone": [
+        3823
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "450",
+        "program": "the goddard school",
+        "address": "425 washington blvd",
+        "city": "jersey city",
+        "zipcode": "07310",
+        "id": "CCC122887",
+        "fac_id": "809773",
+        "phone": "732-207-4678",
+        "email": "millburnnj@goddardschools.com"
+      },
+      {
+        "universe_row": "451",
+        "program": "the goddard school",
+        "address": "50-58 burnett avenue",
+        "city": "maplewood",
+        "zipcode": "07040",
+        "id": "CCC122886",
+        "fac_id": "809772",
+        "phone": "973-561-0255",
+        "email": "maplewoodnj@goddardschools.com"
+      },
+      {
+        "universe_row": "664",
+        "program": "the goddard school",
+        "address": "2 seymour plaza",
+        "city": "montclair",
+        "zipcode": "07042",
+        "id": "CCC119633",
+        "fac_id": "806104",
+        "phone": "973-433-5022",
+        "email": "montclairnj@goddardschools.com"
+      },
+      {
+        "universe_row": "875",
+        "program": "the goddard school",
+        "address": "876 rt. 518",
+        "city": "skillman",
+        "zipcode": "08558",
+        "id": "CCC116221",
+        "fac_id": "802335",
+        "phone": "848-248-0866",
+        "email": "skillmannj@goddardschools.com"
+      },
+      {
+        "universe_row": "1141",
+        "program": "the goddard school",
+        "address": "107 main street",
+        "city": "sparta",
+        "zipcode": "07871",
+        "id": "19GOD0001",
+        "fac_id": "700095",
+        "phone": "973-726-4110",
+        "email": "spartanj@goddardschools.com"
+      },
+      {
+        "universe_row": "1239",
+        "program": "the goddard school",
+        "address": "3322 us hwy 22 w",
+        "city": "branchburg",
+        "zipcode": "08876",
+        "id": "18GOD0003",
+        "fac_id": "807859",
+        "phone": "908-231-8600",
+        "email": "crlkbranchburg@gmail.com"
+      },
+      {
+        "universe_row": "1240",
+        "program": "the goddard school",
+        "address": "378 s branch rd",
+        "city": "hillsborough",
+        "zipcode": "08844",
+        "id": "18GOD0002",
+        "fac_id": "705191",
+        "phone": "908-371-1499",
+        "email": "dhillsboroughnj@goddardschools.com"
+      },
+      {
+        "universe_row": "1368",
+        "program": "the goddard school",
+        "address": "161 millburn avenue",
+        "city": "millburn",
+        "zipcode": "07041",
+        "id": "180100134",
+        "fac_id": "711953",
+        "phone": "973-671-4500",
+        "email": "millburnnj@goddardschools.com"
+      },
+      {
+        "universe_row": "1691",
+        "program": "the goddard school",
+        "address": "2086 hamburg tpke",
+        "city": "wayne",
+        "zipcode": "07470",
+        "id": "16GOD0001",
+        "fac_id": "709803",
+        "phone": "973-839-3980",
+        "email": "dwaynenj2@goddardschools.com"
+      },
+      {
+        "universe_row": "1830",
+        "program": "the goddard school",
+        "address": "190 campus drive",
+        "city": "florham park",
+        "zipcode": "07932",
+        "id": "160500023",
+        "fac_id": "707205",
+        "phone": "973-437-5100",
+        "email": "florhamparknj@goddardschools.com"
+      },
+      {
+        "universe_row": "1912",
+        "program": "the goddard school",
+        "address": "214 lacey rd",
+        "city": "forked river",
+        "zipcode": "08731",
+        "id": "15GOD0004",
+        "fac_id": "700096",
+        "phone": "609-971-0051",
+        "email": "forkedrivernj@goddardschools.com"
+      },
+      {
+        "universe_row": "1913",
+        "program": "the goddard school",
+        "address": "65 drum point rd",
+        "city": "brick",
+        "zipcode": "08724",
+        "id": "15GOD0002",
+        "fac_id": "700042",
+        "phone": "732-920-0229",
+        "email": "bricknj@goddardschools.com"
+      },
+      {
+        "universe_row": "1914",
+        "program": "the goddard school",
+        "address": "36 bey lea rd",
+        "city": "toms river",
+        "zipcode": "08753",
+        "id": "15GOD0001",
+        "fac_id": "703304",
+        "phone": "732-240-2121",
+        "email": "tomsriver1nj@goddardschools.com"
+      },
+      {
+        "universe_row": "2107",
+        "program": "the goddard school",
+        "address": "311 smith road",
+        "city": "parsippany",
+        "zipcode": "07054",
+        "id": "14GOD0005",
+        "fac_id": "703225",
+        "phone": "973-386-5550",
+        "email": "parsippanynj@goddardschools.com"
+      },
+      {
+        "universe_row": "2108",
+        "program": "the goddard school",
+        "address": "244 rte. 206 s",
+        "city": "flanders",
+        "zipcode": "07836",
+        "id": "14GOD0004",
+        "fac_id": "701670",
+        "phone": "973-598-1555",
+        "email": "dflandersnj@goddardschools.com"
+      },
+      {
+        "universe_row": "2110",
+        "program": "the goddard school",
+        "address": "1570 sussex tpke",
+        "city": "randolph",
+        "zipcode": "07869",
+        "id": "14GOD0002",
+        "fac_id": "704761",
+        "phone": "973-584-1154",
+        "email": "randolphnj@goddardschools.com"
+      },
+      {
+        "universe_row": "2111",
+        "program": "the goddard school",
+        "address": "3175 route 10 east, suite 1",
+        "city": "denville",
+        "zipcode": "07834",
+        "id": "14GOD0001",
+        "fac_id": "703944",
+        "phone": "973-328-8588",
+        "email": "denvillenj@goddardschools.com"
+      },
+      {
+        "universe_row": "2194",
+        "program": "the goddard school",
+        "address": "120 charlotte place",
+        "city": "englewood cliffs",
+        "zipcode": "07632",
+        "id": "140700166",
+        "fac_id": "706479",
+        "phone": "201-582-6160",
+        "email": "englewoodcliffsnj@goddardschools.com"
+      },
+      {
+        "universe_row": "2341",
+        "program": "the goddard school",
+        "address": "50 county road 520",
+        "city": "morganville",
+        "zipcode": "07751",
+        "id": "13GOD0011",
+        "fac_id": "705839",
+        "phone": "732-617-8181",
+        "email": "marlboro2nj@goddardschools.com"
+      },
+      {
+        "universe_row": "2343",
+        "program": "the goddard school",
+        "address": "209 harmony road",
+        "city": "middletown",
+        "zipcode": "07748",
+        "id": "13GOD0009",
+        "fac_id": "703437",
+        "phone": "732-706-5600",
+        "email": "dmiddletownnj@goddardschools.com"
+      },
+      {
+        "universe_row": "2346",
+        "program": "the goddard school",
+        "address": "361 r. monmouth rd",
+        "city": "west long branch",
+        "zipcode": "07764",
+        "id": "13GOD0003",
+        "fac_id": "807025",
+        "phone": "732-571-2244",
+        "email": "cbant0807@gmail.com"
+      },
+      {
+        "universe_row": "2347",
+        "program": "the goddard school",
+        "address": "230 schanck road",
+        "city": "freehold",
+        "zipcode": "07728",
+        "id": "13GOD0002",
+        "fac_id": "807226",
+        "phone": "732-431-2555",
+        "email": "freehold1nj@goddardschools.com"
+      },
+      {
+        "universe_row": "2348",
+        "program": "the goddard school",
+        "address": "1981 nj 34",
+        "city": "wall township",
+        "zipcode": "07719",
+        "id": "13GOD0001",
+        "fac_id": "801804",
+        "phone": "732-974-8314",
+        "email": "wallnj@goddardschools.com"
+      },
+      {
+        "universe_row": "2443",
+        "program": "the goddard school",
+        "address": "76 little falls road",
+        "city": "fairfield",
+        "zipcode": "07004",
+        "id": "130600077",
+        "fac_id": "711212",
+        "phone": "973-227-5577",
+        "email": "fairfieldnj@goddardschools.com"
+      },
+      {
+        "universe_row": "2450",
+        "program": "the goddard school",
+        "address": "1541 route 31",
+        "city": "clinton",
+        "zipcode": "08809",
+        "id": "130400212",
+        "fac_id": "808620",
+        "phone": "908-752-4664",
+        "email": "clintonnj@goddardschools.com"
+      },
+      {
+        "universe_row": "2581",
+        "program": "the goddard school",
+        "address": "1480 englishtown road",
+        "city": "old bridge",
+        "zipcode": "08857",
+        "id": "12GOD0009",
+        "fac_id": "701433",
+        "phone": "732-416-9600",
+        "email": "oldbridge2nj@goddardschools.com"
+      },
+      {
+        "universe_row": "2583",
+        "program": "the goddard school",
+        "address": "300 belchase drive",
+        "city": "matawan",
+        "zipcode": "07747",
+        "id": "12GOD0005",
+        "fac_id": "707445",
+        "phone": "732-441-3500",
+        "email": "oldbridge1nj@goddardschools.com"
+      },
+      {
+        "universe_row": "2584",
+        "program": "the goddard school",
+        "address": "206 summerhill road",
+        "city": "spotswood",
+        "zipcode": "08884",
+        "id": "12GOD0004",
+        "fac_id": "706819",
+        "phone": "732-723-0900",
+        "email": "spotswoodnj@goddardschools.com"
+      },
+      {
+        "universe_row": "2586",
+        "program": "the goddard school",
+        "address": "376 south randolphville road",
+        "city": "piscataway",
+        "zipcode": "08854",
+        "id": "12GOD0001",
+        "fac_id": "709159",
+        "phone": "732-981-1133",
+        "email": "piscatawaynj@goddardschools.com"
+      },
+      {
+        "universe_row": "2783",
+        "program": "the goddard school",
+        "address": "158 scotch rd",
+        "city": "ewing",
+        "zipcode": "08628",
+        "id": "11GOD0005",
+        "fac_id": "809222",
+        "phone": "609-883-6800",
+        "email": "ewingnj@goddardschools.com"
+      },
+      {
+        "universe_row": "2784",
+        "program": "the goddard school",
+        "address": "29 emmons dr",
+        "city": "princeton",
+        "zipcode": "08540",
+        "id": "11GOD0004",
+        "fac_id": "703110",
+        "phone": "609-734-0909",
+        "email": "dprincetonnj@goddardschools.com"
+      },
+      {
+        "universe_row": "2910",
+        "program": "the goddard school",
+        "address": "4 minneakoning road",
+        "city": "flemington",
+        "zipcode": "08822",
+        "id": "10GOD0001",
+        "fac_id": "702808",
+        "phone": "908-237-2050",
+        "email": "flemingtonnj@goddardschools.com"
+      },
+      {
+        "universe_row": "3253",
+        "program": "the goddard school",
+        "address": "233 n main street",
+        "city": "mullica hill",
+        "zipcode": "08062",
+        "id": "08GOD0002",
+        "fac_id": "708707",
+        "phone": "856-478-4045",
+        "email": "mullicahillnj@goddardschools.com"
+      },
+      {
+        "universe_row": "3254",
+        "program": "the goddard school",
+        "address": "3 plaza drive",
+        "city": "sewell",
+        "zipcode": "08080",
+        "id": "08GOD0001",
+        "fac_id": "701097",
+        "phone": "856-256-8200",
+        "email": "washingtontwpnj@goddardschools.com"
+      },
+      {
+        "universe_row": "3617",
+        "program": "the goddard school",
+        "address": "324 south avenue",
+        "city": "fanwood",
+        "zipcode": "07023",
+        "id": "071200032",
+        "fac_id": "706719",
+        "phone": "908-232-5250",
+        "email": "fanwoodnj@goddardschools.com"
+      },
+      {
+        "universe_row": "3634",
+        "program": "the goddard school",
+        "address": "240 w route 38",
+        "city": "moorestown",
+        "zipcode": "08057",
+        "id": "070900008",
+        "fac_id": "807312",
+        "phone": "856-235-7006",
+        "email": "jxjventures@gmail.com"
+      },
+      {
+        "universe_row": "3749",
+        "program": "the goddard school",
+        "address": "1167 chews landing rd",
+        "city": "laurel springs",
+        "zipcode": "08021",
+        "id": "04GOD0005",
+        "fac_id": "700632",
+        "phone": "856-566-5600",
+        "email": "laurelspringsnj@goddardschools.com"
+      },
+      {
+        "universe_row": "3750",
+        "program": "the goddard school",
+        "address": "1601 sicklerville rd",
+        "city": "sicklerville",
+        "zipcode": "08081",
+        "id": "04GOD0004",
+        "fac_id": "801600",
+        "phone": "856-401-3111",
+        "email": "dsicklervillenj2@goddardschools.com"
+      },
+      {
+        "universe_row": "3752",
+        "program": "the goddard school",
+        "address": "2050 springdale road",
+        "city": "cherry hill",
+        "zipcode": "08003",
+        "id": "04GOD0001",
+        "fac_id": "703003",
+        "phone": "551-574-8083",
+        "email": "cherryhillnj@goddardschools.com"
+      },
+      {
+        "universe_row": "3823",
+        "program": "the goddard school",
+        "address": "90 hartford rd",
+        "city": "delran",
+        "zipcode": "08075",
+        "id": "03GOD0008",
+        "fac_id": "707999",
+        "phone": "856-461-2250",
+        "email": "ddelrannj@goddardschools.com"
+      },
+      {
+        "universe_row": "3824",
+        "program": "the goddard school",
+        "address": "231crosswicks rd suite 15",
+        "city": "bordentown",
+        "zipcode": "08505",
+        "id": "03GOD0005",
+        "fac_id": "700079",
+        "phone": "609-291-1800",
+        "email": "bordentownnj@goddardschools.com"
+      },
+      {
+        "universe_row": "3825",
+        "program": "the goddard school",
+        "address": "10 jennings road",
+        "city": "medford",
+        "zipcode": "08055",
+        "id": "03GOD0004",
+        "fac_id": "700596",
+        "phone": "609-714-8686",
+        "email": "dmedfordnj@goddardschools.com"
+      },
+      {
+        "universe_row": "3979",
+        "program": "the goddard school",
+        "address": "15 brook street",
+        "city": "norwood",
+        "zipcode": "07648",
+        "id": "02GOD0004",
+        "fac_id": "703101",
+        "phone": "201-750-2200",
+        "email": "norwoodnj@goddardschools.com"
+      }
+    ]
+  },
+  {
+    "response": "R_3I8p8Gtn8tAhveF",
+    "survey": {
+      "program": "wee kids early learning center",
+      "address": "1299 route 38",
+      "city": "hainesport",
+      "zipcode": "08036",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "6095187529",
+      "email": "info@weekidelc.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        3784
+      ],
+      "address": [],
+      "email": [
+        3784
+      ],
+      "phone": [
+        3784
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "3784",
+        "program": "wee kids early learning center",
+        "address": "1299 route 38 west",
+        "city": "hainesport",
+        "zipcode": "08036",
+        "id": "03WEE0004",
+        "fac_id": "806607",
+        "phone": "609-518-7529",
+        "email": "info@weekidelc.com"
+      }
+    ]
+  },
+  {
+    "response": "R_6VvvfDMEWDdBBwV",
+    "survey": {
+      "program": "children's learning center, inc.",
+      "address": "295 hudson place",
+      "city": "fairview",
+      "zipcode": "07022",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "2019417277",
+      "email": "childlc@aol.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        4003
+      ],
+      "address": [],
+      "email": [
+        4003
+      ],
+      "phone": [
+        4003
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "4003",
+        "program": "children's learning center, inc.",
+        "address": "295 hudson pl",
+        "city": "fairview",
+        "zipcode": "07022",
+        "id": "02CHI0007",
+        "fac_id": "700449",
+        "phone": "201-941-7277",
+        "email": "childlc@aol.com"
+      }
+    ]
+  },
+  {
+    "response": "R_5bGnxPqTI8u82Ln",
+    "survey": {
+      "program": "saint albans preschool",
+      "address": "1 church lane",
+      "city": "oakland",
+      "zipcode": "07436",
+      "id": "02SA10003",
+      "njccid": "nan",
+      "phone": "+1 201 337 5928",
+      "email": "stalbanspreschl@optonline.net",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        3897
+      ],
+      "phone": [
+        3897
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "3897",
+        "program": "saint alban's pre-school",
+        "address": "1 church la",
+        "city": "oakland",
+        "zipcode": "07436",
+        "id": "02SAI0003",
+        "fac_id": "705862",
+        "phone": "201-337-5928",
+        "email": "stalbanspreschl@optonline.net"
+      }
+    ]
+  },
+  {
+    "response": "R_1ASSRSdpo8MGe1u",
+    "survey": {
+      "program": "unow day nursery",
+      "address": "185 broadmead",
+      "city": "princeton",
+      "zipcode": "08540",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "1609-258-7280",
+      "email": "erikag@princeton.edu",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": [
+        2710
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "2710",
+        "program": "university n o w day nursery",
+        "address": "185 broadmead street",
+        "city": "princeton",
+        "zipcode": "08540",
+        "id": "11UNI0002",
+        "fac_id": "709110",
+        "phone": "609-258-7280",
+        "email": "unow@princeton.edu"
+      }
+    ]
+  },
+  {
+    "response": "R_5JLQ6ucOjgOXqIo",
+    "survey": {
+      "program": "the salvation army",
+      "address": "4 gary rd",
+      "city": "union",
+      "zipcode": "07083",
+      "id": "nan",
+      "njccid": "100190341",
+      "phone": "9088519300",
+      "email": "kali.lewis@use.salvationarmy.org",
+      "Q2": "A Head Start or Early Head Start program,A licensed child care center,A community-based licensed center contracted by a school district to provide public preschool,A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        700,
+        4048
+      ],
+      "address": [
+        700,
+        1566,
+        2031,
+        2485,
+        3006,
+        4048
+      ],
+      "email": [
+        4048
+      ],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "700",
+        "program": "the salvation army",
+        "address": "180 newman springs road",
+        "city": "red bank",
+        "zipcode": "07701",
+        "id": "CCC119090",
+        "fac_id": "805420",
+        "phone": "732-747-1626",
+        "email": "orlando.santos@use.salvationarmy.org"
+      },
+      {
+        "universe_row": "1566",
+        "program": "the salvation army kroc center",
+        "address": "1865 harrison ave",
+        "city": "camden",
+        "zipcode": "08105",
+        "id": "170400215",
+        "fac_id": "705134",
+        "phone": "856-379-6850",
+        "email": "kaprena.morris@use.salvationarmy.org"
+      },
+      {
+        "universe_row": "2031",
+        "program": "the salvation army day care center",
+        "address": "95 spring street",
+        "city": "morristown",
+        "zipcode": "07960",
+        "id": "14SAL0001",
+        "fac_id": "702941",
+        "phone": "973-539-2700",
+        "email": "dorian.restrepo@use.salvationarmy.org"
+      },
+      {
+        "universe_row": "2485",
+        "program": "the salvation army corps community center in new brunswick",
+        "address": "287 handy street",
+        "city": "new brunswick",
+        "zipcode": "08901",
+        "id": "12SAL0001",
+        "fac_id": "703787",
+        "phone": "732-913-7208",
+        "email": "joycelyn.akrasih@use.salvationarmy.org"
+      },
+      {
+        "universe_row": "3006",
+        "program": "the salvation army early childhd edu ctr",
+        "address": "562 bergen avenue",
+        "city": "jersey city",
+        "zipcode": "07304",
+        "id": "09SAL0004",
+        "fac_id": "702073",
+        "phone": "201-435-7355",
+        "email": "kimberly.solorzano@use.salvationarmy.org"
+      },
+      {
+        "universe_row": "4048",
+        "program": "the salvation army",
+        "address": "22 s texas avenue",
+        "city": "atlantic city",
+        "zipcode": "08401",
+        "id": "01SAL0001",
+        "fac_id": "707668",
+        "phone": "609-344-0660",
+        "email": "kali.lewis@use.salvationarmy.org"
+      }
+    ]
+  },
+  {
+    "response": "R_5HvMizL8Zu3Zaqt",
+    "survey": {
+      "program": "miss barbara's schoolhouse",
+      "address": "2800 quakerbridge rd",
+      "city": "hamilton",
+      "zipcode": "08619",
+      "id": "nan",
+      "njccid": "nan",
+      "phone": "6096891900",
+      "email": "nan",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [
+        2735
+      ],
+      "address": [
+        2735
+      ],
+      "email": [],
+      "phone": []
+    },
+    "facilities": [
+      {
+        "universe_row": "2735",
+        "program": "miss barbara's schoolhouse",
+        "address": "2800 quakerbridge rd",
+        "city": "trenton",
+        "zipcode": "08619",
+        "id": "11MIS0001",
+        "fac_id": "703075",
+        "phone": "267-597-2622",
+        "email": "yelena.spector@gmail.com"
+      }
+    ]
+  },
+  {
+    "response": "R_3K7LssdjJWNtGKD",
+    "survey": {
+      "program": "bridges nursery school",
+      "address": "186 gordon\u2019s corner roas",
+      "city": "manalapan",
+      "zipcode": "07726",
+      "id": "1BRI0008",
+      "njccid": "nan",
+      "phone": "7324463107",
+      "email": "bridgesns@yahoo.com",
+      "Q2": "A licensed child care center"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [
+        2369
+      ],
+      "phone": [
+        2369
+      ]
+    },
+    "facilities": [
+      {
+        "universe_row": "2369",
+        "program": "bridges at saint thomas more nursery school",
+        "address": "186 gordon's corner rd",
+        "city": "manalapan",
+        "zipcode": "07726",
+        "id": "13BRI0008",
+        "fac_id": "705005",
+        "phone": "732-446-3107",
+        "email": "bridgesns@yahoo.com"
+      }
+    ]
+  },
+  {
+    "response": "R_77AdNhJeGaMy0yR",
+    "survey": {
+      "program": "divina tavera",
+      "address": "166",
+      "city": "parque elmwood",
+      "zipcode": "07407",
+      "id": "FCC132221",
+      "njccid": "100296296",
+      "phone": "6463632322",
+      "email": "nazatavera@hotmail.com",
+      "Q2": "A licensed child care center,A before-and-after school program"
+    },
+    "evidence": {
+      "id": [],
+      "njccid": [],
+      "program": [],
+      "address": [],
+      "email": [],
+      "phone": []
+    },
+    "facilities": []
+  }
+]

@@ -1,0 +1,308 @@
+{
+  "R_6wdUGkH6kJ0lsad": {
+    "license_id": "CCC129042",
+    "fac_id": "816161",
+    "evidence": "59794462e805becba4afec29435dfc89f65624394ab2b4405a649d2b1f433af8",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_7OL22N0kt615kc1": {
+    "license_id": "171200018",
+    "fac_id": "700557",
+    "evidence": "8e117477e492e90bc93e6d433c66922f6c4137c6590be31002a1d28f07a8f5c9",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_32YCfmIs4H4xfvb": {
+    "license_id": "171200024",
+    "fac_id": "702977",
+    "evidence": "f136066087cc635fa4e14e14180a6e71626e0b5862bbe6a40de692f317a61dd0",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_7dhqIGQbOh6ls0r": {
+    "license_id": "07LEA0002",
+    "fac_id": "702432",
+    "evidence": "f363b44b45cb3dd07037082f3a5db207f380d940f95d66a635a12df1413d6bf9",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_1PjCul057sBDg2U": {
+    "license_id": "CCC117685",
+    "fac_id": "803915",
+    "evidence": "6628b98ec7828531fecc1a8f88785c0fad3260b6d4b24cdce3f8e169470f676a",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_3Sqvs3DLdc2DuiY": {
+    "license_id": "21PHI0003",
+    "fac_id": "710295",
+    "evidence": "7af76779303a4f16a509be778a28979f3a6369359b51270be2cf7da513a9ce97",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_5gc20xD9zzpLKxu": {
+    "license_id": "CCC128726",
+    "fac_id": "815826",
+    "evidence": "ac08b9a268eeca3bec739db4d27681358f07da4f1d203fd905eb1ced48036a54",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_5HZxlxqFO9glasV": {
+    "license_id": "CCC120095",
+    "fac_id": "806597",
+    "evidence": "1c2cdf7e1a1fdf539268c5e93be19543dc677b2a81519b086bee22fbadda2f8c",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_3QE4it7x7MvJdgy": {
+    "license_id": "07NOR0003",
+    "fac_id": "702431",
+    "evidence": "b97378f521899d31a4d7c0c02227a8f6482a4eb4cc77c8f57f1ccb4992a7d181",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_3jGNhi2zSxxo89z": {
+    "license_id": "171200017",
+    "fac_id": "702902",
+    "evidence": "0ad4099eea1bc74a0a04fb7b29defbce133e4a7088345071f3c9eeb791185065",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_1gd8gXeOMCUvDnW": {
+    "license_id": "171200029",
+    "fac_id": "702912",
+    "evidence": "a0b0661dd837bd2f3bc8c1010a004a7d494c951ad97dca88f85e92caf1fc30f6",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_574ed2AJRLtfzR7": {
+    "license_id": "CCC131045",
+    "fac_id": "818189",
+    "evidence": "1902f9a1129b18e772371e6d5211cdf6b2b988e4e13b2dcd289014ff705d1e5a",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_3JqI9EyV8zgFL1Q": {
+    "license_id": "140100057",
+    "fac_id": "706526",
+    "evidence": "5314482f30413435f41bd3d37c0eb07010a59a223d4a6b1c4c81313bb3f7657a",
+    "reason": "Manually reviewed ID conflict; selected using facility name, address and supporting contact evidence."
+  },
+  "R_3wFjuWr909KrUdV": {
+    "license_id": "17WOO0005",
+    "fac_id": "700025",
+    "evidence": "3e5724c45bd29659310527e355fc6a7109fedaf531737f86ac192679c00dc8e0",
+    "reason": "User approved manual review: facility identity supported by address, program and/or matching contacts; survey entry variations documented in review."
+  },
+  "R_3pnxfMR7JniJBk6": {
+    "license_id": "18CHI0008",
+    "fac_id": "700174",
+    "evidence": "347dd880dd52e587e5b051e60d133b761ba9a323340ffcdea41aee60dadec0a2",
+    "reason": "User approved manual review: facility identity supported by address, program and/or matching contacts; survey entry variations documented in review."
+  },
+  "R_6kfjWbOIiQUTESB": {
+    "license_id": "09KID0004",
+    "fac_id": "700844",
+    "evidence": "ee3799732fdcd2ccd1100653666d95a4fea5273ef527b15e677fa3401709550e",
+    "reason": "User approved manual review: facility identity supported by address, program and/or matching contacts; survey entry variations documented in review."
+  },
+  "R_62qXri1mciReFET": {
+    "license_id": "15DOV0001",
+    "fac_id": "706245",
+    "evidence": "5a8e4def3084332a758dd790859600ceed8e987cd90e386b305afe074defd015",
+    "reason": "User approved manual review: facility identity supported by address, program and/or matching contacts; survey entry variations documented in review."
+  },
+  "R_6BxKDteGW9qplTI": {
+    "license_id": "CCC117338",
+    "fac_id": "803547",
+    "evidence": "787a9ff7f6342f2a5cb6d45a12bca63e1632c7b2eae820c18e8e1f9861180b70",
+    "reason": "User approved manual review: facility identity supported by address, program and/or matching contacts; survey entry variations documented in review."
+  },
+  "R_7kLkTP7rOXvi9Lh": {
+    "license_id": "CCC129020",
+    "fac_id": "816139",
+    "evidence": "d65047f19ce530ad05c3742b84a1d0a9cfc3b844c2220785f8da136b273f7181",
+    "reason": "User approved: exact program, email and phone; address agrees; malformed survey identifier/locality."
+  },
+  "R_1UA7kcUFJpVDkm5": {
+    "license_id": "09FIR0005",
+    "fac_id": "701145",
+    "evidence": "0940ad979707c17717ba09ef74e112c2834097a63ed888bf5be35e22d6455e77",
+    "reason": "User approved: exact program, email and phone; address agrees; malformed survey identifier/locality."
+  },
+  "R_3OUSB0EDWRPmCXf": {
+    "license_id": "CCC116954",
+    "fac_id": "803120",
+    "evidence": "cb7d1944f9dfce7b46fe1481b2dffa82f4719be0f94e4320f9e10842516991e7",
+    "reason": "Full universe license CCC116954 embedded in survey ID; compatible program and exact street/city. ZIP typo retained."
+  },
+  "R_1MGyFWKFulednIm": {
+    "license_id": "081000105",
+    "fac_id": "808000",
+    "evidence": "8f487b299581e9abaa6386af13e54c8b2f28fe502c043ef3814ab2835c3f25b9",
+    "reason": "Exact program, street number, route 523, city and ZIP; phone lacks one digit. Manual match only."
+  },
+  "R_6BAjIrcxFlARW49": {
+    "license_id": "04BER0001",
+    "fac_id": "708083",
+    "evidence": "c71821ff32e5e7ec034aad462aad4b0dc009ec807dd66fb2d675ff65486d8239",
+    "reason": "Exact program, email and phone; city/ZIP agree. Street number 149 vs 151 retained as discrepancy."
+  },
+  "R_1Ugr1HWUOxkTVzD": {
+    "license_id": "130400032",
+    "fac_id": "807205",
+    "evidence": "a261d5522e02fe17e23f7a6a500e78caf4f95434e1aa85ead55aa640f6f34977",
+    "reason": "Exact program, physical address and phone; city contains state/ZIP; ZIP+4 agrees."
+  },
+  "R_7fNO3tdnOE89Rzh": {
+    "license_id": "CCC117413",
+    "fac_id": "803625",
+    "evidence": "eacf8aeea75f98f497b7ca503377bed06fe35c6511d81b70a9c3ce459f38aeee",
+    "reason": "Exact program, email and phone; Whitehorse vs White Horse; license missing one digit."
+  },
+  "R_6gviBQhgcY8qRea": {
+    "license_id": "14POM0001",
+    "fac_id": "709595",
+    "evidence": "6766ca68b815809139a4da29e8e888c81cb7c39f5842098b2d152a3bdb15e0a7",
+    "reason": "Program differs only pre-school spacing; exact phone, city/ZIP; turnpike vs tpke address."
+  },
+  "R_5rq0obDwXmBVZ9i": {
+    "license_id": "CCC120296",
+    "fac_id": "806823",
+    "evidence": "e2704d474ba2c63cd46c9457c6b1acc17dc8229c3dba4cc974421fa6bad16a06",
+    "reason": "Survey explicitly includes Project TEACH Passaic; exact phone, city/ZIP; 160 Minnisink vs Minisink is one-letter address typo."
+  },
+  "R_5nUVnuFUQRTM5Tr": {
+    "license_id": "10HAP0001",
+    "fac_id": "708928",
+    "evidence": "57eb03cbe5025af9080625b05f867fbf871ece1bf506c1e1b1a7d89e0df3733a",
+    "reason": "Compatible specific program, exact email and phone; city/ZIP agree. PO box is mailing evidence, not physical-site evidence."
+  },
+  "R_1LuoUfXmDqlt2ZT": {
+    "license_id": "11LIT0008",
+    "fac_id": "702109",
+    "evidence": "5555f461baf6cbeff2d56657a18175aae1b8aef91b9baa02078df25eb0130203",
+    "reason": "Compatible program, exact physical address and phone; Lawrenceville city misspelled; ZIP agrees."
+  },
+  "R_6vwdYXAVjLQZSFz": {
+    "license_id": "01HAM0002",
+    "fac_id": "700351",
+    "evidence": "6b614aa6a078b29f13ddb4557ad402eac2d732d719f79429d2c156470ea6c350",
+    "reason": "Broader search: compatible AtlantiCare after-school name, 601 N Fourth vs 601 North 4th; exact city/ZIP; license 01HAMM0002 vs 01HAM0002 has extra M."
+  },
+  "R_7WBw96gWQGa0U3S": {
+    "license_id": "04TID0001",
+    "fac_id": "700685",
+    "evidence": "9451312fb500e1aec647ea30f1eea6a69e7091f09e11a8bbc6825c9bf289bb8f",
+    "reason": "Program differs by LLC only; exact email; 525 Laurel Road vs 525 E Laurel Rd; city typo and ZIP agreement. Manual only."
+  },
+  "R_5LUunXARfFkCaFz": {
+    "license_id": "06VIN0006",
+    "fac_id": "708317",
+    "evidence": "38167eb444f8a92fb500d751d54f56822f8793b86c3fb27ff6f490f6a60df476",
+    "reason": "Vineland III HS vs Vineland III Headstart; exact email and phone; 116 W Elmer vs 116 Elmer and city/ZIP agree."
+  },
+  "R_7NHPBfdRGkqBjD6": {
+    "license_id": "04CHE0005",
+    "fac_id": "701984",
+    "evidence": "12bc2a5e07924739bbcc80ed5a24e46f3abb77dd36f7b8aabbc40e4b4d9ac3e6",
+    "reason": "Exact program, email and phone; Voorhees/ZIP agree. Street number 900 vs 9000 and malformed license retained as warnings."
+  },
+  "R_1C7StIDnbZbFnok": {
+    "license_id": "CCC129339",
+    "fac_id": "816458",
+    "evidence": "cc6e6d1a91fe0678044d4beb28c33696a03c699b70faf55ad5b25ef3343e41ec",
+    "reason": "Survey numeric license 129339 matches CCC129339; exact physical address/city/ZIP; compatible brand. Contacts point to sister site, retained as warning."
+  },
+  "R_1RlSu3VGcgOs2qd": {
+    "license_id": "140300148",
+    "fac_id": "704678",
+    "evidence": "7ca02da217a64e76350492d062272653d67838c59e73ca56a621b908cac072c1",
+    "reason": "Exact program, email and phone; street matches with appended locality; city/ZIP agree."
+  },
+  "R_71AX62Rc9xjqeEq": {
+    "license_id": "08PAU0001",
+    "fac_id": "708745",
+    "evidence": "43a157e6385c18605e977d46d2d14ae8a5b8bec3329034f2ce6e469c11574d4a",
+    "reason": "License 08PAU00001 differs by extra zero from 08PAU0001; exact email and compatible Headstart name; number/street stem/city/ZIP agree, avenue vs street warning."
+  },
+  "R_5oSfP2wLvnsxY4v": {
+    "license_id": "07EMM0001",
+    "fac_id": "700963",
+    "evidence": "3a79fbd063b6d6de8044713280dbdc438cbba1025cc5c3c67052016543806ead",
+    "reason": "Exact email and compatible distinctive program; 54 Irvine Turner within 54-60 range; locality/ZIP agree. Malformed ID and contact differences retained."
+  },
+  "R_31yiOjFNMugzIOT": {
+    "license_id": "03GOD0008",
+    "fac_id": "707999",
+    "evidence": "aaf030577a045427c3d5b18138940af53e2e7b75920a5ae7ed8227af05f7f786",
+    "reason": "Exact program, street address and phone; city and ZIP disagree, retained as manual-only geographic warning."
+  },
+  "R_3I8p8Gtn8tAhveF": {
+    "license_id": "03WEE0004",
+    "fac_id": "806607",
+    "evidence": "2d6c55d6b60efedce23630c96accb1474a78bff12ee59002d0a999c41d9ace79",
+    "reason": "Exact program, email and phone; physical address omits West; city/ZIP agree."
+  },
+  "R_6VvvfDMEWDdBBwV": {
+    "license_id": "02CHI0007",
+    "fac_id": "700449",
+    "evidence": "1a54512dd652f259e3c8583b3b1b14629d4b86f4f639bf2e38a4f5a6509a4248",
+    "reason": "Exact program, email and phone; Place vs Pl address; city/ZIP agree."
+  },
+  "R_5bGnxPqTI8u82Ln": {
+    "license_id": "02SAI0003",
+    "fac_id": "705862",
+    "evidence": "1b2fa07677894419a2bf9cd0862c9ffdc27eafd4cebf096f6c3f54e49dd84dfd",
+    "reason": "Compatible Saint Albans name, exact email and phone; Lane vs La address; city/ZIP agree; ID I/1 typo."
+  },
+  "R_1ASSRSdpo8MGe1u": {
+    "license_id": "11UNI0002",
+    "fac_id": "709110",
+    "evidence": "6d6cb8c9d3dffc9465ecf0897d25b9c462139e76607e5c9247d8cba994c7248a",
+    "reason": "UNOW vs University N O W Day Nursery abbreviation; exact phone, street number/name, city/ZIP. Missing street suffix."
+  },
+  "R_3K7LssdjJWNtGKD": {
+    "license_id": "13BRI0008",
+    "fac_id": "705005",
+    "evidence": "87d3433c806a7d0364a739a8940b8e2999672883fd7d97b5a21a10b649c2e685",
+    "reason": "Compatible Bridges nursery name, exact email and phone; same house number and Gordon Corner street with typo; city/ZIP agree."
+  },
+  "R_6IcGZOgvLmbZwTh": {
+    "license_id": "160900113",
+    "fac_id": "706722",
+    "evidence": "732ce68dfae815ee9a3c0656a4f788a4b45b9f16b0c53e52c1d292e815ee07ea",
+    "reason": "User approved manual review: Exact NJCCID; compatible Leaguers Broad Street program; 999 Broad lies in 999-1005 range; same city/ZIP; license has extra digit."
+  },
+  "R_14ACUdyi32XBuWl": {
+    "license_id": "13YMC0002",
+    "fac_id": "804828",
+    "evidence": "69e35635c7a3b3187d63d2316f9a348100ad6604f071523232671996c3614d3e",
+    "reason": "User approved manual review: Exact license; Applegate Ykids vs Y-kids; 47 Jeanne vs 47 Jeanne Brennan Drive; city/ZIP agree."
+  },
+  "R_7CIyDfXlNS580vh": {
+    "license_id": "CCC128348",
+    "fac_id": "815432",
+    "evidence": "197fe5bf741e73fa63a6021541b323ecf3f8bc0386fab833d3436d2d00904dc8",
+    "reason": "User approved manual review: Exact license and compatible distinctive Asher Holmes Ykids name; 48 Menzel Drive vs Lane; ZIP agrees, city differs. Manual address/locality warning."
+  },
+  "R_6azqqGUxGZluCBY": {
+    "license_id": "170800065",
+    "fac_id": "706871",
+    "evidence": "0f3871084f403521e434552f718d97c8630dcbf5d196b9e13748dfdc59b52b44",
+    "reason": "User approved manual review: Exact NJCCID; compatible Lamonte name; West 2nd Street agrees, universe omits number; same city/ZIP; license missing zero."
+  },
+  "R_1eVNfuZ3UXR8qMF": {
+    "license_id": "14BRI0006",
+    "fac_id": "702639",
+    "evidence": "84e911ef1efcc1d2dd4e65624c217a0fa652c66f971a8182d22d041be8f0af0e",
+    "reason": "User approved manual review: Exact NJCCID; distinctive Briarwood name/street; universe omits street number; same city/ZIP; license missing zeros."
+  },
+  "R_3kR0J63wckkRH7H": {
+    "license_id": "12RUT0001",
+    "fac_id": "701429",
+    "evidence": "744e597dfa5f240582bd213d9473890e1f8282bf882fa6ad111b96567c4b07a8",
+    "reason": "User approved manual review: Exact license; compatible Rutgers-Livingston name and full 49 Joyce Kilmer Ave address; ZIP agrees; city field says New Jersey. Contacts differ."
+  },
+  "R_1otGgoMabf4tYme": {
+    "license_id": "08ALP0002",
+    "fac_id": "704763",
+    "evidence": "f0642451fea7aadad438aee32f3251e3bd766408021c6a9f3141dec3568d360a",
+    "reason": "User approved manual review: Exact license; Quality Care program compatible; 700 2nd St vs same address with suites A/B; city/ZIP agree. Do not discard suite detail automatically."
+  },
+  "R_6QzpGjBkPfHH1Td": {
+    "license_id": "11DOA0001",
+    "fac_id": "804629",
+    "evidence": "e1c77dc95934471b2ff465152e940edb2d9eb87c6c457db2072dc2f9e9803b31",
+    "reason": "User approved manual review: Exact license; Tooddle Tots vs Toodle Tots; 2575 Yardville Hamilton Sq vs Square Road; city/ZIP agree."
+  }
+}

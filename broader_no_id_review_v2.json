@@ -1,0 +1,1011 @@
+[
+  {
+    "response": "R_1P5cAPTmAQKfAS2",
+    "program": "eden's garden",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 1471,
+        "name": "morris school district - hillcrest school",
+        "address": "160 hillcrest avenue",
+        "city": "morristown",
+        "zipcode": "07960",
+        "id": "171100123",
+        "fac_id": "702634",
+        "name_score": 0.09,
+        "address_score": 0.89
+      },
+      {
+        "row": 1116,
+        "name": "christopher academy",
+        "address": "510 hillcrest ave",
+        "city": "westfield",
+        "zipcode": "07090",
+        "id": "20CHR0004",
+        "fac_id": "710095",
+        "name_score": 0.21,
+        "address_score": 0.83
+      }
+    ]
+  },
+  {
+    "response": "R_6PRlbjA83zpC7xV",
+    "program": "gigwig2022 llc",
+    "other_type": "A licensed Family Child Care Provider",
+    "candidates": []
+  },
+  {
+    "response": "R_7EsI0heO4sWtQuG",
+    "program": "pagy family child care",
+    "other_type": "Family Child Care",
+    "candidates": []
+  },
+  {
+    "response": "R_5pRO0nLqSJQRUMP",
+    "program": "yanibel perez guzman",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 3304,
+        "name": "ymca of greater bergen county after school program at 5/6",
+        "address": "321 state street",
+        "city": "hackensack",
+        "zipcode": "07601",
+        "id": "080800317",
+        "fac_id": "707449",
+        "name_score": 0.28,
+        "address_score": 0.93
+      },
+      {
+        "row": 2177,
+        "name": "william c. mcginnis middle school",
+        "address": "271 state street",
+        "city": "perth amboy",
+        "zipcode": "08861",
+        "id": "140900015",
+        "fac_id": "704704",
+        "name_score": 0.22,
+        "address_score": 0.86
+      },
+      {
+        "row": 2674,
+        "name": "rutgers-north camden partnership after-school program",
+        "address": "201 state street",
+        "city": "camden city",
+        "zipcode": "08102",
+        "id": "120500195",
+        "fac_id": "711088",
+        "name_score": 0.28,
+        "address_score": 0.86
+      }
+    ]
+  },
+  {
+    "response": "R_732bM0kE2ulpPgv",
+    "program": "bianca fiallos",
+    "other_type": "Family child care",
+    "candidates": [
+      {
+        "row": 1182,
+        "name": "alphabest at wyoming elementary",
+        "address": "55 myrtle avenue",
+        "city": "millburn",
+        "zipcode": "07041",
+        "id": "190100066",
+        "fac_id": "714506",
+        "name_score": 0.15,
+        "address_score": 0.85
+      }
+    ]
+  },
+  {
+    "response": "R_6evqmQ7cvU2jzAl",
+    "program": "arelis childcare llc",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_3HTC2q8IUpxBQuK",
+    "program": "angel daycare",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_6bRJbtkQk0dD0Jz",
+    "program": "las victorias ii llc",
+    "other_type": "Family child care provider",
+    "candidates": [
+      {
+        "row": 2003,
+        "name": "nursery rhyme academy, llc.",
+        "address": "520 william street",
+        "city": "east orange",
+        "zipcode": "07017",
+        "id": "150200077",
+        "fac_id": "706919",
+        "name_score": 0.31,
+        "address_score": 0.9
+      },
+      {
+        "row": 3566,
+        "name": "east orange y's choice after-school program",
+        "address": "490 william street",
+        "city": "east orange",
+        "zipcode": "07017",
+        "id": "07EAS0013",
+        "fac_id": "702502",
+        "name_score": 0.34,
+        "address_score": 0.9
+      },
+      {
+        "row": 642,
+        "name": "the learning experience",
+        "address": "45-53 william street",
+        "city": "newark",
+        "zipcode": "07102",
+        "id": "CCC119897",
+        "fac_id": "806380",
+        "name_score": 0.32,
+        "address_score": 0.88
+      }
+    ]
+  },
+  {
+    "response": "R_7pu55SJDMfGY8zN",
+    "program": "little barefoot daycare llc",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 1970,
+        "name": "little stars daycare llc",
+        "address": "313 east westfield avenue",
+        "city": "roselle park",
+        "zipcode": "07204",
+        "id": "150600247",
+        "fac_id": "714751",
+        "name_score": 0.8,
+        "address_score": 0.26
+      }
+    ]
+  },
+  {
+    "response": "R_146Hb2bSVHzPHov",
+    "program": "salvador daycare",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_72IU2pyrUfnGcGw",
+    "program": "edison child care",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 1105,
+        "name": "discovery child care",
+        "address": "1050 jeanette ave",
+        "city": "union",
+        "zipcode": "07083",
+        "id": "20DIS0001",
+        "fac_id": "700967",
+        "name_score": 0.79,
+        "address_score": 0.14
+      }
+    ]
+  },
+  {
+    "response": "R_5reIKHl1rkYEw9k",
+    "program": "little sprouts family center",
+    "other_type": "In registered provider ",
+    "candidates": [
+      {
+        "row": 41,
+        "name": "build yourself up child care center",
+        "address": "120 washington avenue",
+        "city": "westwood",
+        "zipcode": "07675",
+        "id": "CCC132693",
+        "fac_id": "819862",
+        "name_score": 0.47,
+        "address_score": 0.95
+      },
+      {
+        "row": 308,
+        "name": "kids choice - kindle",
+        "address": "211 washington ave",
+        "city": "pitman",
+        "zipcode": "08071",
+        "id": "CCC127928",
+        "fac_id": "815001",
+        "name_score": 0.15,
+        "address_score": 0.95
+      },
+      {
+        "row": 2014,
+        "name": "washington ave. before & after school program",
+        "address": "102 washington ave",
+        "city": "chatham",
+        "zipcode": "07928",
+        "id": "14WAS0001",
+        "fac_id": "703777",
+        "name_score": 0.19,
+        "address_score": 0.95
+      }
+    ]
+  },
+  {
+    "response": "R_3qjwxFyhXrsnVpw",
+    "program": "mosaic early learning, delanco",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 564,
+        "name": "m joan pearson elementary",
+        "address": "1301 burlington avenue",
+        "city": "delanco",
+        "zipcode": "08075",
+        "id": "CCC121207",
+        "fac_id": "807893",
+        "name_score": 0.42,
+        "address_score": 0.9
+      }
+    ]
+  },
+  {
+    "response": "R_1MPETOHQgX3GH7o",
+    "program": "tender love and care daycare",
+    "other_type": "Family Child Care",
+    "candidates": [
+      {
+        "row": 2325,
+        "name": "kindercare learning center #1549",
+        "address": "2401 atlantic ave",
+        "city": "manasquan",
+        "zipcode": "08736",
+        "id": "13KIN0011",
+        "fac_id": "707174",
+        "name_score": 0.42,
+        "address_score": 0.94
+      },
+      {
+        "row": 2372,
+        "name": "atlantis preparatory school",
+        "address": "1904 atlantic avenue",
+        "city": "manasquan",
+        "zipcode": "08736",
+        "id": "13ATL0001",
+        "fac_id": "704630",
+        "name_score": 0.37,
+        "address_score": 0.83
+      }
+    ]
+  },
+  {
+    "response": "R_57nZIYxlRXu1gd3",
+    "program": "mosaic early learning",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_6FkWFC8CB12H0Zu",
+    "program": "mosaic early learning lumberton head start",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_6vwdYXAVjLQZSFz",
+    "program": "atlanticare before & after school program",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 4063,
+        "name": "atlanticare after-school program",
+        "address": "601 north 4th street",
+        "city": "hammonton",
+        "zipcode": "08037",
+        "id": "01HAM0002",
+        "fac_id": "700351",
+        "name_score": 0.91,
+        "address_score": 0.86
+      },
+      {
+        "row": 1188,
+        "name": "whiton elementary before & after school program",
+        "address": "whiton rd",
+        "city": "branchburg",
+        "zipcode": "08876",
+        "id": "18WHI0001",
+        "fac_id": "705576",
+        "name_score": 0.8,
+        "address_score": 0.13
+      },
+      {
+        "row": 3341,
+        "name": "allamuchy before and after school program",
+        "address": "20 johnsonburg road",
+        "city": "allamuchy",
+        "zipcode": "07820",
+        "id": "080700042",
+        "fac_id": "710454",
+        "name_score": 0.79,
+        "address_score": 0.32
+      }
+    ]
+  },
+  {
+    "response": "R_1fisae0DQ5AFeMJ",
+    "program": "holly city family center",
+    "other_type": "Summer Camp",
+    "candidates": []
+  },
+  {
+    "response": "R_6aY4fSA2ULS3ZwA",
+    "program": "duri homedaycare",
+    "other_type": "Home based daycare",
+    "candidates": []
+  },
+  {
+    "response": "R_1lAWldBbjPs0iHE",
+    "program": "little heroes childcare llc",
+    "other_type": "In-home daycare ",
+    "candidates": [
+      {
+        "row": 882,
+        "name": "little treasures childcare llc",
+        "address": "67-71 south clinton street",
+        "city": "east orange",
+        "zipcode": "07017",
+        "id": "CCC116010",
+        "fac_id": "802110",
+        "name_score": 0.86,
+        "address_score": 0.26
+      },
+      {
+        "row": 392,
+        "name": "little hands childcare llc",
+        "address": "385 n county line road",
+        "city": "jackson",
+        "zipcode": "08527",
+        "id": "CCC123737",
+        "fac_id": "810747",
+        "name_score": 0.85,
+        "address_score": 0.26
+      },
+      {
+        "row": 1592,
+        "name": "little people childcare",
+        "address": "222 south clover street",
+        "city": "lakewood",
+        "zipcode": "08701",
+        "id": "170300203",
+        "fac_id": "706978",
+        "name_score": 0.8,
+        "address_score": 0.28
+      }
+    ]
+  },
+  {
+    "response": "R_2cyO1pr0yK1CCqt",
+    "program": "chamberlain university/ philosophy",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_3f1zjthi7vhMtgp",
+    "program": "angel face daycare",
+    "other_type": "Family child care provider",
+    "candidates": []
+  },
+  {
+    "response": "R_6Vj35vN9RN7m8FP",
+    "program": "lelis family child care",
+    "other_type": "Family home child care",
+    "candidates": []
+  },
+  {
+    "response": "R_6YXNzzb0h1gfUWw",
+    "program": "little gems childcare",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 1786,
+        "name": "spartan care - pine acres elementary school",
+        "address": "720 purdue avenue",
+        "city": "wenonah",
+        "zipcode": "08090",
+        "id": "160700065",
+        "fac_id": "706221",
+        "name_score": 0.18,
+        "address_score": 0.87
+      },
+      {
+        "row": 621,
+        "name": "littlegems childcare center",
+        "address": "355 west side avenue",
+        "city": "jersey city",
+        "zipcode": "07305",
+        "id": "CCC120371",
+        "fac_id": "806901",
+        "name_score": 0.86,
+        "address_score": 0.56
+      },
+      {
+        "row": 1034,
+        "name": "little pioneers childcare",
+        "address": "419 south street",
+        "city": "new providence",
+        "zipcode": "07974",
+        "id": "20SAI0002",
+        "fac_id": "806506",
+        "name_score": 0.81,
+        "address_score": 0.28
+      }
+    ]
+  },
+  {
+    "response": "R_7CJx6QxJEpw49mc",
+    "program": "erika's family care",
+    "other_type": "family child care",
+    "candidates": []
+  },
+  {
+    "response": "R_7st2Ja9V5F61t59",
+    "program": "janamis day care",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 1675,
+        "name": "dana's day care",
+        "address": "1410 main avenue",
+        "city": "clifton",
+        "zipcode": "07011",
+        "id": "16LEA0011",
+        "fac_id": "701694",
+        "name_score": 0.85,
+        "address_score": 0.19
+      },
+      {
+        "row": 3638,
+        "name": "gan aviv day care",
+        "address": "21 west main street",
+        "city": "bergenfield",
+        "zipcode": "07621",
+        "id": "070900001",
+        "fac_id": "705800",
+        "name_score": 0.79,
+        "address_score": 0.53
+      }
+    ]
+  },
+  {
+    "response": "R_3nuTgOXCnllJRfz",
+    "program": "4 pioneers montessori",
+    "other_type": "Family Child Care",
+    "candidates": [
+      {
+        "row": 4101,
+        "name": "pioneer montessori",
+        "address": "164 totowa road",
+        "city": "wayne",
+        "zipcode": "07470",
+        "id": "LEX127292",
+        "fac_id": "819762",
+        "name_score": 0.94,
+        "address_score": 0.15
+      },
+      {
+        "row": 4124,
+        "name": "pioneer montessori",
+        "address": "164 totowa road",
+        "city": "wayne",
+        "zipcode": "07470",
+        "id": "LEX121407",
+        "fac_id": "808195",
+        "name_score": 0.94,
+        "address_score": 0.15
+      },
+      {
+        "row": 3255,
+        "name": "glassboro headstart center",
+        "address": "35 sewell st",
+        "city": "glassboro",
+        "zipcode": "08028",
+        "id": "08GLA0008",
+        "fac_id": "708705",
+        "name_score": 0.33,
+        "address_score": 0.86
+      }
+    ]
+  },
+  {
+    "response": "R_10ejFmVgkqIzLfn",
+    "program": "davamaya day care",
+    "other_type": "FCC HOME DAY CARE PROVIDER  ",
+    "candidates": []
+  },
+  {
+    "response": "R_1CsHsGVSVSOGfpO",
+    "program": "childcare",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 276,
+        "name": "uriah childcare",
+        "address": "30 west chestnut ave",
+        "city": "vineland",
+        "zipcode": "08360",
+        "id": "CCC128557",
+        "fac_id": "815654",
+        "name_score": 0.78,
+        "address_score": 0.26
+      },
+      {
+        "row": 432,
+        "name": "bliss childcare",
+        "address": "600 vermont avenue",
+        "city": "lakewood",
+        "zipcode": "08701",
+        "id": "CCC123344",
+        "fac_id": "810311",
+        "name_score": 0.78,
+        "address_score": 0.35
+      },
+      {
+        "row": 840,
+        "name": "giggl childcare",
+        "address": "400 blvds of america",
+        "city": "lakewood",
+        "zipcode": "08701",
+        "id": "CCC116879",
+        "fac_id": "803036",
+        "name_score": 0.78,
+        "address_score": 0.23
+      }
+    ]
+  },
+  {
+    "response": "R_6eQB7ted0LWTbnb",
+    "program": "care 4 kids",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_1PhdSFjsNOGCfrP",
+    "program": "twinkle toes, family childcare",
+    "other_type": "Registered family childcare",
+    "candidates": []
+  },
+  {
+    "response": "R_5PzKVtaLL2D90GK",
+    "program": "god provides daycare",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_7HXoFRNyigBvQ1w",
+    "program": "aura' family daycare",
+    "other_type": "family Daycare",
+    "candidates": [
+      {
+        "row": 671,
+        "name": "seasons of learning at cicely l tyson elementary",
+        "address": "45 north arlington avenue",
+        "city": "east orange",
+        "zipcode": "07017",
+        "id": "CCC119504",
+        "fac_id": "805962",
+        "name_score": 0.31,
+        "address_score": 0.91
+      },
+      {
+        "row": 3452,
+        "name": "norjenes day care center",
+        "address": "61 n arlington ave",
+        "city": "east orange",
+        "zipcode": "07017",
+        "id": "07NOR0005",
+        "fac_id": "702474",
+        "name_score": 0.42,
+        "address_score": 0.87
+      },
+      {
+        "row": 3570,
+        "name": "east orange ymca child care center",
+        "address": "100 n arlington ave",
+        "city": "east orange",
+        "zipcode": "07017",
+        "id": "07EAS0002",
+        "fac_id": "702143",
+        "name_score": 0.48,
+        "address_score": 0.85
+      }
+    ]
+  },
+  {
+    "response": "R_5oCMOwuGIEMFz1v",
+    "program": "norma reichel",
+    "other_type": "Family Childcare ",
+    "candidates": [
+      {
+        "row": 661,
+        "name": "hudson children's academy",
+        "address": "2000 west street",
+        "city": "union city",
+        "zipcode": "07087",
+        "id": "CCC119711",
+        "fac_id": "806184",
+        "name_score": 0.29,
+        "address_score": 0.86
+      },
+      {
+        "row": 3127,
+        "name": "lollipop learning center, llc",
+        "address": "1015 west street",
+        "city": "union city",
+        "zipcode": "07087",
+        "id": "09ANG0001",
+        "fac_id": "701252",
+        "name_score": 0.27,
+        "address_score": 0.86
+      }
+    ]
+  },
+  {
+    "response": "R_6sAs0oLmM582Kl3",
+    "program": "el jardin de los ni\u00f1os daycare",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_54GApteIKY8afoB",
+    "program": "we r the world hope child learning center",
+    "other_type": "In home childcare center",
+    "candidates": []
+  },
+  {
+    "response": "R_7hxo8HgmkNIlGDd",
+    "program": "we care for kids",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_3tnZ6eyFmK1vR6Z",
+    "program": "little ark explorers llc",
+    "other_type": "Registered FCC provider",
+    "candidates": []
+  },
+  {
+    "response": "R_1msIkIJvlwYCDqF",
+    "program": "little friends child care llc",
+    "other_type": "Family Child Care",
+    "candidates": [
+      {
+        "row": 392,
+        "name": "little hands childcare llc",
+        "address": "385 n county line road",
+        "city": "jackson",
+        "zipcode": "08527",
+        "id": "CCC123737",
+        "fac_id": "810747",
+        "name_score": 0.88,
+        "address_score": 0.17
+      },
+      {
+        "row": 882,
+        "name": "little treasures childcare llc",
+        "address": "67-71 south clinton street",
+        "city": "east orange",
+        "zipcode": "07017",
+        "id": "CCC116010",
+        "fac_id": "802110",
+        "name_score": 0.81,
+        "address_score": 0.44
+      }
+    ]
+  },
+  {
+    "response": "R_1FsJkJeRr0upeJH",
+    "program": "kiddies academy",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 2329,
+        "name": "kiddie academy",
+        "address": "3443 rt. 66",
+        "city": "neptune",
+        "zipcode": "07753",
+        "id": "13KID0009",
+        "fac_id": "700156",
+        "name_score": 0.96,
+        "address_score": 0.09
+      },
+      {
+        "row": 4061,
+        "name": "kidacademy",
+        "address": "101 morton avenue",
+        "city": "absecon",
+        "zipcode": "08201",
+        "id": "01KID0005",
+        "fac_id": "701940",
+        "name_score": 0.83,
+        "address_score": 0.16
+      },
+      {
+        "row": 1152,
+        "name": "kidsme academy",
+        "address": "1200 yorkship square",
+        "city": "camden",
+        "zipcode": "08104",
+        "id": "190400195",
+        "fac_id": "714780",
+        "name_score": 0.81,
+        "address_score": 0.15
+      }
+    ]
+  },
+  {
+    "response": "R_4F9v3nOAO9TLzvX",
+    "program": "1",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_7S81m69PmOEcasC",
+    "program": "sherene's babysitting fcc, llc",
+    "other_type": "Family Child care (FCC)",
+    "candidates": []
+  },
+  {
+    "response": "R_3fmSkBVOF45dTBD",
+    "program": "love me tender",
+    "other_type": "provider",
+    "candidates": [
+      {
+        "row": 2894,
+        "name": "hunterdon county ymca",
+        "address": "50 court street",
+        "city": "flemington",
+        "zipcode": "08822",
+        "id": "10HUN0018",
+        "fac_id": "808094",
+        "name_score": 0.19,
+        "address_score": 0.89
+      }
+    ]
+  },
+  {
+    "response": "R_5D6GQHJVPJxQPex",
+    "program": "alicia ynoa",
+    "other_type": "In-home child care provider",
+    "candidates": [
+      {
+        "row": 310,
+        "name": "social responsibility through me - kipp lanning",
+        "address": "525 clinton street",
+        "city": "camden",
+        "zipcode": "08103",
+        "id": "CCC127910",
+        "fac_id": "814983",
+        "name_score": 0.2,
+        "address_score": 0.94
+      },
+      {
+        "row": 1995,
+        "name": "cfs headstart at kcna",
+        "address": "525 clinton street",
+        "city": "camden",
+        "zipcode": "08103",
+        "id": "150400002",
+        "fac_id": "705502",
+        "name_score": 0.21,
+        "address_score": 0.94
+      },
+      {
+        "row": 2857,
+        "name": "boys & girls club of paterson/passaic - school 4",
+        "address": "55 clinton street",
+        "city": "paterson",
+        "zipcode": "07522",
+        "id": "110600018",
+        "fac_id": "703413",
+        "name_score": 0.17,
+        "address_score": 0.9
+      }
+    ]
+  },
+  {
+    "response": "R_1MczD3YMawacEhz",
+    "program": "a child\u2019s experience ii",
+    "other_type": "Family Child Care",
+    "candidates": [
+      {
+        "row": 1335,
+        "name": "kce champions llc at jessie f. george",
+        "address": "1 palm street",
+        "city": "washington township",
+        "zipcode": "07676",
+        "id": "180500115",
+        "fac_id": "712001",
+        "name_score": 0.33,
+        "address_score": 0.85
+      }
+    ]
+  },
+  {
+    "response": "R_3aSiIJv4h8rSbOp",
+    "program": "prestiges uh no i",
+    "other_type": "<NA>",
+    "candidates": []
+  },
+  {
+    "response": "R_6dydg35qqSH6HfS",
+    "program": "denise's day center",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 2117,
+        "name": "first presbyterian cooperative nursery school",
+        "address": "35 church street",
+        "city": "rockaway",
+        "zipcode": "07866",
+        "id": "14FIR0003",
+        "fac_id": "706343",
+        "name_score": 0.28,
+        "address_score": 0.9
+      },
+      {
+        "row": 3906,
+        "name": "reformed church nursery school",
+        "address": "641 church street",
+        "city": "oradell",
+        "zipcode": "07649",
+        "id": "02REF0001",
+        "fac_id": "707877",
+        "name_score": 0.28,
+        "address_score": 0.87
+      },
+      {
+        "row": 1159,
+        "name": "creative montessori center",
+        "address": "1 church street",
+        "city": "teaneck",
+        "zipcode": "07666",
+        "id": "190300247",
+        "fac_id": "715096",
+        "name_score": 0.5,
+        "address_score": 0.86
+      }
+    ]
+  },
+  {
+    "response": "R_29k9oY9Xbw0IlCV",
+    "program": "little stars learning center",
+    "other_type": "<NA>",
+    "candidates": [
+      {
+        "row": 2821,
+        "name": "all little stars learning center",
+        "address": "1 ferrary place",
+        "city": "woodland park",
+        "zipcode": "07424",
+        "id": "110900188",
+        "fac_id": "807264",
+        "name_score": 0.94,
+        "address_score": 0.27
+      },
+      {
+        "row": 3724,
+        "name": "little restorers learning center",
+        "address": "403 andrews road",
+        "city": "sicklerville",
+        "zipcode": "08081",
+        "id": "04LIT0016",
+        "fac_id": "700646",
+        "name_score": 0.89,
+        "address_score": 0.26
+      },
+      {
+        "row": 480,
+        "name": "little sprouts learning center",
+        "address": "5034 wellington avenue",
+        "city": "ventnor",
+        "zipcode": "08406",
+        "id": "CCC122274",
+        "fac_id": "809144",
+        "name_score": 0.88,
+        "address_score": 0.32
+      }
+    ]
+  },
+  {
+    "response": "R_1CUioviCflhhXna",
+    "program": "happy face child care",
+    "other_type": "Home ChildCare Center",
+    "candidates": [
+      {
+        "row": 367,
+        "name": "mosdos of greenville",
+        "address": "829 garfield ave",
+        "city": "jersey city",
+        "zipcode": "07305",
+        "id": "CCC126859",
+        "fac_id": "813927",
+        "name_score": 0.28,
+        "address_score": 0.91
+      },
+      {
+        "row": 1881,
+        "name": "ring around the rosie",
+        "address": "218 garfield ave",
+        "city": "island heights",
+        "zipcode": "08732",
+        "id": "15RIN0001",
+        "fac_id": "700152",
+        "name_score": 0.22,
+        "address_score": 0.85
+      },
+      {
+        "row": 2400,
+        "name": "connecting circles childcare service",
+        "address": "136 garfield ave",
+        "city": "jersey city",
+        "zipcode": "07305",
+        "id": "131000213",
+        "fac_id": "702309",
+        "name_score": 0.43,
+        "address_score": 0.85
+      }
+    ]
+  },
+  {
+    "response": "R_1SjELPqb2WwZoco",
+    "program": "regina eze fcc",
+    "other_type": "FAMILY CHILD CARE",
+    "candidates": []
+  },
+  {
+    "response": "R_52wTewT5UDioLFa",
+    "program": "la casa de santa fcc llc",
+    "other_type": "FCC ",
+    "candidates": [
+      {
+        "row": 1234,
+        "name": "jerry davis early childhood center",
+        "address": "141 s main street",
+        "city": "manville",
+        "zipcode": "08835",
+        "id": "18JER0001",
+        "fac_id": "701840",
+        "name_score": 0.24,
+        "address_score": 0.94
+      },
+      {
+        "row": 3327,
+        "name": "m. a. s. k. (middle after school kare)",
+        "address": "216 s main street",
+        "city": "cape may court house",
+        "zipcode": "08210",
+        "id": "080800043",
+        "fac_id": "700757",
+        "name_score": 0.36,
+        "address_score": 0.94
+      },
+      {
+        "row": 4069,
+        "name": "atlanticare kids",
+        "address": "1311 south main street",
+        "city": "pleasantville",
+        "zipcode": "08232",
+        "id": "01ATL0028",
+        "fac_id": "702398",
+        "name_score": 0.29,
+        "address_score": 0.92
+      }
+    ]
+  },
+  {
+    "response": "R_77AdNhJeGaMy0yR",
+    "program": "divina tavera",
+    "other_type": "<NA>",
+    "candidates": []
+  }
+]

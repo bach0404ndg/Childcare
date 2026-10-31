@@ -1,0 +1,14 @@
+metric,count
+Total survey responses,62
+After deleting blank responses,40
+Family-provider responses excluded,0
+After deleting blanks and family-provider responses,40
+Matched with center providers,38
+Unmatched total,2
+  Insufficient matching evidence,1
+  Reviewed exclusions,1
+  Pending manual review,0
+Algorithm matches,35
+Manual matches,3
+Duplicate center responses,2
+Total uniquely matched centers,36

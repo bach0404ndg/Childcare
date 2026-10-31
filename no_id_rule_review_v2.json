@@ -1,0 +1,1933 @@
+[
+  {
+    "ResponseId":"R_1P5cAPTmAQKfAS2",
+    "status":"pending",
+    "program":"eden's garden",
+    "address":"364 hillcrest ave",
+    "city":"somerset",
+    "zipcode":"08873",
+    "id":"H05854397457812",
+    "njccid":"100057009",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6PRlbjA83zpC7xV",
+    "status":"pending",
+    "program":"gigwig2022 llc",
+    "address":"21 marlow rod",
+    "city":"east brunswick",
+    "zipcode":"08816",
+    "id":"FCC122051",
+    "njccid":"100204180",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_7EsI0heO4sWtQuG",
+    "status":"pending",
+    "program":"pagy family child care",
+    "address":"210 long ferry rd",
+    "city":"perth amboy",
+    "zipcode":"08861",
+    "id":"FR122074",
+    "njccid":"100065772",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_5pRO0nLqSJQRUMP",
+    "status":"pending",
+    "program":"yanibel perez guzman",
+    "address":"362 state street",
+    "city":"perth amboy",
+    "zipcode":"08861",
+    "id":"FCC130889",
+    "njccid":"100281722",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_732bM0kE2ulpPgv",
+    "status":"pending",
+    "program":"bianca fiallos",
+    "address":"55 yale ave",
+    "city":"avenel",
+    "zipcode":"07701",
+    "id":"nan",
+    "njccid":"100214365",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6evqmQ7cvU2jzAl",
+    "status":"pending",
+    "program":"arelis childcare llc",
+    "address":"308 lehigh av.",
+    "city":"perth amboy, nj",
+    "zipcode":"08861",
+    "id":"FR144122",
+    "njccid":"100057102",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_3HTC2q8IUpxBQuK",
+    "status":"pending",
+    "program":"angel daycare",
+    "address":"103 gramercy place",
+    "city":"teaneck",
+    "zipcode":"07666",
+    "id":"R0221009",
+    "njccid":"100013546",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6bRJbtkQk0dD0Jz",
+    "status":"pending",
+    "program":"las victorias ii llc",
+    "address":"59 william st",
+    "city":"carteret",
+    "zipcode":"07008",
+    "id":"FCC122408",
+    "njccid":"100207793",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_7pu55SJDMfGY8zN",
+    "status":"pending",
+    "program":"little barefoot daycare llc",
+    "address":"305 orchard terrace",
+    "city":"bogota",
+    "zipcode":"07603",
+    "id":"FCC130302",
+    "njccid":"100272602",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_146Hb2bSVHzPHov",
+    "status":"pending",
+    "program":"salvador daycare",
+    "address":"459 florida grove rd",
+    "city":"hopelawn",
+    "zipcode":"NJ 08861",
+    "id":"FCC 119827",
+    "njccid":"100 033 317",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6e4ySZotbkpn1ND",
+    "status":"ambiguous",
+    "program":"pioneer academy",
+    "address":"164 totowa road",
+    "city":"wayne",
+    "zipcode":"07470",
+    "id":"nan",
+    "njccid":"37834",
+    "candidates":[
+      {
+        "row":4124,
+        "name":"pioneer montessori",
+        "addr":"164 totowa road",
+        "city":"wayne",
+        "zip":"07470",
+        "support":[
+          "address",
+          "phone"
+        ],
+        "eligible":true
+      },
+      {
+        "row":4101,
+        "name":"pioneer montessori",
+        "addr":"164 totowa road",
+        "city":"wayne",
+        "zip":"07470",
+        "support":[
+          "address",
+          "email"
+        ],
+        "eligible":true
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_72IU2pyrUfnGcGw",
+    "status":"pending",
+    "program":"edison child care",
+    "address":"35 sims road",
+    "city":"edison",
+    "zipcode":"08817",
+    "id":"Fcc114034",
+    "njccid":"100031978",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_54P1HdbrFvouyvt",
+    "status":"proposed",
+    "program":"our bright future",
+    "address":"202-204 clinton ave",
+    "city":"newark",
+    "zipcode":"07108",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+      {
+        "row":1505,
+        "name":"our bright future",
+        "addr":"202-204 clinton avenue",
+        "city":"newark",
+        "zip":"07108",
+        "support":[
+          "program",
+          "address",
+          "email"
+        ],
+        "eligible":true
+      },
+      {
+        "row":338,
+        "name":"our bright future",
+        "addr":"23 mills rd",
+        "city":"irvington",
+        "zip":"07111",
+        "support":[
+          "program",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3397,
+        "name":"the prep school: babies and children llc",
+        "addr":"10 washington avenue",
+        "city":"irvington",
+        "zip":"07111",
+        "support":[
+          "phone"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_7K1nc7MIlA3WRMd",
+    "status":"pending",
+    "program":"just kids clementon preschool",
+    "address":"135 white horse pike",
+    "city":"lindenwold",
+    "zipcode":"08021",
+    "id":"CCC132413",
+    "njccid":"820543",
+    "candidates":[
+      {
+        "row":3247,
+        "name":"just kids - mary f. janvier elementary school",
+        "addr":"1532 pennsylvania ave",
+        "city":"franklinville",
+        "zip":"08322",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":1803,
+        "name":"just kids - parkview elementary school",
+        "addr":"101 birch avenue",
+        "city":"westville",
+        "zip":"08093",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3246,
+        "name":"just kids - main road elementary school",
+        "addr":"1452 main road",
+        "city":"newfield",
+        "zip":"08344",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2207,
+        "name":"just kids - national park elementary school",
+        "addr":"516 lakehurst avenue",
+        "city":"national park",
+        "zip":"08063",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_1ZVJxzAWRe1Notw",
+    "status":"pending",
+    "program":"just kids evans preschool",
+    "address":"400 route 73",
+    "city":"marlton",
+    "zipcode":"08053",
+    "id":"CCC132413",
+    "njccid":"819578",
+    "candidates":[
+      {
+        "row":1803,
+        "name":"just kids - parkview elementary school",
+        "addr":"101 birch avenue",
+        "city":"westville",
+        "zip":"08093",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":525,
+        "name":"gibbsboro elementary",
+        "addr":"37 kirkwood rd",
+        "city":"gibbsboro",
+        "zip":"08026",
+        "support":[
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3246,
+        "name":"just kids - main road elementary school",
+        "addr":"1452 main road",
+        "city":"newfield",
+        "zip":"08344",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3247,
+        "name":"just kids - mary f. janvier elementary school",
+        "addr":"1532 pennsylvania ave",
+        "city":"franklinville",
+        "zip":"08322",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2207,
+        "name":"just kids - national park elementary school",
+        "addr":"516 lakehurst avenue",
+        "city":"national park",
+        "zip":"08063",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_7BQTvVQGZslQgyu",
+    "status":"pending",
+    "program":"kcna",
+    "address":"525 clinton street",
+    "city":"camden",
+    "zipcode":"08103",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+      {
+        "row":1995,
+        "name":"cfs headstart at kcna",
+        "addr":"525 clinton street",
+        "city":"camden",
+        "zip":"08103",
+        "support":[
+          "address"
+        ],
+        "eligible":false
+      },
+      {
+        "row":310,
+        "name":"social responsibility through me - kipp lanning",
+        "addr":"525 clinton street",
+        "city":"camden",
+        "zip":"08103",
+        "support":[
+          "address"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_5reIKHl1rkYEw9k",
+    "status":"pending",
+    "program":"little sprouts family center",
+    "address":"121 washington avenue",
+    "city":"mount ephraim",
+    "zipcode":"08059",
+    "id":"Fcc130528",
+    "njccid":"817657",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_3qjwxFyhXrsnVpw",
+    "status":"pending",
+    "program":"mosaic early learning, delanco",
+    "address":"2431 burlington ave",
+    "city":"delanco",
+    "zipcode":"08075",
+    "id":"03BCC0001",
+    "njccid":"100141312",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_7OvLRMSlnTHgkVe",
+    "status":"ambiguous",
+    "program":"madison extended daycare",
+    "address":"25 cook ave.",
+    "city":"madison",
+    "zipcode":"07940-1824",
+    "id":"14MAD0005 14MAD0006 14Mad007",
+    "njccid":"nan",
+    "candidates":[
+      {
+        "row":2064,
+        "name":"madison extended day care program-torey j. sabtini school",
+        "addr":"glenwild circle glenwild rd",
+        "city":"madison",
+        "zip":"07940",
+        "support":[
+          "address",
+          "email"
+        ],
+        "eligible":true
+      },
+      {
+        "row":2065,
+        "name":"madison extended day care program-king's road school",
+        "addr":"king rd",
+        "city":"madison",
+        "zip":"07940",
+        "support":[
+          "address"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2066,
+        "name":"madison extended day care program-central ave. school",
+        "addr":"central ave",
+        "city":"madison",
+        "zip":"07940",
+        "support":[
+          "address",
+          "email"
+        ],
+        "eligible":true
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_3QAi8i32BYZpze0",
+    "status":"proposed",
+    "program":"haytown at valley brook",
+    "address":"73 east valley brook road",
+    "city":"long valley",
+    "zipcode":"07853-5102",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+      {
+        "row":2908,
+        "name":"haytown nursery school",
+        "addr":"247 old turnpike road",
+        "city":"califon",
+        "zip":"07830",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2015,
+        "name":"haytown at valley brook",
+        "addr":"73 east valley brook road",
+        "city":"long valley",
+        "zip":"07853",
+        "support":[
+          "program",
+          "address"
+        ],
+        "eligible":true
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_1MPETOHQgX3GH7o",
+    "status":"pending",
+    "program":"tender love and care daycare",
+    "address":"4021 atlantic ave",
+    "city":"atlantic city",
+    "zipcode":"08401",
+    "id":"T11385",
+    "njccid":"100006747",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_1EX00LJ20T2DlcK",
+    "status":"pending",
+    "program":"river crossing ymca",
+    "address":"144 west woodschurch road",
+    "city":"flemington",
+    "zipcode":"08822",
+    "id":"we have 21 licenses",
+    "njccid":"nan",
+    "candidates":[
+      {
+        "row":647,
+        "name":"hunterdon county ymca - union township school",
+        "addr":"149 perryville road",
+        "city":"hampton",
+        "zip":"08827",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":651,
+        "name":"hunterdon county ymca - franklin township school",
+        "addr":"226 quakertown road",
+        "city":"quakertown",
+        "zip":"08868",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":425,
+        "name":"ymca of bucks and hunterdon counties - round valley school",
+        "addr":"128 cokesbury road",
+        "city":"lebanon",
+        "zip":"08833",
+        "support":[
+          "address",
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":426,
+        "name":"ymca of bucks and hunterdon counties - patrick mcghehran school",
+        "addr":"63 allerton road",
+        "city":"lebanon",
+        "zip":"08833",
+        "support":[
+          "address",
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":939,
+        "name":"hunterdon county ymca - lebanon boro school",
+        "addr":"6 maple street",
+        "city":"lebanon",
+        "zip":"08833",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2893,
+        "name":"hunterdon county ymca",
+        "addr":"109 fairmount rd",
+        "city":"califon",
+        "zip":"07830",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2894,
+        "name":"hunterdon county ymca",
+        "addr":"50 court street",
+        "city":"flemington",
+        "zip":"08822",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2895,
+        "name":"hunterdon county ymca-conley after school program",
+        "addr":"940 iron bridge rd",
+        "city":"asbury",
+        "zip":"08802",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2896,
+        "name":"hunterdon county ymca before & after school program",
+        "addr":"holland brook school",
+        "city":"readington",
+        "zip":"08870",
+        "support":[
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2898,
+        "name":"hunterdon county ymca after school program",
+        "addr":"kingswood township school",
+        "city":"frenchtown",
+        "zip":"08825",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2899,
+        "name":"hunterdon county ymca before & after school",
+        "addr":"100 everitts road",
+        "city":"ringoes",
+        "zip":"08551",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2900,
+        "name":"hunterdon county ymca after school program",
+        "addr":"200 north main street",
+        "city":"lambertville",
+        "zip":"08530",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2901,
+        "name":"hunterdon co. ymca before\/after sch pro",
+        "addr":"three bridges school",
+        "city":"three bridges",
+        "zip":"08887",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2902,
+        "name":"hunterdon co. ymca before\/after sch prog",
+        "addr":"16 old clinton road",
+        "city":"flemington",
+        "zip":"08822",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2903,
+        "name":"hunterdon co. ymca before\/after sch prog",
+        "addr":"8 dayton rd",
+        "city":"flemington",
+        "zip":"08822",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":344,
+        "name":"ymca of bucks and hunterdon counties - spruce",
+        "addr":"27 belvidere ave",
+        "city":"clinton",
+        "zip":"08809",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2904,
+        "name":"hunterdon co. ymca before\/after sch prog",
+        "addr":"80 barley sheaf rd",
+        "city":"flemington",
+        "zip":"08822",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2906,
+        "name":"hunterdon co. ymca before\/after sch prog",
+        "addr":"whitehouse school",
+        "city":"whitehouse station",
+        "zip":"08889",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2907,
+        "name":"hunterdon county ymca before & after sch",
+        "addr":"710 milford - warren glen rd",
+        "city":"milford",
+        "zip":"08848",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2905,
+        "name":"hunterdon co. ymca before\/after school prog",
+        "addr":"43 wertsville rd",
+        "city":"ringoes",
+        "zip":"08551",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3305,
+        "name":"hunterdon county ymca delaware township school",
+        "addr":"501 rosemont ringoes road",
+        "city":"sergeantsville",
+        "zip":"08557",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_7CHhMtudAYx2Qyr",
+    "status":"proposed",
+    "program":"the ginger tree preschool of the arts",
+    "address":"1 school street",
+    "city":"glen gardner",
+    "zipcode":"08826",
+    "id":"10 COU002",
+    "njccid":"07030",
+    "candidates":[
+      {
+        "row":2916,
+        "name":"the ginger tree preschool of the arts",
+        "addr":"1 school street",
+        "city":"glen gardner",
+        "zip":"08826",
+        "support":[
+          "program",
+          "address",
+          "phone"
+        ],
+        "eligible":true
+      },
+      {
+        "row":1324,
+        "name":"wyckoff family ymca at old tappan",
+        "addr":"1 school street",
+        "city":"old tappan",
+        "zip":"07675",
+        "support":[
+          "address"
+        ],
+        "eligible":false
+      },
+      {
+        "row":340,
+        "name":"the ginger tree preschool too",
+        "addr":"432 nj-57",
+        "city":"washington",
+        "zip":"07882",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_6Dc8K3ZyZgnX7jj",
+    "status":"pending",
+    "program":"lightbridge academy",
+    "address":"295w grand ave",
+    "city":"montvale",
+    "zipcode":"07645",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+      {
+        "row":1024,
+        "name":"lightbridge academy",
+        "addr":"2 broad street",
+        "city":"summit",
+        "zip":"07901",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2496,
+        "name":"lightbridge academy",
+        "addr":"116 grand street",
+        "city":"iselin",
+        "zip":"08830",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2688,
+        "name":"lightbridge academy",
+        "addr":"20 kinderkamack road",
+        "city":"westwood",
+        "zip":"07675",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3907,
+        "name":"lightbridge academy",
+        "addr":"201 route 17 north",
+        "city":"rutherford",
+        "zip":"07070",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3338,
+        "name":"lightbridge academy",
+        "addr":"314 route 31 north",
+        "city":"flemington",
+        "zip":"08822",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":1036,
+        "name":"lightbridge academy",
+        "addr":"560 south avenue east",
+        "city":"cranford",
+        "zip":"07016",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2386,
+        "name":"lightbridge academy",
+        "addr":"1104 bloomfield avenue",
+        "city":"west caldwell",
+        "zip":"07006",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":1747,
+        "name":"lightbridge academy",
+        "addr":"2 executive drive",
+        "city":"fort lee",
+        "zip":"07024",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":852,
+        "name":"lightbridge academy",
+        "addr":"168 milltown road",
+        "city":"east brunswick",
+        "zip":"08816",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2037,
+        "name":"lightbridge academy",
+        "addr":"24 south jefferson road",
+        "city":"whippany",
+        "zip":"07981",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2967,
+        "name":"lightbridge academy",
+        "addr":"2319 route 34",
+        "city":"manasquan",
+        "zip":"08736",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2843,
+        "name":"lightbridge academy",
+        "addr":"22-50 maple ave",
+        "city":"fair lawn",
+        "zip":"07410",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3996,
+        "name":"lightbridge academy",
+        "addr":"51 island rd",
+        "city":"mahwah",
+        "zip":"07430",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      },
+      {
+        "row":2495,
+        "name":"lightbridge academy",
+        "addr":"458 amboy avenue",
+        "city":"woodbridge",
+        "zip":"07095",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_57nZIYxlRXu1gd3",
+    "status":"pending",
+    "program":"mosaic early learning",
+    "address":"100maple grove blvd.",
+    "city":"lumberton",
+    "zipcode":"08048",
+    "id":"03BCC0006",
+    "njccid":"8033887",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6FkWFC8CB12H0Zu",
+    "status":"pending",
+    "program":"mosaic early learning lumberton head start",
+    "address":"100 maple grove, blvd.",
+    "city":"lumberton",
+    "zipcode":"08054",
+    "id":"03BCC0006",
+    "njccid":"8033887",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_3OhkCIr9VgKzymZ",
+    "status":"pending",
+    "program":"mvca camp musconetcong",
+    "address":"rock spring park",
+    "city":"long valley",
+    "zipcode":"07853",
+    "id":"691020",
+    "njccid":"701680",
+    "candidates":[
+      {
+        "row":2050,
+        "name":"mvca old farmers school center",
+        "addr":"old farmers rd school",
+        "city":"long valley",
+        "zip":"07853",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":823,
+        "name":"mvca flocktown-kossmann school center",
+        "addr":"90 flocktown road",
+        "city":"long valley",
+        "zip":"07853",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_6vwdYXAVjLQZSFz",
+    "status":"pending",
+    "program":"atlanticare before & after school program",
+    "address":"601 n. fourth street",
+    "city":"hammonton",
+    "zipcode":"08037",
+    "id":"01HAMM0002",
+    "njccid":"nan",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_1pPraYrcOaMMGRQ",
+    "status":"pending",
+    "program":"ywca northern new jersey",
+    "address":"214",
+    "city":"hackensack",
+    "zipcode":"07601",
+    "id":"nan",
+    "njccid":"100131264",
+    "candidates":[
+      {
+        "row":3842,
+        "name":"ywcannj @honiss elementary school",
+        "addr":"25 depew street",
+        "city":"dumont",
+        "zip":"07628",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3843,
+        "name":"ywcannj @grant elementary school",
+        "addr":"100 grant avenue",
+        "city":"dumont",
+        "zip":"07628",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3844,
+        "name":"ywcannj @lincoln elementary school",
+        "addr":"80 prospect avenue",
+        "city":"dumont",
+        "zip":"07628",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3845,
+        "name":"ywcannj @selzer elementary school",
+        "addr":"435 prospect avenue",
+        "city":"dumont",
+        "zip":"07628",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3846,
+        "name":"ywcannj @oradell public school",
+        "addr":"350 prospect avenue",
+        "city":"oradell",
+        "zip":"07649",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":88,
+        "name":"ywcannj @ wandell school",
+        "addr":"97 east allendale road",
+        "city":"saddle river",
+        "zip":"07458",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":698,
+        "name":"ywcannj @harrington park",
+        "addr":"191 harriot avenue",
+        "city":"harrington park",
+        "zip":"07640",
+        "support":[
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_1fisae0DQ5AFeMJ",
+    "status":"pending",
+    "program":"holly city family center",
+    "address":"8 e. mulberry st.",
+    "city":"millville, nj",
+    "zipcode":"08332",
+    "id":"691925",
+    "njccid":"100154706",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6aY4fSA2ULS3ZwA",
+    "status":"pending",
+    "program":"duri homedaycare",
+    "address":"212 frankfort ave",
+    "city":"northvale",
+    "zipcode":"07647",
+    "id":"3233277",
+    "njccid":"100194319",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_7M650lKV9dVxMJA",
+    "status":"pending",
+    "program":"spartan care",
+    "address":"590 college blvd",
+    "city":"wenonah",
+    "zipcode":"08090",
+    "id":"10700064",
+    "njccid":"100038736",
+    "candidates":[
+      {
+        "row":1786,
+        "name":"spartan care - pine acres elementary school",
+        "addr":"720 purdue avenue",
+        "city":"wenonah",
+        "zip":"08090",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":1347,
+        "name":"spartan care - central school - deptford twp. boe",
+        "addr":"1040 monmouth rd",
+        "city":"deptford",
+        "zip":"08096",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":1787,
+        "name":"spartan care - oak valley elementary school",
+        "addr":"525 college boulevard",
+        "city":"wenonah",
+        "zip":"08090",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":1631,
+        "name":"spartan care - good intent (deptford twp boe)",
+        "addr":"1555 good intent road",
+        "city":"deptford",
+        "zip":"08096",
+        "support":[
+          "email"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_1C7StIDnbZbFnok",
+    "status":"pending",
+    "program":"little honors",
+    "address":"773 hamilton st",
+    "city":"somerset",
+    "zipcode":"08873",
+    "id":"129339",
+    "njccid":"100198699",
+    "candidates":[
+      {
+        "row":888,
+        "name":"little honors",
+        "addr":"510 hamilton street",
+        "city":"somerset",
+        "zip":"08873",
+        "support":[
+          "program",
+          "email"
+        ],
+        "eligible":false
+      },
+      {
+        "row":226,
+        "name":"little honors center site ii",
+        "addr":"773 hamilton street",
+        "city":"somerset",
+        "zip":"08873",
+        "support":[
+          "address"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_73qMGdDGJbcFbO1",
+    "status":"proposed",
+    "program":"tiny steps learning center",
+    "address":"186 union ave",
+    "city":"paterson",
+    "zipcode":"07502",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+      {
+        "row":2845,
+        "name":"tiny steps learning center llc",
+        "addr":"186 union avenue",
+        "city":"paterson",
+        "zip":"07502",
+        "support":[
+          "address",
+          "email",
+          "phone"
+        ],
+        "eligible":true
+      },
+      {
+        "row":1670,
+        "name":"tiny steps learning center",
+        "addr":"31 mcbride avenue",
+        "city":"paterson",
+        "zip":"07501",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_7yrAdQRbBcXio9g",
+    "status":"proposed",
+    "program":"the promissory montessori",
+    "address":"485 georges rd",
+    "city":"dayton",
+    "zipcode":"08810",
+    "id":"12MONOO14",
+    "njccid":"100084607",
+    "candidates":[
+      {
+        "row":2530,
+        "name":"the promissory montessori",
+        "addr":"485 georges road",
+        "city":"dayton",
+        "zip":"08810",
+        "support":[
+          "program",
+          "address",
+          "email"
+        ],
+        "eligible":true
+      },
+      {
+        "row":205,
+        "name":"the promissory montessori",
+        "addr":"45 cedar grove lane",
+        "city":"somerset",
+        "zip":"08873",
+        "support":[
+          "program",
+          "email",
+          "phone"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_1lAWldBbjPs0iHE",
+    "status":"pending",
+    "program":"little heroes childcare llc",
+    "address":"549 colgate ave",
+    "city":"perth amboy",
+    "zipcode":"08861",
+    "id":"FR122133",
+    "njccid":"100067769",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_2cyO1pr0yK1CCqt",
+    "status":"pending",
+    "program":"chamberlain university\/ philosophy",
+    "address":"150 golden street",
+    "city":"miami",
+    "zipcode":"33179",
+    "id":"12345678901",
+    "njccid":"00123456",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_3Q9FcErjdd4BEBM",
+    "status":"pending",
+    "program":"steam enrichment program",
+    "address":"480 chancellor ave",
+    "city":"irvington",
+    "zipcode":"07111",
+    "id":"694180",
+    "njccid":"809999",
+    "candidates":[
+      {
+        "row":81,
+        "name":"stem enrichment program",
+        "addr":"1261 liberty avenue",
+        "city":"hillside",
+        "zip":"07205",
+        "support":[
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":341,
+        "name":"stem enrichment program",
+        "addr":"1530 leslie street",
+        "city":"hillside",
+        "zip":"07205",
+        "support":[
+          "phone"
+        ],
+        "eligible":false
+      },
+      {
+        "row":447,
+        "name":"steam afterschool enrichment program",
+        "addr":"480 chancellor avenue",
+        "city":"irvington",
+        "zip":"07111",
+        "support":[
+          "address"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_3f1zjthi7vhMtgp",
+    "status":"pending",
+    "program":"angel face daycare",
+    "address":"13 hurden street",
+    "city":"hillside",
+    "zipcode":"07205",
+    "id":"Fcc127998",
+    "njccid":"100152311",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6Vj35vN9RN7m8FP",
+    "status":"pending",
+    "program":"lelis family child care",
+    "address":"532 hartford st",
+    "city":"perth amboy",
+    "zipcode":"08861",
+    "id":"FCC128115",
+    "njccid":"   100111695",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6YXNzzb0h1gfUWw",
+    "status":"pending",
+    "program":"little gems childcare",
+    "address":"225 purdue ave",
+    "city":"pemberton",
+    "zipcode":"08068",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_7CJx6QxJEpw49mc",
+    "status":"pending",
+    "program":"erika's family care",
+    "address":"385 kent st",
+    "city":"phillipsburg",
+    "zipcode":"08865",
+    "id":"FCC119958",
+    "njccid":"100056949",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_7st2Ja9V5F61t59",
+    "status":"pending",
+    "program":"janamis day care",
+    "address":"563 johnstone st",
+    "city":"perth amboy",
+    "zipcode":"08861",
+    "id":"123304",
+    "njccid":"809175",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_3nuTgOXCnllJRfz",
+    "status":"pending",
+    "program":"4 pioneers montessori",
+    "address":"23 newell st.",
+    "city":"hillsborough",
+    "zipcode":"08844",
+    "id":"FCC127183",
+    "njccid":"NJCCIS ID 100241353",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_10ejFmVgkqIzLfn",
+    "status":"pending",
+    "program":"davamaya day care",
+    "address":"40 sharon ave \\,house",
+    "city":"irvington",
+    "zipcode":"07111",
+    "id":"FCC128873",
+    "njccid":"nan",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_1CsHsGVSVSOGfpO",
+    "status":"pending",
+    "program":"childcare",
+    "address":"28a eatoncrest drive",
+    "city":"eatontown",
+    "zipcode":"07724",
+    "id":"FCC130934",
+    "njccid":"100079503",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6eQB7ted0LWTbnb",
+    "status":"pending",
+    "program":"care 4 kids",
+    "address":"159 hillside terr",
+    "city":"irvington",
+    "zipcode":"07111",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_1PhdSFjsNOGCfrP",
+    "status":"pending",
+    "program":"twinkle toes, family childcare",
+    "address":"105 lyons ave",
+    "city":"newark",
+    "zipcode":"07112",
+    "id":"FCC132046",
+    "njccid":"nan",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_5PzKVtaLL2D90GK",
+    "status":"pending",
+    "program":"god provides daycare",
+    "address":"2620 baird blvd",
+    "city":"camden",
+    "zipcode":"08105",
+    "id":"R043370",
+    "njccid":"100046235",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_7HXoFRNyigBvQ1w",
+    "status":"pending",
+    "program":"aura' family daycare",
+    "address":"352n n arlington ave",
+    "city":"east orange",
+    "zipcode":"07017",
+    "id":"FCC132404",
+    "njccid":"10018417",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_5oCMOwuGIEMFz1v",
+    "status":"pending",
+    "program":"norma reichel",
+    "address":"1007 west street",
+    "city":"union city",
+    "zipcode":"07087",
+    "id":"R095446",
+    "njccid":"100016613",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6sAs0oLmM582Kl3",
+    "status":"pending",
+    "program":"el jardin de los ni\u00f1os daycare",
+    "address":"1149 cambridge",
+    "city":"camden",
+    "zipcode":"08105",
+    "id":"R043335",
+    "njccid":"100024780",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_54GApteIKY8afoB",
+    "status":"pending",
+    "program":"we r the world hope child learning center",
+    "address":"314 langston st",
+    "city":"cape may court house",
+    "zipcode":"08210",
+    "id":"FCC120939",
+    "njccid":"100030759",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_7hxo8HgmkNIlGDd",
+    "status":"pending",
+    "program":"we care for kids",
+    "address":"65 courtland lane",
+    "city":"willingboro",
+    "zipcode":"08046",
+    "id":"nan",
+    "njccid":"100030912",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_3tnZ6eyFmK1vR6Z",
+    "status":"pending",
+    "program":"little ark explorers llc",
+    "address":"343 hawthorne ave flr 2",
+    "city":"newark",
+    "zipcode":"07112",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_1msIkIJvlwYCDqF",
+    "status":"pending",
+    "program":"little friends child care llc",
+    "address":"65 krakow street",
+    "city":"garfield",
+    "zipcode":"07026",
+    "id":"805655",
+    "njccid":"100-015-983",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_1FsJkJeRr0upeJH",
+    "status":"pending",
+    "program":"kiddies academy",
+    "address":"mccallum blvd,dallas,united states",
+    "city":"texas",
+    "zipcode":"75252",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_4F9v3nOAO9TLzvX",
+    "status":"pending",
+    "program":"1",
+    "address":"1",
+    "city":"1",
+    "zipcode":"1",
+    "id":"1",
+    "njccid":"1",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_7S81m69PmOEcasC",
+    "status":"pending",
+    "program":"sherene's babysitting fcc, llc",
+    "address":"447 alden street",
+    "city":"city of orange",
+    "zipcode":"07050",
+    "id":"R075490",
+    "njccid":"100031703",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_3fmSkBVOF45dTBD",
+    "status":"pending",
+    "program":"love me tender",
+    "address":"547 court st",
+    "city":"elizabethport",
+    "zipcode":"07206-1352",
+    "id":"R20-2259",
+    "njccid":"100001292",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_5D6GQHJVPJxQPex",
+    "status":"pending",
+    "program":"alicia ynoa",
+    "address":"253 clinton st",
+    "city":"woodbridge",
+    "zipcode":"07095",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_1MczD3YMawacEhz",
+    "status":"pending",
+    "program":"a child\u2019s experience ii",
+    "address":"316 palmer st",
+    "city":"elizabeth",
+    "zipcode":"07202",
+    "id":"Fcc120211",
+    "njccid":"100129258",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_3aSiIJv4h8rSbOp",
+    "status":"pending",
+    "program":"prestiges uh no i",
+    "address":"500 s spring st",
+    "city":"los angeles",
+    "zipcode":"90013",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_6dydg35qqSH6HfS",
+    "status":"pending",
+    "program":"denise's day center",
+    "address":"636 church st",
+    "city":"pleasantville",
+    "zipcode":"08232",
+    "id":"FCC121046",
+    "njccid":"100062026",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_29k9oY9Xbw0IlCV",
+    "status":"pending",
+    "program":"little stars learning center",
+    "address":"123 elm street, apt 4b",
+    "city":"san francisco",
+    "zipcode":"94107",
+    "id":"LIC-84920",
+    "njccid":"102938",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_1CUioviCflhhXna",
+    "status":"pending",
+    "program":"happy face child care",
+    "address":"99 garfield avenue",
+    "city":"lodi",
+    "zipcode":"07644",
+    "id":"R0221032",
+    "njccid":"100032626",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_1SjELPqb2WwZoco",
+    "status":"pending",
+    "program":"regina eze fcc",
+    "address":"28 wilson place,",
+    "city":"irvington",
+    "zipcode":"07111",
+    "id":"115243",
+    "njccid":"100060839",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_52wTewT5UDioLFa",
+    "status":"pending",
+    "program":"la casa de santa fcc llc",
+    "address":"161 south main st",
+    "city":"hackensack",
+    "zipcode":"07601-5359",
+    "id":"nan",
+    "njccid":"100023902",
+    "candidates":[
+
+    ]
+  },
+  {
+    "ResponseId":"R_1r0t9mwxx9PIaW7",
+    "status":"pending",
+    "program":"rainbows of learning",
+    "address":"2 pines rd.",
+    "city":"branchville",
+    "zipcode":"07822-2021",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+      {
+        "row":1974,
+        "name":"rainbows of learning inc.",
+        "addr":"2 pines road",
+        "city":"branchville",
+        "zip":"07826",
+        "support":[
+          "address"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3631,
+        "name":"rainbows of learning",
+        "addr":"118 rt. 206",
+        "city":"augusta",
+        "zip":"07822",
+        "support":[
+          "program"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_7viVuDXZ0VlZ8Hn",
+    "status":"proposed",
+    "program":"clinton hill community",
+    "address":"420 hawthorne ave",
+    "city":"newark",
+    "zipcode":"07112",
+    "id":"nan",
+    "njccid":"nan",
+    "candidates":[
+      {
+        "row":3417,
+        "name":"sarah ward nursery",
+        "addr":"406 sandford avenue",
+        "city":"newark",
+        "zip":"07106",
+        "support":[
+          "address"
+        ],
+        "eligible":false
+      },
+      {
+        "row":3589,
+        "name":"clinton hill community early childhood center",
+        "addr":"420 hawthorne avenue",
+        "city":"newark",
+        "zip":"07112",
+        "support":[
+          "address",
+          "phone"
+        ],
+        "eligible":true
+      },
+      {
+        "row":3415,
+        "name":"sarah ward nursery",
+        "addr":"105 lock street",
+        "city":"newark",
+        "zip":"07103",
+        "support":[
+          "phone"
+        ],
+        "eligible":false
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_1GhL7DIU3KimDPX",
+    "status":"ambiguous",
+    "program":"pioneer academy",
+    "address":"164 totowa road",
+    "city":"wayne",
+    "zipcode":"07470",
+    "id":"Exemption ID 174402",
+    "njccid":"100066051",
+    "candidates":[
+      {
+        "row":4124,
+        "name":"pioneer montessori",
+        "addr":"164 totowa road",
+        "city":"wayne",
+        "zip":"07470",
+        "support":[
+          "address",
+          "phone"
+        ],
+        "eligible":true
+      },
+      {
+        "row":4101,
+        "name":"pioneer montessori",
+        "addr":"164 totowa road",
+        "city":"wayne",
+        "zip":"07470",
+        "support":[
+          "address",
+          "email"
+        ],
+        "eligible":true
+      }
+    ]
+  },
+  {
+    "ResponseId":"R_77AdNhJeGaMy0yR",
+    "status":"pending",
+    "program":"divina tavera",
+    "address":"166",
+    "city":"parque elmwood",
+    "zipcode":"07407",
+    "id":"FCC132221",
+    "njccid":"100296296",
+    "candidates":[
+
+    ]
+  }
+]

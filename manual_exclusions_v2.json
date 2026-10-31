@@ -1,0 +1,42 @@
+{
+  "R_1ScN23lchcmuJjW": {
+    "evidence": "cfbf2ac60f8754e01682f317febd3cca5d2e5cdb184f3ef28fdcec934c2fa253",
+    "reason": "User requested exclusion after review: insufficient independent support or conflicting facility identity."
+  },
+  "R_7cdXlfGJGYeckOR": {
+    "evidence": "5c380f7b0139929a0e57b6a9305895ba05855cc8239ed2b4fbef0a38f70caa59",
+    "reason": "User requested exclusion after review: insufficient independent support or conflicting facility identity."
+  },
+  "R_7TzVHCNZEnPqPVX": {
+    "evidence": "45d80eaa3938e968679438b8d18d4c018c2ad38930c401ca653cc7ff3b373fdb",
+    "reason": "User requested exclusion after review: insufficient independent support or conflicting facility identity."
+  },
+  "R_6e4ySZotbkpn1ND": {
+    "evidence": "46d5c4e409c5ddd284d7dec6e225267b9eed6fca4a83a3c419bd05ab190cb0ae",
+    "reason": "User excluded after review: multiple qualifying facilities; no single facility selected."
+  },
+  "R_6asG8HxXDoIlctj": {
+    "evidence": "c273529cc9c9a981defed24c468170abc83ad3cbcb02436ebdb2eb0dadf1eb17",
+    "reason": "User excluded after review: multiple qualifying facilities; no single facility selected."
+  },
+  "R_7OvLRMSlnTHgkVe": {
+    "evidence": "0d279d7d0d8c7e38799dcd1e4454b8847453b18a00b78a6ec1d16298c086732d",
+    "reason": "User excluded after review: multiple qualifying facilities; no single facility selected."
+  },
+  "R_7M650lKV9dVxMJA": {
+    "evidence": "8d00a10ca353c2301950b619e3e21e4fb7207fdc2ae8e4a113b50ebf38818f66",
+    "reason": "User excluded after review: multiple qualifying facilities; no single facility selected."
+  },
+  "R_3Q9FcErjdd4BEBM": {
+    "evidence": "04be6fad399116c8ea2e060e16cb1483c7f2ea612f3fd73526970dfd21470f13",
+    "reason": "User excluded after review: multiple qualifying facilities; no single facility selected."
+  },
+  "R_5JLQ6ucOjgOXqIo": {
+    "evidence": "968f4de9e983befcb0761278c24ec780b1f506c03184b54ce61a907e2100a23f",
+    "reason": "User excluded after review: multiple qualifying facilities; no single facility selected."
+  },
+  "R_1GhL7DIU3KimDPX": {
+    "evidence": "6ad6f122a4ef5d7e244f6b0b151aac409638a2fdc09be1551ee243ecc4acb783",
+    "reason": "User excluded after review: multiple qualifying facilities; no single facility selected."
+  }
+}
